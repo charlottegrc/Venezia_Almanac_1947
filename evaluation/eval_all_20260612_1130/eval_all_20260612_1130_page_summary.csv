@@ -1,0 +1,565 @@
+Page,Runs Found,Rows Min,Rows Max,Row Variation,Schema OK,Prop Flag,Prop Note,Schema Drift,Has GT,Best F1,Best Char Acc,Failure Reasons,Missing,OCR Only Runs,Action
+page_510,0,0,0,0,✓,,,,,,,,✗,2,RERUN
+page_109,3,107,107,0,✗,,,Additional Info; Additional Info,,,,"SCHEMA_MISMATCH, COMPLEX_LAYOUT_WITH_ERRORS",,,CHECK SCHEMA
+page_332,3,43,44,1,✗,,,"Category, Profession; Category, Profession",,,,"SCHEMA_MISMATCH, COMPLEX_LAYOUT_WITH_ERRORS, AD_INTERFERENCE_WITH_ERRORS",,,CHECK SCHEMA
+page_36,3,30,31,1,✗,YES,4/30 rows (13%) have neither Address nor Location — check if propagation filled these,"Additional Info, Profession; Additional Info, Profession",✓,39.53,98.46,SCHEMA_MISMATCH,,,CHECK SCHEMA
+page_46,3,1,1,0,✗,,,,,,,"SCHEMA_MISMATCH, COMPLEX_LAYOUT_WITH_ERRORS",,,CHECK SCHEMA
+page_47,3,1,1,0,✗,,,,,,,"SCHEMA_MISMATCH, COMPLEX_LAYOUT_WITH_ERRORS",,,CHECK SCHEMA
+page_554,1,138,138,0,✗,YES,Provincia column missing entirely from this file,,,,,SCHEMA_MISMATCH,,3,CHECK SCHEMA
+page_38,3,20,20,0,✓,YES,20/20 rows (100%) have neither Address nor Location — check if propagation filled these,,,,,,,,CHECK PROPAGATION
+page_42,3,14,14,0,✓,YES,14/14 rows (100%) have neither Address nor Location — check if propagation filled these,,✓,67.69,96.3,,,,CHECK PROPAGATION
+page_43,3,37,37,0,✓,YES,37/37 rows (100%) have neither Address nor Location — check if propagation filled these,Additional Info,,,,,,,CHECK PROPAGATION
+page_44,3,47,62,15,✓,YES,45/62 rows (73%) have neither Address nor Location — check if propagation filled these,Additional Info; Additional Info,,,,,,,CHECK PROPAGATION
+page_48,3,26,35,9,✓,YES,3/26 rows (12%) have neither Address nor Location — check if propagation filled these,,,,,,,,CHECK PROPAGATION
+page_502,1,197,197,0,✓,YES,197/197 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_503,1,203,203,0,✓,YES,203/203 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_527,1,89,89,0,✓,YES,89/89 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_529,1,170,170,0,✓,YES,170/170 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_533,1,107,107,0,✓,YES,83/107 rows (78%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_534,1,68,68,0,✓,YES,64/68 rows (94%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_538,1,158,158,0,✓,YES,158/158 rows (100%) have empty Provincia field — every row should have a town name,,,,,OCR_FAILURE(runs:1),,1,CHECK PROPAGATION
+page_541,1,84,84,0,✓,YES,84/84 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_542,1,158,158,0,✓,YES,158/158 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_543,1,147,147,0,✓,YES,121/147 rows (82%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_546,1,125,125,0,✓,YES,101/125 rows (81%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_559,1,99,99,0,✓,YES,62/99 rows (63%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_563,1,137,137,0,✓,YES,137/137 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_59,3,36,46,10,✓,YES,11/46 rows (24%) have neither Address nor Location — check if propagation filled these,,,,,,,,CHECK PROPAGATION
+page_62,3,47,51,4,✓,YES,18/47 rows (38%) have neither Address nor Location — check if propagation filled these,Profession; Profession,,,,,,,CHECK PROPAGATION
+page_82,3,58,68,10,✓,YES,9/55 rows (16%) have neither Address nor Location — check if propagation filled these,,,,,,,,CHECK PROPAGATION
+page_97,3,76,85,9,✓,YES,21/76 rows (28%) have neither Address nor Location — check if propagation filled these,,,,,,,,CHECK PROPAGATION
+page_102,3,16,39,23,✓,,,,,,,,,,CHECK ROW COUNT
+page_124,3,28,41,13,✓,,,,,,,,,,CHECK ROW COUNT
+page_143,3,67,97,30,✓,,,,,,,,,,CHECK ROW COUNT
+page_15,4,0,91,91,✓,,,"Category, Page",,,,,,,CHECK ROW COUNT
+page_157,3,29,100,71,✓,,,,,,,,,,CHECK ROW COUNT
+page_16,4,1,37,36,✓,,,"Additional Info, Address, Category, Location, Name, Page, Profession, Role, page; Additional Info, Address, Category, Location, Name, Page, Profession, Role, page",,,,,,,CHECK ROW COUNT
+page_17,4,34,90,56,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page; Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,CHECK ROW COUNT
+page_174,3,9,99,90,✓,,,,,,,,,,CHECK ROW COUNT
+page_175,3,32,49,17,✓,,,,,,,,,,CHECK ROW COUNT
+page_18,4,6,87,81,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,CHECK ROW COUNT
+page_184,3,45,56,11,✓,,,,,,,,,,CHECK ROW COUNT
+page_19,4,0,67,67,✓,,,"Category, Page",,,,,,,CHECK ROW COUNT
+page_195,3,24,55,31,✓,,,,,,,,,,CHECK ROW COUNT
+page_200,3,19,35,16,✓,,,,,,,,,,CHECK ROW COUNT
+page_202,3,42,81,39,✓,,,,,,,,,,CHECK ROW COUNT
+page_209,3,16,51,35,✓,,,,,,,,,,CHECK ROW COUNT
+page_219,3,26,43,17,✓,,,,,,,,,,CHECK ROW COUNT
+page_221,3,26,65,39,✓,,,,,,,,,,CHECK ROW COUNT
+page_227,3,10,37,27,✓,,,,,,,,,,CHECK ROW COUNT
+page_236,3,51,63,12,✓,,,,,,,,,,CHECK ROW COUNT
+page_24,4,1,77,76,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page; Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,CHECK ROW COUNT
+page_241,3,22,104,82,✓,,,,,,,,,,CHECK ROW COUNT
+page_244,3,30,53,23,✓,,,,,,,,,,CHECK ROW COUNT
+page_248,3,43,102,59,✓,,,,,,,,,,CHECK ROW COUNT
+page_26,4,0,76,76,✓,,,"Category, Page",,,,,,,CHECK ROW COUNT
+page_261,3,56,85,29,✓,,,,,,,,,,CHECK ROW COUNT
+page_268,3,23,53,30,✓,,,,,,,,,,CHECK ROW COUNT
+page_269,3,53,71,18,✓,,,,,,,,,,CHECK ROW COUNT
+page_271,3,6,77,71,✓,,,,,,,,,,CHECK ROW COUNT
+page_272,3,48,64,16,✓,,,,,,,,,,CHECK ROW COUNT
+page_276,3,50,64,14,✓,,,,,,,,,,CHECK ROW COUNT
+page_28,4,0,70,70,✓,,,"Category, Page; Category, Page",,,,,,,CHECK ROW COUNT
+page_29,4,1,83,82,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page; Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,CHECK ROW COUNT
+page_292,3,32,44,12,✓,,,,,,,,,,CHECK ROW COUNT
+page_295,3,32,57,25,✓,,,,,,,,,,CHECK ROW COUNT
+page_301,3,19,41,22,✓,,,,,,,,,,CHECK ROW COUNT
+page_317,3,73,85,12,✓,,,,,,,,,,CHECK ROW COUNT
+page_32,4,1,111,110,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,CHECK ROW COUNT
+page_33,4,0,81,81,✓,,,"Category, Page",,,,,,,CHECK ROW COUNT
+page_34,4,0,100,100,✓,,,"Category, Page; Category, Page",,,,,,,CHECK ROW COUNT
+page_342,3,48,63,15,✓,,,,,,,,,,CHECK ROW COUNT
+page_35,4,0,60,60,✓,,,"Category, Page; Category, Page",,,,,,,CHECK ROW COUNT
+page_365,3,51,62,11,✓,,,,,,,,,,CHECK ROW COUNT
+page_370,3,43,64,21,✓,,,,,,,,,,CHECK ROW COUNT
+page_385,3,42,59,17,✓,,,,,,,,,,CHECK ROW COUNT
+page_413,3,40,56,16,✓,,,,,,,,,,CHECK ROW COUNT
+page_466,3,45,65,20,✓,,,,,,,,,,CHECK ROW COUNT
+page_469,3,46,63,17,✓,,,,,,,,,,CHECK ROW COUNT
+page_493,3,1,67,66,✓,,,Additional Info; Additional Info,,,,,,,CHECK ROW COUNT
+page_54,3,62,75,13,✓,,,Additional Info; Additional Info,,,,,,,CHECK ROW COUNT
+page_67,3,39,54,15,✓,,,,,,,,,,CHECK ROW COUNT
+page_70,3,8,81,73,✓,,,,,,,,,,CHECK ROW COUNT
+page_75,3,36,61,25,✓,,,Additional Info,,,,,,,CHECK ROW COUNT
+page_83,3,39,57,18,✓,,,Additional Info; Additional Info,,,,,,,CHECK ROW COUNT
+page_84,3,60,79,19,✓,,,Additional Info,,,,,,,CHECK ROW COUNT
+page_95,3,19,43,24,✓,,,Profession,,,,,,,CHECK ROW COUNT
+page_103,3,8,9,1,✓,,,Journal,✓,17.52,,,,,VERIFY GT
+page_151,3,40,43,3,✓,,,,✓,26.46,87.33,"OCR_FAILURE(runs:1,2,3)",,,VERIFY GT
+page_167,3,20,21,1,✓,,,,✓,50.47,97.63,,,,VERIFY GT
+page_45,3,42,42,0,✓,,,Additional Info; Additional Info,✓,51.39,95.1,,,,VERIFY GT
+page_87,3,54,57,3,✓,,,Profession; Profession,✓,25.0,97.04,,,,VERIFY GT
+page_12,3,0,1,1,✓,,,"Address, Category, Name, Notes, page",,,,AD_PAGE_LOW_OUTPUT,,,CHECK FAILURE
+page_13,2,1,1,0,✓,,,,,,,"AD_PAGE_LOW_OUTPUT, OCR_FAILURE(runs:1)",,,CHECK FAILURE
+page_130,1,2,2,0,✓,,,,,,,AD_PAGE_LOW_OUTPUT,,,CHECK FAILURE
+page_161,1,0,0,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_170,1,1,1,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_21,3,1,1,0,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_320,1,1,1,0,✓,,,,,,,AD_PAGE_LOW_OUTPUT,,,CHECK FAILURE
+page_331,3,1,2,1,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_338,3,61,61,0,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_343,3,67,68,1,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_367,1,69,69,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_381,3,67,68,1,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_383,1,73,73,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_399,3,72,72,0,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_40,3,1,1,0,✓,,,,,,,"OCR_FAILURE(runs:1,2,3)",,,CHECK FAILURE
+page_41,1,1,1,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_425,3,70,71,1,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_432,3,73,73,0,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_458,1,47,47,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_478,3,65,66,1,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_49,3,93,100,7,✓,,,,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_511,1,131,131,0,✓,,,,,,,OCR_FAILURE(runs:1),,2,CHECK FAILURE
+page_561,1,101,101,0,✓,,,,,,,OCR_FAILURE(runs:1),,3,CHECK FAILURE
+page_91,3,16,17,1,✓,,,Profession,,,,"OCR_FAILURE(runs:1,2,3)",,,CHECK FAILURE
+page_94,3,18,19,1,✓,,,Profession,,,,"OCR_FAILURE(runs:2,3)",,,CHECK FAILURE
+page_10,3,31,31,0,✓,,,,✓,90.91,79.15,,,,OK
+page_100,3,39,43,4,✓,,,Profession; Profession,,,,,,,OK
+page_101,3,54,55,1,✓,,,Political Party; Political Party,,,,,,,OK
+page_104,3,18,21,3,✓,,,"Journal, Journals; Journal, Journals",,,,,,,OK
+page_105,3,2,2,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_106,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_107,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_108,3,71,74,3,✓,,,,,,,,,,OK
+page_11,3,2,2,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_110,3,122,123,1,✓,,,,✓,67.56,96.52,,,,OK
+page_111,3,128,128,0,✓,,,,,,,,,,OK
+page_112,3,115,115,0,✓,,,,,,,,,,OK
+page_113,3,121,121,0,✓,,,,,,,,,,OK
+page_114,3,114,114,0,✓,,,,,,,,,,OK
+page_115,3,114,114,0,✓,,,,,,,,,,OK
+page_116,3,94,96,2,✓,,,,,,,,,,OK
+page_117,3,66,66,0,✓,,,,,,,,,,OK
+page_118,3,109,110,1,✓,,,,,,,,,,OK
+page_119,3,110,110,0,✓,,,,,,,,,,OK
+page_120,3,85,85,0,✓,,,,,,,,,,OK
+page_121,3,122,122,0,✓,,,,,,,,,,OK
+page_122,3,31,33,2,✓,,,,,,,,,,OK
+page_123,3,115,115,0,✓,,,,,,,,,,OK
+page_125,3,7,15,8,✓,,,,,,,,,,OK
+page_126,3,18,18,0,✓,,,Role; Role,,,,,,,OK
+page_127,3,27,32,5,✓,,,Role; Role,,,,,,,OK
+page_128,3,77,78,1,✓,,,Role,,,,,,,OK
+page_129,3,2,3,1,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_131,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_132,3,30,33,3,✓,,,,,,,,,,OK
+page_133,3,42,42,0,✓,,,,,,,,,,OK
+page_134,3,21,23,2,✓,,,,,,,,,,OK
+page_135,3,13,16,3,✓,,,,,,,,,,OK
+page_136,3,33,33,0,✓,,,,,,,,,,OK
+page_137,3,50,50,0,✓,,,,,,,,,,OK
+page_138,3,53,54,1,✓,,,,,,,,,,OK
+page_139,3,61,68,7,✓,,,,,,,,,,OK
+page_14,4,52,52,0,✓,,,"Additional Info, Address, Category, Location, Name, Page, Profession, Role, page",✓,78.01,78.36,,,,OK
+page_140,3,74,81,7,✓,,,,,,,,,,OK
+page_141,3,109,110,1,✓,,,,,,,,,,OK
+page_142,3,115,116,1,✓,,,,,,,,,,OK
+page_144,3,51,53,2,✓,,,,,,,,,,OK
+page_145,3,33,39,6,✓,,,,,,,,,,OK
+page_146,3,76,77,1,✓,,,,,,,,,,OK
+page_147,3,60,60,0,✓,,,,,,,,,,OK
+page_148,3,30,32,2,✓,,,,,,,,,,OK
+page_149,3,59,60,1,✓,,,,,,,,,,OK
+page_150,3,35,37,2,✓,,,,,,,,,,OK
+page_152,3,53,56,3,✓,,,,,,,,,,OK
+page_153,3,16,22,6,✓,,,,,,,,,,OK
+page_154,3,72,73,1,✓,,,,,,,,,,OK
+page_155,3,98,100,2,✓,,,,,,,,,,OK
+page_156,3,104,104,0,✓,,,,,,,,,,OK
+page_158,3,19,19,0,✓,,,,,,,,,,OK
+page_159,3,97,99,2,✓,,,,,,,,,,OK
+page_160,3,3,4,1,✓,,,,,,,,,,OK
+page_162,3,84,86,2,✓,,,,,,,,,,OK
+page_163,3,95,96,1,✓,,,,,,,,,,OK
+page_164,3,54,55,1,✓,,,,,,,,,,OK
+page_165,3,64,67,3,✓,,,,,,,,,,OK
+page_166,3,77,77,0,✓,,,,,,,,,,OK
+page_168,3,13,14,1,✓,,,,,,,,,,OK
+page_169,3,27,28,1,✓,,,,,,,,,,OK
+page_171,3,1,1,0,✓,,,,,,,,,,OK
+page_172,3,47,47,0,✓,,,,,,,,,,OK
+page_173,3,56,59,3,✓,,,,,,,,,,OK
+page_176,3,24,26,2,✓,,,,,,,,,,OK
+page_177,3,49,52,3,✓,,,,,,,,,,OK
+page_178,3,67,73,6,✓,,,,,,,,,,OK
+page_179,3,50,50,0,✓,,,,,,,,,,OK
+page_180,3,18,18,0,✓,,,,,,,,,,OK
+page_181,3,10,15,5,✓,,,,,,,,,,OK
+page_182,3,53,55,2,✓,,,,,,,,,,OK
+page_183,3,101,101,0,✓,,,,,,,,,,OK
+page_185,3,46,51,5,✓,,,,,,,,,,OK
+page_186,3,26,26,0,✓,,,,,,,,,,OK
+page_187,3,44,48,4,✓,,,,,,,,,,OK
+page_188,3,41,41,0,✓,,,,,,,,,,OK
+page_189,3,27,28,1,✓,,,,,,,,,,OK
+page_190,3,25,33,8,✓,,,,,,,,,,OK
+page_191,3,44,45,1,✓,,,,,,,,,,OK
+page_192,3,20,20,0,✓,,,,,,,,,,OK
+page_193,3,16,20,4,✓,,,,,,,,,,OK
+page_194,3,61,61,0,✓,,,,,,,,,,OK
+page_196,3,68,70,2,✓,,,,,,,,,,OK
+page_197,3,41,41,0,✓,,,,,,,,,,OK
+page_198,3,28,29,1,✓,,,,,,,,,,OK
+page_199,3,64,65,1,✓,,,,,,,,,,OK
+page_20,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_201,3,65,66,1,✓,,,,,,,,,,OK
+page_203,3,117,118,1,✓,,,,,,,,,,OK
+page_204,3,87,88,1,✓,,,,,,,,,,OK
+page_205,3,57,58,1,✓,,,,,,,,,,OK
+page_206,3,61,63,2,✓,,,,,,,,,,OK
+page_207,3,23,30,7,✓,,,,,,,,,,OK
+page_208,3,23,26,3,✓,,,,,,,,,,OK
+page_210,3,31,37,6,✓,,,,,,,,,,OK
+page_211,3,80,82,2,✓,,,,,,,,,,OK
+page_212,3,34,37,3,✓,,,,,,,,,,OK
+page_213,3,75,77,2,✓,,,,,,,,,,OK
+page_214,3,76,76,0,✓,,,,,,,,,,OK
+page_215,3,27,34,7,✓,,,,,,,,,,OK
+page_216,3,17,17,0,✓,,,,,,,,,,OK
+page_217,3,23,26,3,✓,,,,,,,,,,OK
+page_218,3,1,1,0,✓,,,,,,,,,,OK
+page_22,4,94,94,0,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,OK
+page_220,3,34,36,2,✓,,,,,,,,,,OK
+page_222,3,52,57,5,✓,,,,,,,,,,OK
+page_223,3,70,71,1,✓,,,,,,,,,,OK
+page_224,3,18,21,3,✓,,,,,,,,,,OK
+page_225,3,31,32,1,✓,,,,,,,,,,OK
+page_226,3,20,23,3,✓,,,,,,,,,,OK
+page_228,3,5,5,0,✓,,,,,,,,,,OK
+page_229,3,36,38,2,✓,,,,,,,,,,OK
+page_23,4,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_230,3,24,29,5,✓,,,,,,,,,,OK
+page_231,3,28,33,5,✓,,,,,,,,,,OK
+page_232,3,105,105,0,✓,,,,,,,,,,OK
+page_233,3,56,58,2,✓,,,,,,,,,,OK
+page_234,3,60,61,1,✓,,,,,,,,,,OK
+page_235,3,22,24,2,✓,,,,,,,,,,OK
+page_237,3,64,68,4,✓,,,,,,,,,,OK
+page_238,3,30,30,0,✓,,,,,,,,,,OK
+page_239,3,14,14,0,✓,,,,,,,,,,OK
+page_240,3,77,77,0,✓,,,,,,,,,,OK
+page_242,3,78,78,0,✓,,,,,,,,,,OK
+page_243,3,42,44,2,✓,,,,,,,,,,OK
+page_245,3,24,25,1,✓,,,,,,,,,,OK
+page_246,3,59,60,1,✓,,,,,,,,,,OK
+page_247,3,45,45,0,✓,,,,,,,,,,OK
+page_249,3,47,50,3,✓,,,,,,,,,,OK
+page_25,4,113,114,1,✓,,,"Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page; Additional Info, Address, Category, Journal, Location, Name, Page, Profession, Role, page",,,,,,,OK
+page_250,3,25,26,1,✓,,,,,,,,,,OK
+page_251,3,43,43,0,✓,,,,,,,,,,OK
+page_252,3,46,47,1,✓,,,,,,,,,,OK
+page_253,3,61,63,2,✓,,,,,,,,,,OK
+page_254,3,21,24,3,✓,,,,,,,,,,OK
+page_255,3,35,42,7,✓,,,,,,,,,,OK
+page_256,3,62,62,0,✓,,,,,,,,,,OK
+page_257,3,36,38,2,✓,,,,,,,,,,OK
+page_258,3,58,60,2,✓,,,,,,,,,,OK
+page_259,3,36,39,3,✓,,,,,,,,,,OK
+page_260,3,72,74,2,✓,,,,,,,,,,OK
+page_262,3,85,86,1,✓,,,,,,,,,,OK
+page_263,3,90,90,0,✓,,,,,,,,,,OK
+page_264,3,30,34,4,✓,,,,,,,,,,OK
+page_265,3,97,97,0,✓,,,,,,,,,,OK
+page_266,3,58,59,1,✓,,,,,,,,,,OK
+page_267,3,99,100,1,✓,,,,,,,,,,OK
+page_27,5,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_270,3,44,45,1,✓,,,,,,,,,,OK
+page_273,3,71,71,0,✓,,,,,,,,,,OK
+page_274,3,54,54,0,✓,,,,,,,,,,OK
+page_275,3,30,31,1,✓,,,,,,,,,,OK
+page_277,3,82,83,1,✓,,,,,,,,,,OK
+page_278,3,92,93,1,✓,,,,,,,,,,OK
+page_279,3,71,75,4,✓,,,,,,,,,,OK
+page_280,3,78,81,3,✓,,,,,,,,,,OK
+page_281,3,48,50,2,✓,,,,,,,,,,OK
+page_282,3,45,46,1,✓,,,,,,,,,,OK
+page_283,3,29,29,0,✓,,,,,,,,,,OK
+page_284,3,46,49,3,✓,,,,,,,,,,OK
+page_285,3,109,110,1,✓,,,,,,,,,,OK
+page_286,3,122,122,0,✓,,,,,,,,,,OK
+page_287,3,115,116,1,✓,,,,,,,,,,OK
+page_288,3,94,101,7,✓,,,,,,,,,,OK
+page_289,3,46,47,1,✓,,,,,,,,,,OK
+page_290,3,32,32,0,✓,,,,,,,,,,OK
+page_291,3,50,59,9,✓,,,,,,,,,,OK
+page_293,3,95,98,3,✓,,,,,,,,,,OK
+page_294,3,77,78,1,✓,,,,,,,,,,OK
+page_296,3,54,59,5,✓,,,,,,,,,,OK
+page_297,3,101,101,0,✓,,,,,,,,,,OK
+page_298,3,86,94,8,✓,,,,,,,,,,OK
+page_299,3,44,47,3,✓,,,,,,,,,,OK
+page_3,3,5,5,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_30,4,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_300,3,63,68,5,✓,,,,,,,,,,OK
+page_302,3,48,49,1,✓,,,,,,,,,,OK
+page_303,3,18,18,0,✓,,,,,,,,,,OK
+page_304,3,12,14,2,✓,,,,,,,,,,OK
+page_305,3,34,40,6,✓,,,,,,,,,,OK
+page_306,3,15,20,5,✓,,,,,,,,,,OK
+page_307,3,83,86,3,✓,,,,,,,,,,OK
+page_308,3,79,80,1,✓,,,,,,,,,,OK
+page_309,3,87,88,1,✓,,,,,,,,,,OK
+page_31,4,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_310,3,24,29,5,✓,,,,,,,,,,OK
+page_311,3,36,36,0,✓,,,,,,,,,,OK
+page_312,3,31,31,0,✓,,,,,,,,,,OK
+page_313,3,52,58,6,✓,,,,,,,,,,OK
+page_314,3,26,27,1,✓,,,,,,,,,,OK
+page_315,3,53,53,0,✓,,,,,,,,,,OK
+page_316,3,38,39,1,✓,,,,,,,,,,OK
+page_318,3,14,17,3,✓,,,,,,,,,,OK
+page_319,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_321,3,7,8,1,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_322,3,3,3,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_323,3,6,6,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_324,3,6,6,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_325,3,3,3,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_326,3,3,3,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_327,3,3,4,1,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_328,3,8,8,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_329,3,3,3,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_333,3,54,56,2,✓,,,,,,,,,,OK
+page_334,3,63,65,2,✓,,,"Profession, Role",,,,,,,OK
+page_335,3,64,66,2,✓,,,,,,,,,,OK
+page_336,3,66,70,4,✓,,,,,,,,,,OK
+page_337,3,56,56,0,✓,,,,,,,,,,OK
+page_339,3,66,68,2,✓,,,,,,,,,,OK
+page_340,3,13,14,1,✓,,,,,,,,,,OK
+page_344,3,70,70,0,✓,,,,,,,,,,OK
+page_345,3,71,71,0,✓,,,,,,,,,,OK
+page_346,3,69,70,1,✓,,,,,,,,,,OK
+page_347,3,71,72,1,✓,,,,,,,,,,OK
+page_348,3,0,1,1,✓,,,"Additional Info, Address, Category, Location, Name, Profession, Role, page; Additional Info, Address, Category, Location, Name, Profession, Role, page",,,,,,,OK
+page_350,3,73,74,1,✓,,,,,,,,,,OK
+page_351,3,72,75,3,✓,,,,,,,,,,OK
+page_352,3,64,65,1,✓,,,,,,,,,,OK
+page_353,3,72,72,0,✓,,,,,,,,,,OK
+page_354,3,66,69,3,✓,,,,,,,,,,OK
+page_355,3,69,69,0,✓,,,,,,,,,,OK
+page_356,3,68,69,1,✓,,,,,,,,,,OK
+page_357,3,56,62,6,✓,,,,,,,,,,OK
+page_358,3,76,76,0,✓,,,,,,,,,,OK
+page_359,3,61,61,0,✓,,,,,,,,,,OK
+page_360,3,68,68,0,✓,,,,,,,,,,OK
+page_361,3,66,66,0,✓,,,,,,,,,,OK
+page_362,3,64,64,0,✓,,,,,,,,,,OK
+page_363,3,68,69,1,✓,,,,,,,,,,OK
+page_364,3,63,63,0,✓,,,,,,,,,,OK
+page_366,3,71,72,1,✓,,,,,,,,,,OK
+page_368,3,74,76,2,✓,,,,,,,,,,OK
+page_369,3,72,72,0,✓,,,,,,,,,,OK
+page_37,3,29,36,7,✓,,,,,,,,,,OK
+page_371,3,67,69,2,✓,,,,,,,,,,OK
+page_372,3,55,59,4,✓,,,,,,,,,,OK
+page_373,1,59,59,0,✓,,,,,,,,,,OK
+page_374,3,61,63,2,✓,,,,,,,,,,OK
+page_375,3,68,68,0,✓,,,,,,,,,,OK
+page_376,3,64,64,0,✓,,,,,,,,,,OK
+page_377,3,65,66,1,✓,,,,,,,,,,OK
+page_378,3,69,69,0,✓,,,,,,,,,,OK
+page_379,3,75,75,0,✓,,,,,,,,,,OK
+page_380,3,68,68,0,✓,,,,,,,,,,OK
+page_382,3,74,74,0,✓,,,,,,,,,,OK
+page_384,3,66,66,0,✓,,,,,,,,,,OK
+page_386,3,66,67,1,✓,,,,,,,,,,OK
+page_387,3,55,57,2,✓,,,,,,,,,,OK
+page_388,3,70,71,1,✓,,,,,,,,,,OK
+page_389,3,66,72,6,✓,,,,,,,,,,OK
+page_39,3,24,24,0,✓,,,Additional Info,,,,,,,OK
+page_390,3,56,61,5,✓,,,,,,,,,,OK
+page_391,3,67,69,2,✓,,,,,,,,,,OK
+page_392,3,60,61,1,✓,,,,,,,,,,OK
+page_393,3,68,69,1,✓,,,,,,,,,,OK
+page_394,3,65,68,3,✓,,,,,,,,,,OK
+page_395,3,57,61,4,✓,,,,,,,,,,OK
+page_396,3,66,66,0,✓,,,,,,,,,,OK
+page_397,3,58,59,1,✓,,,,,,,,,,OK
+page_398,3,68,68,0,✓,,,,,,,,,,OK
+page_4,3,1,3,2,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_400,3,70,71,1,✓,,,,,,,,,,OK
+page_401,3,73,75,2,✓,,,,,,,,,,OK
+page_402,3,78,80,2,✓,,,,,,,,,,OK
+page_403,3,67,67,0,✓,,,,,,,,,,OK
+page_404,3,68,69,1,✓,,,,,,,,,,OK
+page_405,3,47,55,8,✓,,,,,,,,,,OK
+page_406,3,56,56,0,✓,,,,,,,,,,OK
+page_407,3,54,55,1,✓,,,,,,,,,,OK
+page_408,3,63,65,2,✓,,,,,,,,,,OK
+page_409,3,67,67,0,✓,,,,,,,,,,OK
+page_410,3,67,71,4,✓,,,,,,,,,,OK
+page_411,3,68,69,1,✓,,,,,,,,,,OK
+page_412,3,69,69,0,✓,,,,,,,,,,OK
+page_414,3,70,73,3,✓,,,,,,,,,,OK
+page_415,3,64,69,5,✓,,,,,,,,,,OK
+page_416,3,74,75,1,✓,,,,,,,,,,OK
+page_417,3,71,71,0,✓,,,,,,,,,,OK
+page_418,3,69,69,0,✓,,,,,,,,,,OK
+page_419,3,65,65,0,✓,,,,,,,,,,OK
+page_420,3,62,64,2,✓,,,,,,,,,,OK
+page_421,3,62,62,0,✓,,,,,,,,,,OK
+page_422,3,66,66,0,✓,,,,,,,,,,OK
+page_423,3,66,67,1,✓,,,,,,,,,,OK
+page_424,3,56,58,2,✓,,,,,,,,,,OK
+page_426,3,68,68,0,✓,,,,,,,,,,OK
+page_427,3,58,64,6,✓,,,,,,,,,,OK
+page_428,3,53,62,9,✓,,,,,,,,,,OK
+page_429,3,71,74,3,✓,,,,,,,,,,OK
+page_430,3,67,67,0,✓,,,,,,,,,,OK
+page_431,3,64,64,0,✓,,,,,,,,,,OK
+page_433,3,66,66,0,✓,,,,,,,,,,OK
+page_434,3,68,70,2,✓,,,,,,,,,,OK
+page_435,3,74,75,1,✓,,,,,,,,,,OK
+page_436,3,66,66,0,✓,,,,,,,,,,OK
+page_437,3,66,68,2,✓,,,,,,,,,,OK
+page_438,3,73,73,0,✓,,,,,,,,,,OK
+page_439,3,73,73,0,✓,,,,,,,,,,OK
+page_440,3,60,62,2,✓,,,,,,,,,,OK
+page_441,3,56,56,0,✓,,,,,,,,,,OK
+page_442,3,62,65,3,✓,,,,,,,,,,OK
+page_443,3,61,61,0,✓,,,,,,,,,,OK
+page_444,3,63,63,0,✓,,,,,,,,,,OK
+page_445,3,74,76,2,✓,,,,,,,,,,OK
+page_446,3,69,69,0,✓,,,,,,,,,,OK
+page_447,3,71,71,0,✓,,,,,,,,,,OK
+page_448,3,53,60,7,✓,,,,,,,,,,OK
+page_449,3,58,58,0,✓,,,,,,,,,,OK
+page_450,3,65,65,0,✓,,,,,,,,,,OK
+page_451,3,74,75,1,✓,,,,,,,,,,OK
+page_452,3,65,65,0,✓,,,,,,,,,,OK
+page_453,3,71,72,1,✓,,,,,,,,,,OK
+page_454,3,60,61,1,✓,,,,,,,,,,OK
+page_455,3,72,72,0,✓,,,,,,,,,,OK
+page_456,3,65,65,0,✓,,,,,,,,,,OK
+page_457,3,59,59,0,✓,,,,,,,,,,OK
+page_459,3,52,52,0,✓,,,,,,,,,,OK
+page_460,3,49,50,1,✓,,,,,,,,,,OK
+page_461,3,52,53,1,✓,,,,,,,,,,OK
+page_462,3,51,54,3,✓,,,,,,,,,,OK
+page_463,3,58,62,4,✓,,,,,,,,,,OK
+page_464,3,46,47,1,✓,,,,,,,,,,OK
+page_465,3,50,50,0,✓,,,,,,,,,,OK
+page_467,1,62,62,0,✓,,,,,,,,,1,OK
+page_468,3,57,58,1,✓,,,,,,,,,,OK
+page_470,3,68,69,1,✓,,,,,,,,,,OK
+page_471,3,71,72,1,✓,,,,,,,,,,OK
+page_472,3,67,68,1,✓,,,,,,,,,,OK
+page_473,3,75,76,1,✓,,,,,,,,,,OK
+page_474,3,67,68,1,✓,,,,,,,,,,OK
+page_475,3,60,63,3,✓,,,,,,,,,,OK
+page_476,3,65,66,1,✓,,,,,,,,,,OK
+page_477,3,60,60,0,✓,,,,,,,,,,OK
+page_479,3,64,66,2,✓,,,,,,,,,,OK
+page_480,3,73,74,1,✓,,,,,,,,,,OK
+page_481,3,73,73,0,✓,,,,,,,,,,OK
+page_482,3,67,70,3,✓,,,,,,,,,,OK
+page_483,3,64,64,0,✓,,,,,,,,,,OK
+page_484,3,67,68,1,✓,,,,,,,,,,OK
+page_485,3,67,69,2,✓,,,,,,,,,,OK
+page_486,3,72,73,1,✓,,,,,,,,,,OK
+page_487,3,66,67,1,✓,,,,,,,,,,OK
+page_488,3,1,1,0,✓,,,,,,,,,,OK
+page_489,3,0,8,8,✓,,,"Additional Info, Address, Category, Location, Name, Profession, Role, page",,,,,,,OK
+page_491,3,64,65,1,✓,,,,,,,,,,OK
+page_492,3,91,91,0,✓,,,Additional Info; Additional Info,,,,,,,OK
+page_494,1,82,82,0,✓,,,,,,,,,3,OK
+page_495,1,117,117,0,✓,,,,,,,,,3,OK
+page_496,1,139,139,0,✓,,,,,,,,,3,OK
+page_497,1,102,102,0,✓,,,,,,,,,3,OK
+page_498,1,17,17,0,✓,,,,,,,,,3,OK
+page_499,1,117,117,0,✓,,,,,,,,,3,OK
+page_5,3,1,3,2,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_50,3,71,78,7,✓,,,,,,,,,,OK
+page_500,1,60,60,0,✓,,,,,,,,,3,OK
+page_501,1,45,45,0,✓,,,,,,,,,3,OK
+page_504,1,137,137,0,✓,,,,,,,,,3,OK
+page_505,1,103,103,0,✓,,,,,,,,,3,OK
+page_506,1,112,112,0,✓,,,,,,,,,3,OK
+page_507,1,52,52,0,✓,,,,,,,,,3,OK
+page_508,1,55,55,0,✓,,,,,,,,,3,OK
+page_509,1,137,137,0,✓,,,,,,,,,3,OK
+page_51,3,26,34,8,✓,,,,,,,,,,OK
+page_512,1,98,98,0,✓,,,,,,,,,3,OK
+page_513,1,51,51,0,✓,,,,,,,,,3,OK
+page_514,1,136,136,0,✓,,,,,,,,,3,OK
+page_515,1,26,26,0,✓,,,,,,,,,3,OK
+page_516,1,114,114,0,✓,,,,,,,,,3,OK
+page_517,1,142,142,0,✓,,,,,,,,,3,OK
+page_518,1,122,122,0,✓,,,,,,,,,3,OK
+page_519,1,131,131,0,✓,,,,,,,,,3,OK
+page_52,3,72,75,3,✓,,,Additional Info,,,,,,,OK
+page_520,1,149,149,0,✓,,,,,,,,,3,OK
+page_521,1,126,126,0,✓,,,,,,,,,3,OK
+page_522,1,97,97,0,✓,,,,,,,,,3,OK
+page_523,1,166,166,0,✓,,,,,,,,,3,OK
+page_524,1,120,120,0,✓,,,,,,,,,3,OK
+page_525,1,82,82,0,✓,,,,,,,,,3,OK
+page_526,1,123,123,0,✓,,,,,,,,,3,OK
+page_528,1,98,98,0,✓,,,,,,,,,3,OK
+page_53,3,46,46,0,✓,,,Additional Info,,,,,,,OK
+page_530,1,92,92,0,✓,,,,,,,,,3,OK
+page_531,1,13,13,0,✓,,,,,,,,,3,OK
+page_532,1,73,73,0,✓,,,,,,,,,3,OK
+page_535,1,193,193,0,✓,,,,,,,,,3,OK
+page_536,1,140,140,0,✓,,,,,,,,,3,OK
+page_537,1,140,140,0,✓,,,,,,,,,3,OK
+page_539,1,100,100,0,✓,,,,,,,,,3,OK
+page_540,1,111,111,0,✓,,,,,,,,,1,OK
+page_544,1,138,138,0,✓,,,,,,,,,3,OK
+page_545,1,98,98,0,✓,,,,,,,,,3,OK
+page_547,1,79,79,0,✓,,,,,,,,,3,OK
+page_548,1,124,124,0,✓,,,,,,,,,3,OK
+page_549,1,57,57,0,✓,,,,,,,,,3,OK
+page_55,3,74,77,3,✓,,,Additional Info; Additional Info,,,,,,,OK
+page_550,1,146,146,0,✓,,,,,,,,,1,OK
+page_551,1,38,38,0,✓,,,,,,,,,3,OK
+page_552,1,31,31,0,✓,,,,,,,,,3,OK
+page_553,1,105,105,0,✓,,,,,,,,,3,OK
+page_555,1,138,138,0,✓,,,,,,,,,3,OK
+page_556,1,97,97,0,✓,,,,,,,,,3,OK
+page_557,1,101,101,0,✓,,,,,,,,,3,OK
+page_558,1,24,24,0,✓,,,,,,,,,3,OK
+page_56,3,44,53,9,✓,,,,,,,,,,OK
+page_560,1,183,183,0,✓,,,,,,,,,3,OK
+page_562,1,59,59,0,✓,,,,,,,,,3,OK
+page_564,1,85,85,0,✓,,,,,,,,,3,OK
+page_565,1,101,101,0,✓,,,,,,,,,3,OK
+page_566,1,149,149,0,✓,,,,,,,,,3,OK
+page_567,1,77,77,0,✓,,,,,,,,,3,OK
+page_568,1,100,100,0,✓,,,,,,,,,3,OK
+page_569,1,94,94,0,✓,,,,,,,,,3,OK
+page_57,3,28,28,0,✓,,,,,,,,,,OK
+page_570,1,83,83,0,✓,,,,,,,,,3,OK
+page_572,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_573,3,1,1,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_574,3,1,3,2,✓,,,"Additional Info, Notes; Additional Info, Notes",,,,FULL_AD_PAGE,,,OK
+page_575,3,3,3,0,✓,,,,,,,FULL_AD_PAGE,,,OK
+page_58,3,29,33,4,✓,,,Profession; Profession,✓,95.6,96.96,,,,OK
+page_60,3,28,34,6,✓,,,Profession,✓,95.42,24.41,,,,OK
+page_61,3,45,48,3,✓,,,Additional Info,,,,,,,OK
+page_63,3,63,64,1,✓,,,Additional Info; Additional Info,✓,98.28,91.81,,,,OK
+page_64,3,25,32,7,✓,,,,,,,,,,OK
+page_65,3,46,46,0,✓,,,Additional Info,,,,,,,OK
+page_66,3,58,58,0,✓,,,Additional Info; Additional Info,,,,,,,OK
+page_68,3,31,31,0,✓,,,,,,,,,,OK
+page_69,3,49,49,0,✓,,,,,,,,,,OK
+page_71,3,36,42,6,✓,,,,,,,,,,OK
+page_72,3,56,56,0,✓,,,,,,,,,,OK
+page_73,3,65,70,5,✓,,,Additional Info; Additional Info,,,,,,,OK
+page_74,3,60,61,1,✓,,,Additional Info,,,,,,,OK
+page_76,3,55,65,10,✓,,,Additional Info; Additional Info,,,,,,,OK
+page_77,3,27,27,0,✓,,,,,,,,,,OK
+page_78,3,17,25,8,✓,,,,,,,,,,OK
+page_79,3,47,48,1,✓,,,,,,,,,,OK
+page_80,3,45,50,5,✓,,,,,,,,,,OK
+page_81,3,26,26,0,✓,,,Additional Info,,,,,,,OK
+page_85,3,28,31,3,✓,,,Additional Info,,,,,,,OK
+page_86,3,60,61,1,✓,,,,✓,99.5,98.18,,,,OK
+page_88,3,23,23,0,✓,,,Profession,,,,,,,OK
+page_89,3,20,20,0,✓,,,Profession,,,,,,,OK
+page_90,3,19,21,2,✓,,,Profession,,,,,,,OK
+page_92,3,23,23,0,✓,,,Profession; Profession,,,,,,,OK
+page_93,3,16,16,0,✓,,,Profession; Profession,,,,,,,OK
+page_96,3,22,23,1,✓,,,Profession; Profession,,,,,,,OK
+page_98,3,45,53,8,✓,,,Additional Info,,,,,,,OK
+page_99,3,36,37,1,✓,,,,,,,,,,OK

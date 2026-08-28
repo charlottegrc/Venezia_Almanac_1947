@@ -1,0 +1,1091 @@
+profession,frequency,cluster_id,category_name,likely_ad_propagation
+parroco S. Maria del Rosario (Gesuitati),167,0,Religious & civic institutions,True
+Commissariato di S. Elena,52,0,Government offices / State administration,False
+Giovanni e Paolo,37,0,Religious & civic institutions,True
+BASILICA PATRIARCALE PRIMARIZIALE METROPOLITANA DI S. MARCO EVANGELISTA,24,0,Religious & civic institutions,False
+Torcello,7,0,Address fragments / non-profession,False
+" S. Giovanni Laterano, , ",2,0,Religious & civic institutions,False
+Biblioteca Marciana,1,0,Civic associations & clubs,False
+ Santa Croce (IV),1,0,Religious & civic institutions,False
+Rio del Pontelungo,1,0,Address fragments / non-profession,False
+Riva del Carbon,1,0,Address fragments / non-profession,False
+S. Angelo,1,0,Religious & civic institutions,False
+Via Torre Belfredo,1,0,Address fragments / non-profession,False
+ Silvestro,1,0,Religious & civic institutions,False
+"Asilo e Morioni n. S. Francesco della Vigna, numero 2951",1,0,Address fragments / non-profession,False
+" anche per Giudecca, , ",1,0,Religious & civic institutions,False
+" anche per S. Polo, , ",1,0,Religious & civic institutions,False
+Osp. Marino,1,0,Medical professions,False
+"Carpenedo, Mestre",1,0,Address fragments / non-profession,False
+ Città Giardino,1,0,Religious & civic institutions,False
+Divisione S. Lucia,1,0,Religious & civic institutions,False
+ Pietto in Volta,1,0,Religious & civic institutions,False
+S. Marziale,1,0,Religious & civic institutions,False
+ Viale Stazione presso Autostimesa Standa,1,0,Religious & civic institutions,False
+Succ: Fratelli Scarpa,1,0,Religious & civic institutions,False
+Colonia Alpina S. Marco,1,0,Religious & civic institutions,False
+ al Pingrosso,1,0,Religious & civic institutions,False
+S. Filippo e Giacomo,1,0,Religious & civic institutions,False
+ Parigi,1,0,Religious & civic institutions,False
+S. Maria del Carmelo,1,0,Religious & civic institutions,False
+SS. Pietro e Caterina,1,0,Religious & civic institutions,False
+Rialto 1364,1,0,Religious & civic institutions,False
+Via Velarino,1,0,Religious & civic institutions,False
+Santa Maria Formosa 4778,1,0,Religious & civic institutions,False
+Punta Sabbioni,1,0,Religious & civic institutions,False
+piazza 22 Marzo,1,0,Religious & civic institutions,False
+S. Trovaso. Palazzo Giustiniani,1,0,Religious & civic institutions,False
+S. Marco,1,0,Religious & civic institutions,False
+"Lido, Via Malamocco 38",1,0,Religious & civic institutions,False
+Palazzo Bonambo,1,0,Religious & civic institutions,False
+Viale S. M. Elisabetta,1,0,Religious & civic institutions,False
+Rialto 198,1,0,Religious & civic institutions,False
+Commissariato S. Polo e Santi Croce,1,0,Religious & civic institutions,False
+ved. di Zanco Attilio fu Sebastiano,1,0,Religious & civic institutions,False
+Galleria gG. Franchetti alla Ca D’Oro,1,0,Religious & civic institutions,False
+Castello (II),1,0,Religious & civic institutions,False
+" Ponte delle Maravegie,  Sezione di Lido,  Via Malamocco, , ",1,0,Religious & civic institutions,False
+" Rio Terra S. Giuseppe di Castello, , ",1,0,Religious & civic institutions,False
+Domenicani,1,0,Religious & civic institutions,False
+gestione Magnarin Giuseppe,1,0,Religious & civic institutions,False
+Ponte della Canonica,1,0,Religious & civic institutions,False
+"Pres, Arciconfratermita di San Cristoforo e Compagnia della Misericordia",1,0,Religious & civic institutions,False
+"Marghera, Via Fratelli Bandiere",1,0,Religious & civic institutions,False
+Commissariato di S. Marco,1,0,Religious & civic institutions,False
+Commissariato di S. Polo e S. Croce,1,0,Religious & civic institutions,False
+San Lio,1,0,Religious & civic institutions,False
+Ispettore Capo,5,1,'Capo' titles (mixed domains),False
+Ispett. Capo,3,1,'Capo' titles (mixed domains),False
+Comm. Capo,2,1,'Capo' titles (mixed domains),False
+Ragionieri capi sezione,2,1,Legal & accounting,False
+Capitano di P.S. in S.P.E.,2,1,'Capo' titles (mixed domains),False
+" Capo Ufficio, ",1,1,'Capo' titles (mixed domains),False
+Ragioniere Capo,1,1,'Capo' titles (mixed domains),False
+Vice rag. capo,1,1,'Capo' titles (mixed domains),False
+Capo uff. Tecnico,1,1,'Capo' titles (mixed domains),False
+Capo uff. Agrario,1,1,'Capo' titles (mixed domains),False
+Cancellista capo,1,1,'Capo' titles (mixed domains),False
+Capo Stazione l. A. Agg.,1,1,'Capo' titles (mixed domains),False
+Capo Divisione prima,1,1,'Capo' titles (mixed domains),False
+capitano,1,1,'Capo' titles (mixed domains),False
+Segret. Capo Sez. Amministrativa,1,1,'Capo' titles (mixed domains),False
+Capitano,1,1,'Capo' titles (mixed domains),False
+Capo Uff.,1,1,'Capo' titles (mixed domains),False
+Capo uff. Amministr.,1,1,'Capo' titles (mixed domains),False
+Ispet. Capo Amm. Imposte Consumo del Comune,1,1,'Capo' titles (mixed domains),False
+cappelleria,1,1,'Capo' titles (mixed domains),False
+Capo Tecnico,1,1,'Capo' titles (mixed domains),False
+Cap.,1,1,'Capo' titles (mixed domains),False
+Capo Stazione,1,1,'Capo' titles (mixed domains),False
+S. Capu di Stato Magg.,1,1,'Capo' titles (mixed domains),False
+Capo Uff. Stampa e Propag.,1,1,'Capo' titles (mixed domains),False
+Cav. Uff.,1,1,'Capo' titles (mixed domains),False
+Capo Divisione,1,1,'Capo' titles (mixed domains),False
+Cappellano,1,1,'Capo' titles (mixed domains),False
+" Procuratore Capo, ",1,1,'Capo' titles (mixed domains),False
+ag. capo Stazione Marittima,1,1,'Capo' titles (mixed domains),False
+Comandante del Porto Capitano uffi Porto,1,1,'Capo' titles (mixed domains),False
+Capo di Gruppo o Categoria,1,1,'Capo' titles (mixed domains),False
+vice direttore,13,2,Administration & directorship,True
+Comitato esecutivo,8,2,Administration & directorship,False
+Consiglio Direttivo,8,2,Administration & directorship,False
+Direttore,6,2,Administration & directorship,False
+Condirettore,2,2,Administration & directorship,False
+Vice Direttore,2,2,Administration & directorship,False
+Direttore Regionale,1,2,Administration & directorship,False
+Segretario Regionale,1,2,Administration & directorship,False
+Direttore onor.,1,2,Administration & directorship,False
+Segretario Direttore generale,1,2,Administration & directorship,False
+Vice Segret. Direttore Generale,1,2,Administration & directorship,False
+Vice tesoriere,1,2,Administration & directorship,False
+"Direttore amministrativo, ",1,2,Administration & directorship,False
+"Direttore sanitario,",1,2,Administration & directorship,False
+Segretario Tesoriere,1,2,Administration & directorship,False
+condirettore,1,2,Administration & directorship,False
+Segretario (gruppo viaggiatori),1,2,Administration & directorship,False
+Comm. Agg. dirigente,1,2,Administration & directorship,False
+Direttore Consorzio Agrario Cooperativo,1,2,Administration & directorship,False
+Vice comm. Agg. dirigente Commissariato di,1,2,Administration & directorship,False
+Vice Direttore Banca di Roma,1,2,Administration & directorship,False
+Direttore Gener.,1,2,Administration & directorship,False
+Director,1,2,Administration & directorship,False
+Segretario della (FIDAL),1,2,Administration & directorship,False
+Direzione Lotto,1,2,Administration & directorship,False
+ Direzione S. Lucis,1,2,Administration & directorship,False
+Diret. agt.,1,2,Administration & directorship,False
+Vice Direttore Manifattura Tabacchi,1,2,Administration & directorship,False
+V. Direttore del A. C.N.I.L.,1,2,Administration & directorship,False
+Direttore aggiunto Banca di Napoli,1,2,Administration & directorship,False
+Dirigente di aziende,1,2,Administration & directorship,False
+"Direttto: Prof. dr. ing.,",1,2,Administration & directorship,False
+"Primo Ragioniere con funzioni di Direttore Amministrativo, ",1,2,Administration & directorship,False
+Direttore dell’Osservatorio,1,2,Administration & directorship,False
+ Direttore,1,2,Administration & directorship,False
+Mdico-Direttore,1,2,Administration & directorship,False
+Presidente del Casinò di Commercio,1,2,Administration & directorship,False
+"Direttore, ",1,2,Administration & directorship,False
+Personale degli Uffici - Segreteria della Sezione di Economia e Commercio,4,3,Economic administration (academic),False
+"CAMERA DI COMMERCIO,  INDUSTRIA ED AGRICOLTURA",4,3,Provincial and state institutions,False
+Economo,3,3,Administration & directorship,False
+Geografia economica,3,3,Economic administration (academic),False
+Economia politica,3,3,Economic administration (academic),False
+CASINO DI COMMERCIO,3,3,Civic associations & clubs,False
+commercialista,2,3,Legal & accounting,False
+Politica economica e finanziaria,2,3,Economic administration (academic),False
+importazioni ed esportazioni varie,1,3,General goods trade,False
+Economo Provinciale,1,3,Administration & directorship,False
+Ass. Commercianti,1,3,Economic administration (academic),False
+commercio,1,3,General goods trade,False
+ importazioni ed esportazioni varie,1,3,Economic administration (academic),False
+Uff. Prov. Statistica Economica Agricola,1,3,Economic administration (academic),False
+economo,1,3,Administration & directorship,False
+Economato,1,3,Economic administration (academic),False
+Storia economica,1,3,Economic administration (academic),False
+Tecnica industriale e commerciale,1,3,Economic administration (academic),False
+Economie e politica agraria,1,3,Economic administration (academic),False
+Tecnica del commercio internazionale,1,3,Economic administration (academic),False
+Tecnica bancaria e professionale,1,3,Economic administration (academic),False
+Merceologia,1,3,Economic administration (academic),False
+Statistica economica,1,3,Economic administration (academic),False
+Storia economica (incar.),1,3,Economic administration (academic),False
+Merceologia (id.),1,3,Economic administration (academic),False
+Economia politica (id.),1,3,Economic administration (academic),False
+Storia delle dottrine economiche,1,3,Economic administration (academic),False
+Tecnica commerciale e bancaria,1,3,Economic administration (academic),False
+"Ragioneria generale applicata, Economia aziendale",1,3,Economic administration (academic),False
+Laboratorio di Merceologia e Museo merceologico,1,3,Economic administration (academic),False
+Laboratorio di Geografia economica,1,3,Economic administration (academic),False
+Laboratorio di Economia politica — Francesco Ferrera,1,3,Economic administration (academic),False
+Laboratorio di Politica economica e finanziari,1,3,Economic administration (academic),False
+Segretario-Economo,1,3,Economic administration (academic),False
+Esportazioni,1,3,Economic administration (academic),False
+ISTITUTO NAZIONALE PER IL COMMERCIO ESTERO,1,3,Economic administration (academic),False
+segretario Istituto Univers. di Economia e Commercio,1,3,Economic administration (academic),False
+Costruzioni edili,9,4,Visual and decorative arts,False
+scultore,8,4,Visual and decorative arts,False
+"di Elementi di architettura e rilievo dei monumenti, ",2,4,Visual and decorative arts,False
+Scultore,1,4,Visual and decorative arts,False
+architetto,1,4,Visual and decorative arts,False
+"di Scienza delle costruzioni, ",1,4,Visual and decorative arts,False
+"per Tecnologia dei materiali e tecnica delle costruzioni, ",1,4,Visual and decorative arts,False
+"per Caratteri stilistici e costruttivi dei monumenti, ",1,4,Visual and decorative arts,False
+"per Storia dell'arte e storia e stili dell'arch., ",1,4,Visual and decorative arts,False
+"per Architettura degli interni, arredamento e decorazione, ",1,4,Visual and decorative arts,False
+"per Applicazioni di geometria descrittiva, Elementi di composizione, ",1,4,Visual and decorative arts,False
+"per Igiene edilizia, ",1,4,Visual and decorative arts,False
+"per Composizione architettonica, ",1,4,Visual and decorative arts,False
+"per Restauro dei monumenti, ",1,4,Visual and decorative arts,False
+"per Plastica ornamentale, ",1,4,Visual and decorative arts,False
+"per Decorazione, ",1,4,Visual and decorative arts,False
+"per Geometria descrittiva ed elementi di protettiva, ",1,4,Visual and decorative arts,False
+"per Elementi costruttivi, ",1,4,Visual and decorative arts,False
+"per Carattei; distributivi degli edifici, Urbanistica, ",1,4,Visual and decorative arts,False
+"per Disegno dal vero, ",1,4,Visual and decorative arts,False
+"di Composizione architettonica, ",1,4,Visual and decorative arts,False
+di Scienza delle costruzioni,1,4,Visual and decorative arts,False
+Scultura,1,4,Visual and decorative arts,False
+materiali da costruzione,1,4,Visual and decorative arts,False
+Architettura,1,4,Visual and decorative arts,False
+Architettura disegno geometrico e prospettiva,1,4,Visual and decorative arts,False
+Ingegneri,32,5,Technical/engineering professions,False
+Geometra,22,5,Technical/engineering professions,False
+Ragioniere,22,5,Legal & accounting,False
+Figura disegnata,4,5,Technical/engineering professions,False
+cavaliere,2,5,Technical/engineering professions,False
+I. Ragioniere,2,5,Legal & accounting,False
+esperto elettrotecnico,2,5,Technical/engineering professions,False
+Ornato disegnato,2,5,Technical/engineering professions,False
+Figura e ornato modellato,2,5,Technical/engineering professions,False
+Lavoratore,1,5,Technical/engineering professions,False
+Perito industriale,1,5,Technical/engineering professions,False
+ragioniere,1,5,Technical/engineering professions,False
+di Indri Giovanni,1,5,Technical/engineering professions,False
+industirale,1,5,Technical/engineering professions,False
+Piedi,1,5,Technical/engineering professions,False
+Corpo del Genio Civile,1,5,Technical/engineering professions,False
+Insegnante,1,5,Technical/engineering professions,False
+Incisioni,1,5,Technical/engineering professions,False
+Ingegn. Primo n° 7,1,5,Technical/engineering professions,False
+Orologeria,1,5,Technical/engineering professions,False
+ Incisioni,1,5,Technical/engineering professions,False
+gerogi alì mentari (dett.),1,5,Technical/engineering professions,False
+Orologiaio,1,5,Technical/engineering professions,False
+Fotografo,1,5,Technical/engineering professions,False
+Sarto,1,5,Technical/engineering professions,False
+Ingegnero,1,5,Technical/engineering professions,False
+del Genio Civile,1,5,Technical/engineering professions,False
+Geometra principale del Genio Civile,1,5,Technical/engineering professions,False
+maestro,1,5,Technical/engineering professions,False
+ingegnere,1,5,Technical/engineering professions,False
+"per Matere i radiche, ",1,5,Technical/engineering professions,False
+"Cartotecnica, Tipografa",1,5,Technical/engineering professions,False
+photoengraving,1,5,Technical/engineering professions,False
+aggiusta maturittima rimorchiatore,1,5,Technical/engineering professions,False
+esperto scienze guerriere,1,5,Technical/engineering professions,False
+Tecniche dell'incisione,1,5,Technical/engineering professions,False
+Ornato modellato,1,5,Technical/engineering professions,False
+CIMITERI COMUNALI,139,6,Government offices / State administration,False
+Concessionario esclusivo: Rag. Cleto Rossini,124,6,Sales representatives / Commercial agents,False
+AFFITTAVOLI,54,6,Real estate & rentals,False
+Agenzia P. Bortoluzzi,48,6,Sales representatives / Commercial agents,True
+PARROCCHIE E SUCCURSALI,29,6,Religious & civic institutions,False
+Agenzia Nazionale Stampa Associata,18,6,"Institutions, press and political parties",False
+numero. 920,17,6,Address fragments / non-profession,True
+OPERA NAZIONALE PER LA PROTEZIONE E ASSISTENZA DEGLI INVALIDI DI GUERRA,16,6,Provincial and state institutions,False
+Consolati,13,6,Government offices / State administration,False
+IL MATTINO DEL POPOLO,11,6,"Institutions, press and political parties",False
+Vanoni Ezio,10,6,Address fragments / non-profession,False
+avv.,8,6,Legal & accounting,True
+CONSORZIO DI BONIFICA DESE SUPERIORE,7,6,Provincial and state institutions,False
+Category: Provvianza e Credito,4,6,Economic administration (academic),False
+Ospedale Civile,3,6,Medical professions,False
+Supplente,3,6,Education,False
+QUERINI STAMPALIA,2,6,Civic associations & clubs,False
+Osp. Civile,2,6,Medical professions,False
+Soc. AGESPIDE,2,6,Government offices / State administration,False
+Soc. in N. Coll. Filippo Campesan & F.llì,2,6,Government offices / State administration,False
+", MACELLO COMUNALE",2,6,Government offices / State administration,False
+presso ditta 'Jessurum',1,6,Textile and tailoring,False
+"Assistenza infermi a domicilio,  diurna e notturna.",1,6,Government offices / State administration,False
+presso Lega Reg.,1,6,Civic associations & clubs,False
+IspetL Sanità,1,6,Government offices / State administration,False
+dirett. Cro-nici,1,6,Government offices / State administration,False
+Osp. Civ.,1,6,Government offices / State administration,False
+loc. Gaggio,1,6,Government offices / State administration,False
+Riceve dalle ore 15 alle ore 18,1,6,Government offices / State administration,False
+Surrogati,1,6,Government offices / State administration,False
+"Uff. Supelivo - Addetto, Legione Ferr. della Guardia di Finanza",1,6,Government offices / State administration,False
+"Di vetterti Aumn, Istibuto Prov. degli Esposanti",1,6,Government offices / State administration,False
+Ass. Naz. Combattenti,1,6,Government offices / State administration,False
+Forossitti,1,6,Government offices / State administration,False
+P.le Stazione,1,6,Address fragments / non-profession,False
+gestione SPES,1,6,Government offices / State administration,False
+ Noleggi,1,6,Government offices / State administration,False
+Via F.lli Bandierine,1,6,Government offices / State administration,False
+Via Galuppi,1,6,Government offices / State administration,False
+Via Spalti,1,6,Government offices / State administration,False
+Comandante Comando Gruppo Agenti P. Sicurezza,1,6,Government offices / State administration,False
+Uff. pagat. Legione Territ. Guardia di Finanza,1,6,Government offices / State administration,False
+ved. Bianchi,1,6,Government offices / State administration,False
+ della Prev. Sociale,1,6,Government offices / State administration,False
+pres Lega R:9,1,6,Government offices / State administration,False
+Banca Popolare di Novara,1,6,Government offices / State administration,False
+Addetto Sviarda Naobile,1,6,Government offices / State administration,False
+ed L. Merline e C.,1,6,Government offices / State administration,False
+Ferrovie de lo Stato,1,6,Government offices / State administration,False
+Cimiteri Comunali,1,6,Government offices / State administration,False
+Gazzera Alta 158,1,6,Government offices / State administration,False
+Cannareguo 1984-85.,1,6,Government offices / State administration,False
+Ass. dei Commercianti,1,6,Government offices / State administration,False
+Dirett. Macello Comunale,1,6,Government offices / State administration,False
+Sindaco Assist. Naz. Combattenti,1,6,Government offices / State administration,False
+Altri Stazione,1,6,Government offices / State administration,False
+succ. di Gaio Ernengildo,1,6,Government offices / State administration,False
+Soc. per Az. Rossi Tranquillo,1,6,Government offices / State administration,False
+esplorug pozzi neri,1,6,Government offices / State administration,False
+ Invest. Legione Territ. Guardia di Finanza,1,6,Government offices / State administration,False
+Ispett. Sanità,1,6,Government offices / State administration,False
+Ufficci Marshe,1,6,Government offices / State administration,False
+ Camera ricorso Legione Territ. Guardia di Finanza,1,6,Government offices / State administration,False
+Ispett. Reg.,1,6,Government offices / State administration,False
+Ass. Naz . Reduci,1,6,Government offices / State administration,False
+ Uff. Regionale di Coordinamento,1,6,Government offices / State administration,False
+pozzî niedai,1,6,Government offices / State administration,False
+"Uff. Stazione di Cura,  Soggiorno,  Turismo",1,6,Government offices / State administration,False
+morale e sacra pastorale,1,6,Government offices / State administration,False
+ Traslochi,1,6,Government offices / State administration,False
+Dursto Militare,1,6,Government offices / State administration,False
+Succ. a G. B. Trapolino,1,6,Government offices / State administration,False
+gestione tCSAn,1,6,Government offices / State administration,False
+Maggiore di P.S. in S.P.E.,1,6,Government offices / State administration,False
+Malattie Veneree e della Pelle,1,6,Government offices / State administration,False
+Medicina generale,216,7,Medical professions,False
+Farmacista,90,7,Medical professions,False
+Farmacisti,46,7,Medical professions,False
+Veterinario,27,7,Medical professions,False
+Gabinettl dentistici,21,7,Medical professions,False
+medicina generale,14,7,Medical professions,False
+ostetrica,7,7,Medical professions,False
+farmacista,5,7,Medical professions,False
+dottore,3,7,Medical professions,False
+dr.,3,7,Medical professions,False
+Medico,2,7,Medical professions,False
+"Dott. Medicina,",2,7,Medical professions,False
+dentista,2,7,Medical professions,False
+medico chirurgo,2,7,Medical professions,False
+MEDICO CHIRURGO,1,7,Medical professions,False
+Medico Chirurgo,1,7,Medical professions,False
+Medicina Interna,1,7,Medical professions,False
+Docente malattie del bambini,1,7,Medical professions,False
+ Medio acg. dr. Ulisse Camalfi. Consulente ordinario dr. Tancredi Cortei,1,7,Medical professions,False
+Clinica,1,7,Medical professions,False
+farmacia,1,7,Medical professions,False
+"Gr. uff, dr. arch., ",1,7,Medical professions,False
+Medico Chirurgo Ostetrico,1,7,Medical professions,False
+Specialista Malattie Lattanti e Bambini,1,7,Medical professions,False
+dott.,1,7,Medical professions,False
+Medicina Generale,1,7,Medical professions,False
+medico pediatra,1,7,Medical professions,False
+colonnello medico,1,7,Medical professions,False
+Anatomia,1,7,Medical professions,False
+Arciprete-parroco,13,8,Religious & civic institutions,False
+professore,5,8,Religious & civic institutions,False
+vicario,3,8,Religious & civic institutions,False
+Parroco,3,8,Religious & civic institutions,False
+", MUNICIPIO",3,8,Religious & civic institutions,False
+Assistente,2,8,Religious & civic institutions,False
+Sindaco,2,8,Religious & civic institutions,False
+Rettore,2,8,Religious & civic institutions,False
+parroco,2,8,Religious & civic institutions,False
+" Titolare Procuratore, ",2,8,Religious & civic institutions,False
+Deputato,1,8,Religious & civic institutions,False
+Deputato dell'Amministrazione della Provincia,1,8,Religious & civic institutions,False
+"Primo Assistente, ",1,8,Religious & civic institutions,False
+Sovrintendente,1,8,Religious & civic institutions,False
+"Ispettore Onorario, prof. Amedeo Gottardi",1,8,Governance and leadership titles,False
+deputato Amminist. della Provincia,1,8,Religious & civic institutions,False
+Ispettore Istituto Aut. per le case popolari,1,8,Provincial and state institutions,False
+Professore,1,8,Religious & civic institutions,False
+Conduttore,1,8,Religious & civic institutions,False
+Segretario Ispet. Ispt. Circoscrizione Doganale,1,8,Religious & civic institutions,False
+presidi,1,8,Religious & civic institutions,False
+Vicario S. Andrea Apostolo,1,8,Religious & civic institutions,False
+Vice Ispet. di Zona,1,8,Religious & civic institutions,False
+Prosindaco del Municipio,1,8,Religious & civic institutions,False
+Assistente del Genio Civile,1,8,Religious & civic institutions,False
+Primo Segretario Uffici Centrali dell'Amministrazione della Provincia,1,8,Religious & civic institutions,False
+"Conservatore, ",1,8,Religious & civic institutions,False
+Sezioni Provinciali Proprietari Conduttori,1,8,Religious & civic institutions,False
+Proprietari con beni affittati,1,8,Religious & civic institutions,False
+Affittuari Conduttori,1,8,Religious & civic institutions,False
+Membro effettivo; Commissario straordinario per la Presidenza,1,8,Religious & civic institutions,False
+Canonici residenziali (arcidiacono prima dignità),1,8,Religious & civic institutions,False
+(interno Municipio),1,8,Religious & civic institutions,False
+V. Presidente Ass. Inquilini e Senza Tetto,1,8,Religious & civic institutions,False
+ Titolare Procuratore,1,8,Religious & civic institutions,False
+Sovraintendente,1,8,Religious & civic institutions,False
+Amministratore,1,8,Religious & civic institutions,False
+Vice Prefetto ispett.,1,8,Religious & civic institutions,False
+V. Prefetto Ispett.,1,8,Religious & civic institutions,False
+Vice Prefetto Ispett.,1,8,Religious & civic institutions,False
+Membro effettivo,1,8,Religious & civic institutions,False
+ACCADEMIA di Belle Arti e Liceo Artistico,13,9,Education,False
+SCUOLA GRANDE DI SAN ROCCO,4,9,Religious & civic institutions,False
+Educazione fisica,3,9,Education,False
+Laboratorio Scuola per Falegnami,1,9,Education,False
+Scuola: « G. Gozzi »,1,9,Education,False
+Scuola: « Giacinto Gallina »,1,9,Education,False
+Scuola: S. Maria Formosa,1,9,Education,False
+Scuola: Luigi Cadorna,1,9,Education,False
+Scuola Michele Renier,1,9,Education,False
+Scuola Armando Diaz,1,9,Education,False
+Scuola Alfredo Oriani,1,9,Education,False
+Scuola A. Scarsellini,1,9,Education,False
+Scuola E. De Amicis,1,9,Education,False
+Scuola Diedo,1,9,Education,False
+Scuola Giudecca,1,9,Education,False
+Scuola Marghera,1,9,Education,False
+Scuola Catene,1,9,Education,False
+Scuola Villabona,1,9,Education,False
+Scuola Chirignago,1,9,Education,False
+Scuola Asseggiano,1,9,Education,False
+Scuola Ca Emiliani,1,9,Education,False
+Scuola Malcontenta,1,9,Education,False
+Scuola Carpenedo,1,9,Education,False
+Scuola « Ugo Foscolo »,1,9,Education,False
+SCUOLA MAGISTRALE RICONOSCIUTA,1,9,Education,False
+SCUOLA MEDIA PARIFICATA,1,9,Education,False
+COLLEGIO ARMENO « M. RAPHAEL »,1,9,Education,False
+Accademia di Belle Arti,1,9,Education,False
+Procuratore della Scuola Mer-letti di Murano,1,9,Education,False
+Insegnante Accademia di Belle Arti,1,9,Education,False
+Scuola Infermiere della Croce Rossa Italiana,1,9,Education,False
+SCUOLA MERLETTI DI BURANO REGINA ELENA,1,9,Education,False
+SCUOLA ARICCONFRATERNITA DI SAN CRISTOFORO E COMPAGNIA DELLA MISERICORDIA,1,9,Education,False
+"Scuole ginnasiali e Liceo classico, Istituto tecnico industriale",1,9,Education,False
+"Istituto Coletti con scuole per meccanici, falegnami-calzolai",1,9,Education,False
+Macchine per scrivere - Calcolatrici - Duplicatori,360,10,Office & mechanical equipment (ad-dominated),True
+MACCHINE PER SCRIVERE - DUPLICATORI - ACCESSORI,359,10,Office & mechanical equipment (ad-dominated),True
+Duplicatori,51,10,Office & mechanical equipment (ad-dominated),True
+Forniture compiete MOBILI e ACCESSORI per UFFICIO,46,10,Office & mechanical equipment (ad-dominated),True
+BICROMIE TRICROMIE FOTOLITO,18,10,Visual and decorative arts,False
+ filati e affini,18,10,Office & mechanical equipment (ad-dominated),False
+dettaglio,9,10,General retail shops,False
+Category: Vetro e Ceramica,5,10,Office & mechanical equipment (ad-dominated),False
+ filati,4,10,Office & mechanical equipment (ad-dominated),False
+ giornali,3,10,Office & mechanical equipment (ad-dominated),False
+ affini (vendita),3,10,Office & mechanical equipment (ad-dominated),False
+ confezioni,3,10,Office & mechanical equipment (ad-dominated),False
+filati e affini,2,10,Office & mechanical equipment (ad-dominated),False
+GABINETTI DENTISTICI,2,10,Medical professions,False
+filati,2,10,Office & mechanical equipment (ad-dominated),False
+rivendita,2,10,General retail shops,False
+tessuti filati,2,10,Office & mechanical equipment (ad-dominated),False
+ riproduzioni ed oggetti artistici,2,10,Office & mechanical equipment (ad-dominated),False
+ articoli da viaggio,2,10,Office & mechanical equipment (ad-dominated),False
+ noleggio riparazioni),2,10,Office & mechanical equipment (ad-dominated),False
+ giocattoli,2,10,Office & mechanical equipment (ad-dominated),False
+ Caccia e Pesca,1,10,Office & mechanical equipment (ad-dominated),False
+pittrici,1,10,Office & mechanical equipment (ad-dominated),False
+ cicli e accessori,1,10,Office & mechanical equipment (ad-dominated),False
+ vernici,1,10,Office & mechanical equipment (ad-dominated),False
+ spec. Vernizione,1,10,Office & mechanical equipment (ad-dominated),False
+ tessuti,1,10,Office & mechanical equipment (ad-dominated),False
+corredi,1,10,Textile and tailoring,False
+stuccchi edile,1,10,Office & mechanical equipment (ad-dominated),False
+uova,1,10,Food & grocery retail,False
+gabinetti di posa),1,10,Office & mechanical equipment (ad-dominated),False
+esercizi,1,10,Office & mechanical equipment (ad-dominated),False
+ Dettaglio,1,10,Office & mechanical equipment (ad-dominated),False
+ Tessuti,1,10,Office & mechanical equipment (ad-dominated),False
+Leggere e rapide,1,10,Office & mechanical equipment (ad-dominated),False
+color e vernici,1,10,Office & mechanical equipment (ad-dominated),False
+ filiati e affini,1,10,Office & mechanical equipment (ad-dominated),False
+ Serramenti ed Affissi,1,10,Office & mechanical equipment (ad-dominated),False
+autorimessa,1,10,Office & mechanical equipment (ad-dominated),False
+ cm. fezione,1,10,Office & mechanical equipment (ad-dominated),False
+Articoli Tecnici,1,10,Office & mechanical equipment (ad-dominated),False
+articoli casalinghi,1,10,Office & mechanical equipment (ad-dominated),False
+(edicola),1,10,Office & mechanical equipment (ad-dominated),False
+dolciumi,1,10,Office & mechanical equipment (ad-dominated),False
+ Lavorazione 'Acurata,1,10,Office & mechanical equipment (ad-dominated),False
+ vetrerie e oggetti artistici,1,10,Office & mechanical equipment (ad-dominated),False
+ spazzole,1,10,Office & mechanical equipment (ad-dominated),False
+ oggetti artistici,1,10,Office & mechanical equipment (ad-dominated),False
+ smalti ecc.,1,10,Office & mechanical equipment (ad-dominated),False
+confezioni iliati,1,10,Office & mechanical equipment (ad-dominated),False
+ affini (vendi-ta),1,10,Office & mechanical equipment (ad-dominated),False
+ stampe,1,10,Office & mechanical equipment (ad-dominated),False
+ Grande Salone per banchetti e Rinfreschi,1,10,Office & mechanical equipment (ad-dominated),False
+ Forniture,1,10,Office & mechanical equipment (ad-dominated),False
+Fabbrica Timbri - Studio Incisioni,1,10,Office & mechanical equipment (ad-dominated),False
+cristali e spechi,1,10,Office & mechanical equipment (ad-dominated),False
+ fotografi,1,10,Office & mechanical equipment (ad-dominated),False
+vele e bandiere,1,10,Office & mechanical equipment (ad-dominated),False
+"Lavori Fotografici, Fotomateriale",1,10,Office & mechanical equipment (ad-dominated),False
+"Laboratorio Cornici ed Affini, Vetri, Specchi, Cristalli, Quadri",1,10,Office & mechanical equipment (ad-dominated),False
+corieettine e pele,1,10,Office & mechanical equipment (ad-dominated),False
+articoli fotografici,1,10,Office & mechanical equipment (ad-dominated),False
+ espressi telegrammi,1,10,Office & mechanical equipment (ad-dominated),False
+Articoli Casalinghi,1,10,Office & mechanical equipment (ad-dominated),False
+ confizioni,1,10,Office & mechanical equipment (ad-dominated),False
+OCCASIONI - CAMBI - RICOMISSIONI - NOLEGGI,1,10,Office & mechanical equipment (ad-dominated),False
+ munizioni,1,10,Office & mechanical equipment (ad-dominated),False
+ maioliche artistiche,1,10,Office & mechanical equipment (ad-dominated),False
+confezioni,1,10,Textile and tailoring,False
+Arredamento e temi,1,10,Office & mechanical equipment (ad-dominated),False
+ specialità veneziane articoli sportivi,1,10,Office & mechanical equipment (ad-dominated),False
+ interni,1,10,Office & mechanical equipment (ad-dominated),False
+ riproduzioni quadri,1,10,Office & mechanical equipment (ad-dominated),False
+Tutti i prodotti ZAMPIRONI sono di massima fiducia,1,10,Office & mechanical equipment (ad-dominated),False
+(dettaglio),1,10,Office & mechanical equipment (ad-dominated),False
+dommatica,1,10,Office & mechanical equipment (ad-dominated),False
+ aggiunto,1,10,Office & mechanical equipment (ad-dominated),False
+ edicola,1,10,Office & mechanical equipment (ad-dominated),False
+ Tappeti,1,10,Office & mechanical equipment (ad-dominated),False
+ tessuti seterie e affini,1,10,Office & mechanical equipment (ad-dominated),False
+abiti confezionati,1,10,Office & mechanical equipment (ad-dominated),False
+ Calze,1,10,Office & mechanical equipment (ad-dominated),False
+vetrerie in genere lampadari,1,10,Office & mechanical equipment (ad-dominated),False
+ vendita immobili,1,10,Office & mechanical equipment (ad-dominated),False
+ articoli casalinghi,1,10,Office & mechanical equipment (ad-dominated),False
+ riproduzioni di oggetti artistici,1,10,Office & mechanical equipment (ad-dominated),False
+(gab. inetti di posa),1,10,Office & mechanical equipment (ad-dominated),False
+Legname Compensato,1,10,Office & mechanical equipment (ad-dominated),False
+radio e accessorii,1,10,Office & mechanical equipment (ad-dominated),False
+mobili,1,10,Office & mechanical equipment (ad-dominated),False
+ cuoi ed affini,1,10,Office & mechanical equipment (ad-dominated),False
+Decorazione,1,10,Office & mechanical equipment (ad-dominated),False
+Plastica Ornamentale,1,10,Office & mechanical equipment (ad-dominated),False
+ARTI GRAFICHE ESPERIA,91,11,Visual and decorative arts,True
+Ing. A. Carretta e Geom. M. Monopoli,33,11,Technical/engineering professions,False
+"SCIENTIFICA E MAGISTRALE,",17,11,Education,False
+Meccanica,9,11,Technical/engineering professions,False
+Chimica,4,11,Technical/engineering professions,False
+Ragioneria generale ed applicata,2,11,Technical/engineering professions,False
+"Applicato, ",2,11,Administration & directorship,False
+Bimestrale,2,11,Technical/engineering professions,False
+Geometra principale del,1,11,Technical/engineering professions,False
+ calcolatrice,1,11,Technical/engineering professions,False
+ scientifica,1,11,Technical/engineering professions,False
+(Cronometriosta),1,11,Technical/engineering professions,False
+Divisione tecnologica,1,11,Technical/engineering professions,False
+Statistica,1,11,Technical/engineering professions,False
+Matematica generale e di Matematica finanziaria,1,11,Technical/engineering professions,False
+Demografia generale,1,11,Technical/engineering professions,False
+Statistica (incar.),1,11,Technical/engineering professions,False
+Ragioneria generale ed applicata (id.),1,11,Technical/engineering professions,False
+Matematica finanziaria (id.),1,11,Technical/engineering professions,False
+Geografia,1,11,Technical/engineering professions,False
+"per Mineralogia e geologia, ",1,11,Technical/engineering professions,False
+"per Chimica generale ed applicata, ",1,11,Technical/engineering professions,False
+"per impianti tecnici, Estimo ed esercizio professionale, ",1,11,Technical/engineering professions,False
+"per Meccanica razionale e statistica grafica, ",1,11,Technical/engineering professions,False
+"per Fisica, Fisica tecnica, ",1,11,Technical/engineering professions,False
+"per analisi matematica e geometria analitica (2.0 anno), ",1,11,Technical/engineering professions,False
+"per Analisi matematica e geometria analitica (1.0 anno), Topografia e costruzioni stradali, ",1,11,Technical/engineering professions,False
+"Francese, Matematica",1,11,Technical/engineering professions,False
+Scienze e Matematica,1,11,Technical/engineering professions,False
+Matematica e fisica,1,11,Technical/engineering professions,False
+Scienze naturali chimica e geografia,1,11,Technical/engineering professions,False
+Lavorazione artistica mosaici in smalto di vetro Veneziano,168,12,Visual and decorative arts,True
+al Porto di Venezia,119,12,Transport and maritime,False
+ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,17,12,Civic associations & clubs,False
+Comitato di Venezia,17,12,Civic associations & clubs,False
+CIRCOLO ARTISTICO DI VENEZIA,15,12,Civic associations & clubs,False
+SEZIONE FILATELICA VENEZIANA DEL CIRCOLO ARTISTICO,6,12,Civic associations & clubs,False
+GUÏDA COMMERCIALE DI VENEZIA E PROVINCIA,4,12,"Institutions, press and political parties",False
+Venezia,3,12,Address fragments / non-profession,False
+Altri Consolati aventi giurisdizione sulla Regione Veneta,2,12,Government offices / State administration,False
+Mazzorbo di Burano,1,12,Address fragments / non-profession,False
+Corsi vari di istruzione professionale per artigiani e operai in tutto il Veneto,1,12,Education,False
+Ufficio Commissionario Industrie e Artigiane con Mostre campionarie permanenti di prodotti tipici dell’artigianato e delle piccole industrie venete,1,12,Provincial and state institutions,False
+Agente principale della Società Autori ed Editori della Agenzia di Venezia,1,12,"Institutions, press and political parties",False
+"Murano, Venezia",1,12,Address fragments / non-profession,False
+ Venezia,1,12,Provincial and state institutions,False
+Ca' Foscari,1,12,Provincial and state institutions,False
+Agente per l Venetti E. A. Super Lux 8,1,12,Provincial and state institutions,False
+Ufficio di Venezia,1,12,Provincial and state institutions,False
+specialità veneziane,1,12,Provincial and state institutions,False
+nomina per Valli in provincia di Venezia e Campagnaluqa,1,12,Provincial and state institutions,False
+ specialità Veneziane,1,12,Provincial and state institutions,False
+Deposito: Cannaregio Abazzia,1,12,Provincial and state institutions,False
+ Ispet. di l. Gl. Sez. Lavori di Venezia,1,12,Provincial and state institutions,False
+"VENEZIA s. Focn, 1079",1,12,Provincial and state institutions,False
+Consigliere Banca Veneta Mezzana a Gretti e Conti Correnti,1,12,Provincial and state institutions,False
+Sindaco effettivo Banca Veneziana di Crediti e Conti Correnti,1,12,Provincial and state institutions,False
+Soprintendenza ai Monumenti Medioevali e moderni del Veneto Orientale,1,12,Provincial and state institutions,False
+Capo Divisione Soprintendenza ai Monumenti Mediovali e Moderni del Veneto Orientale,1,12,Provincial and state institutions,False
+ Medioevali e Moderni del Veneto Orientale,1,12,Provincial and state institutions,False
+Padova,1,12,Provincial and state institutions,False
+UNIONE REGIONALE CAMERE DI COMMERCIO DELLE VENEZIE,1,12,Provincial and state institutions,False
+Commissariato di Cannaregio,1,12,Provincial and state institutions,False
+Commissariato di Dorsoduro,1,12,Provincial and state institutions,False
+ISTITUTO VITTORIO ALFIERI,2,13,Education,False
+ISTIT. MAGISTRALE PARIFICATO,1,13,Education,False
+ISTITUTO ITALIANO RAVA',1,13,Education,False
+ISTITUTO SUORE DI NEVERS,1,13,Education,False
+ISTITUTO DELLE SUORE DEL S. CUORE,1,13,Education,False
+Istituto Artigianelli,1,13,Education,False
+Istituto Zambler,1,13,Education,False
+Istituto Univers,1,13,Education,False
+Istituto U.r..straria Architettura,1,13,Education,False
+prof. Istituto Universitario di Architettura,1,13,Education,False
+ Rettore Istituto Crovani e Guglielmo Marconi,1,13,Education,False
+Instituto Universitario di Architett.,1,13,Education,False
+Instituto Universitario Architett.,1,13,Education,False
+Studio Radio e Elettrotecnico,1,13,Education,False
+Istituto Nazionale per l'Addestramento Professionale Lavoratori dell'Industria,1,13,Education,False
+Istituto Aut. per le case popolari,1,13,Education,False
+Istituto Universitario di Architett.,1,13,Education,False
+ISTITUTO CONVITTO « G. MARCONI »,1,13,Education,False
+Direttore Istituto Universitario di Archit.,1,13,Education,False
+Ufficio postale,32,14,Government offices / State administration,False
+Archivio di Stato,18,14,Government offices / State administration,False
+SUDDIVISIONE DEGLI UFFICI,10,14,Government offices / State administration,False
+DIREZIONE SERVIZI DI IGIENE E DI ASSISTENZA PUBBLICA,9,14,Government offices / State administration,False
+DIREZIONE BELLE ARTI DEL COMUNE,4,14,Government offices / State administration,False
+Questura,3,14,Government offices / State administration,False
+Ufficio Politico,3,14,Government offices / State administration,False
+DIREZIONE LAVORI E SERVIZI PUBBLICI,2,14,Government offices / State administration,False
+"DIREZIONE LOTTO,",2,14,Government offices / State administration,False
+"ISPETTORATO COMPARTIMENTALE DELLE IMPOSTE DIRETTE,",1,14,Government offices / State administration,False
+"ISPETTORATO COMPARTIMENTALE DELLE TASSE E DELLE IMPOSTE INDIRETTE SUGLI AFFARI,",1,14,Government offices / State administration,False
+"UFFICIO TECNICO ERARIALE,",1,14,Government offices / State administration,False
+"UFFICIO TECNICO IMPOSTE DI FABBRICAZIONE,",1,14,Government offices / State administration,False
+"Uffici Finanziari di Mirano,",1,14,Government offices / State administration,False
+" Ufficio Idrografico, ",1,14,Government offices / State administration,False
+Ufficio di assistenza economica,1,14,Government offices / State administration,False
+Biblioteca di consultazione per artigiani e piccoli industriali (aperto tutti i giorni feriali nelle ore d’Ufficio),1,14,Government offices / State administration,False
+"Uffici Centrali, Aiutanti tecnici",1,14,Government offices / State administration,False
+Direzione Marittima e Gabinetto,1,14,Transport and maritime,False
+Amm. Imposte di Consumo del Comune,1,14,Government offices / State administration,False
+dell' Archivio dello Stato,1,14,Government offices / State administration,False
+Aiutante Magg. della Guardia di Finanza,1,14,Government offices / State administration,False
+informazioni comm.,1,14,Government offices / State administration,False
+Divisione Ragioneria,1,14,Government offices / State administration,False
+Uffici Centrali dell'Amministrazione della Provincia,1,14,Government offices / State administration,False
+Prov. Servizio Impianti Sportivi,1,14,Government offices / State administration,False
+ Macchine Contabili,1,14,Government offices / State administration,False
+ Guardia di Finanza,1,14,Government offices / State administration,False
+Capo Div. Direzione Ragioneria e tributi,1,14,Government offices / State administration,False
+ Imposte Comunlo del Comune,1,14,Government offices / State administration,False
+Ispettore Tecnico del movimento postale,1,14,Government offices / State administration,False
+Sezione Amministrativa,1,14,Government offices / State administration,False
+"UFFICIO IMPOSTA GENERALE SULL'ENTRATA,",1,14,Government offices / State administration,False
+"DIREZIONE SUPERIORE DI DOGANA,",1,14,Government offices / State administration,False
+I. f. Ufficiale,1,14,Government offices / State administration,False
+Archivio e Affari generali,1,14,Government offices / State administration,False
+Contabilita di Stato,1,14,Government offices / State administration,False
+Tecnica amministrativi delle aziende industriali,1,14,Government offices / State administration,False
+"Studio di Ragiione ria, Consulenza ed Assistenza Tributaria. Telef. 28.042.",1,14,Government offices / State administration,False
+"Revisore Ufficiale dei Conti, Amministratore Giudiziario, Consulenza e Assistenza Tributaria, Economico, Commerciale, Ragioneristica",1,14,Government offices / State administration,False
+Ufficio Tecnico dell'Amministrazione della Provincia,1,14,Government offices / State administration,False
+"UFFICIO DEL REGISTRO ATTI CIVILI,",1,14,Government offices / State administration,False
+"UFFICIO REGISTRO ATTI GIUDIZIARI E CONCESSIONI GOVERNATIVE,",1,14,Government offices / State administration,False
+"UFFICIO DEL REGISTRO SUCCESSIONI E DEMANIO,",1,14,Government offices / State administration,False
+"UFFICIO IMPOSTA IN SURROGAZIONE,",1,14,Government offices / State administration,False
+"ISPETTORATO COMPARTIMENTALE DELLE DOGANE,",1,14,Government offices / State administration,False
+panificio. SS.,53,15,Food & grocery retail,True
+pittrice,7,15,Visual and decorative arts,False
+ gioielleria,6,15,General retail shops,False
+falegname,4,15,Industry and construction,False
+ cartoleria,4,15,General retail shops,False
+ pasticceria,4,15,General retail shops,False
+Tesoriere,3,15,Administration & directorship,False
+ chincaglierie,3,15,General retail shops,False
+ saponi,3,15,General retail shops,False
+Abbigliamento,3,15,General retail shops,False
+panificio,2,15,Food & grocery retail,False
+sarta da uomo,2,15,Textile and tailoring,False
+ pelletterie,2,15,General retail shops,False
+calzature,2,15,General retail shops,False
+ cesellatore,2,15,General retail shops,False
+latteria,2,15,Food & grocery retail,False
+tabaccheria,2,15,General retail shops,False
+ Qualsiasi lavoro in fiori,1,15,General retail shops,False
+chinaglieie,1,15,General retail shops,False
+macelleria (introduttore Ac. stime),1,15,General retail shops,False
+profumeria,1,15,General retail shops,False
+cartoleria profumeria,1,15,General retail shops,False
+"mercerie, filati e affini",1,15,General retail shops,False
+polleria,1,15,Food & grocery retail,False
+perle (product. e commercio),1,15,General retail shops,False
+ bottiglieria. (esercizi),1,15,General retail shops,False
+confezionisti,1,15,General retail shops,False
+fraganai,1,15,General retail shops,False
+caffè (esercizi),1,15,Food & hospitality,False
+ Fori perle,1,15,General retail shops,False
+porcellane,1,15,General retail shops,False
+ gioieileria,1,15,General retail shops,False
+salumi (negozio),1,15,Food & grocery retail,False
+ liquori,1,15,General retail shops,False
+parrucchiere per signora,1,15,Personal care,False
+orologeria,1,15,General retail shops,False
+ manifature,1,15,General retail shops,False
+ mercerie,1,15,General retail shops,False
+ molino,1,15,General retail shops,False
+lavanderia e stireria,1,15,Personal care,False
+libreria,1,15,General retail shops,False
+parruccchiere per signora,1,15,General retail shops,False
+bottiglieria,1,15,General retail shops,False
+ drogheria,1,15,General retail shops,False
+Telef: ab. bigliamento,1,15,General retail shops,False
+Ditta Cecchetti Pradel & C.,1,15,General retail shops,False
+ pellic-erie manifatture fiutate,1,15,General retail shops,False
+ orologeria,1,15,General retail shops,False
+Calzature,1,15,General retail shops,False
+Droghiere,1,15,General retail shops,False
+Barbiere,1,15,General retail shops,False
+fuoro,1,15,General retail shops,False
+perle (lavoro,1,15,General retail shops,False
+Manifattura Tabacchi,1,15,General retail shops,False
+petrolio,1,15,General retail shops,False
+ cinghialerie,1,15,General retail shops,False
+"terraglie, porcellane",1,15,General retail shops,False
+barbiere,1,15,General retail shops,False
+bottiglieriа,1,15,General retail shops,False
+grossisti spettaclli medicinali,1,15,General retail shops,False
+industria,176,16,Industry and construction,True
+Category: Acqua - Gas - Elettricità,7,16,Industry and construction,False
+Fabbro Ferrario e Meccanico,3,16,Industry and construction,False
+ Olii minerali,1,16,Industry and construction,False
+elettricista e idraulico,1,16,Industry and construction,False
+officina meccanica metal. lurgica e costruzioni in ferro,1,16,Industry and construction,False
+ prodot. ti chimici,1,16,Industry and construction,False
+ carbone e legna (dettaglio),1,16,Industry and construction,False
+ferramenta metalli,1,16,Industry and construction,False
+ chimico del La..,1,16,Industry and construction,False
+ idraulica-sanitaria,1,16,Industry and construction,False
+ idraulica e gas,1,16,Industry and construction,False
+comm. e lavorazione,1,16,Industry and construction,False
+ industria,1,16,Industry and construction,False
+ cristalli e spechi (commercio e lavorazione),1,16,Industry and construction,False
+ Vetro neutro,1,16,Industry and construction,False
+ liquori (fabbrica e deposito),1,16,Industry and construction,False
+carbone e legna,1,16,General retail shops,False
+fluviali e terrestri,1,16,Transport and maritime,False
+Disinfestazioni con gas tossici,1,16,Industry and construction,False
+ benzina,1,16,Industry and construction,False
+industries boschive,1,16,Industry and construction,False
+ combustibili liquidi (geonotta),1,16,Industry and construction,False
+ acque minerali,1,16,Industry and construction,False
+ carburanti olii ed affnii,1,16,Industry and construction,False
+apparecchi elettromeccanici,1,16,Industry and construction,False
+ industria chimica,1,16,Industry and construction,False
+ carburanti,1,16,Industry and construction,False
+olii minerali,1,16,Industry and construction,False
+prodotti chimici,1,16,Industry and construction,False
+elettricità (produzione distribuzione),1,16,Industry and construction,False
+ossidi metallici,1,16,Industry and construction,False
+ officina meccanica e metallurgica,1,16,Industry and construction,False
+officina meccanica e saldatura,1,16,Industry and construction,False
+ acque gassaste,1,16,Industry and construction,False
+ impianti terrestri e navali,1,16,Industry and construction,False
+vetro lavorazioni,1,16,Industry and construction,False
+ tubi in ferro,1,16,Industry and construction,False
+Impianti di illuminazione a gas vari,1,16,Industry and construction,False
+ pelli e materiale per costruzioni edilizie,1,16,Industry and construction,False
+prodotti siderurgici e metallurgici,1,16,Industry and construction,False
+materiali ferrosi da riutilizzo,1,16,Industry and construction,False
+vetro e ceramica,1,16,Industry and construction,False
+elettricità ed idraulica,1,16,Industry and construction,False
+rivieditori zenergi ni Monopolio,1,16,Industry and construction,False
+grossisti combustibili e solidi,1,16,Industry and construction,False
+detàglian- ti legna e charbonc,1,16,Industry and construction,False
+Combustibili e Carburanti,1,16,Industry and construction,False
+CIRCOLO FILOLOGICO,11,17,Language education,False
+Biblioteca,3,17,Provincial and state institutions,False
+teatro,2,17,Visual and decorative arts,False
+Storia,1,17,Language education,False
+Filologia romanza,1,17,Language education,False
+Filologia germanica,1,17,Language education,False
+Storia della filosofia,1,17,Language education,False
+Pedagogia,1,17,Language education,False
+Filosofia,1,17,Language education,False
+Glottologia romanza,1,17,Language education,False
+Storia Ec. Ebraico,1,17,Language education,False
+"Patrologia, Arte, Eloquenza",1,17,Language education,False
+"italiano (liceo), Storia",1,17,Language education,False
+biblica,1,17,Language education,False
+sacra liturgia,1,17,Language education,False
+filosofia,1,17,Language education,False
+"latino, greco (liceo)",1,17,Language education,False
+Filiiiai a Roma,1,17,Language education,False
+arte antica,1,17,Language education,False
+orologie,1,17,Language education,False
+Storia dell’arte,1,17,Language education,False
+Storia dell'arte,1,17,Language education,False
+religione,1,17,Language education,False
+Personale degli Uffici - Segreteria della Sezione di Lingue e letterature straniere,10,18,Language education,False
+Lingua tedesca,4,18,Language education,False
+Lingua inglese,3,18,Language education,False
+Lingua francese,3,18,Language education,False
+Lingua e letteratura francese,2,18,Language education,False
+Lingua e letteratura spagnola,2,18,Language education,False
+Lingua e letteratura tedesca,2,18,Language education,False
+Lingua spagnola,2,18,Language education,False
+Lettere (ginnasio),2,18,Language education,False
+lettere (ginnasio),2,18,Language education,False
+Lingua e letteratura italiana,1,18,Language education,False
+Lingua serbo-croata,1,18,Language education,False
+Lingua e letteratura russa,1,18,Language education,False
+Lingua e letteratura inglese,1,18,Language education,False
+Lingua e letteratura latina,1,18,Language education,False
+Lingua russa,1,18,Language education,False
+Lingua rumena,1,18,Language education,False
+"per Letteratura italiana, ",1,18,Language education,False
+Letteratura italiana e storia,1,18,Language education,False
+Letteratura Italiana e storia,1,18,Language education,False
+Rappresentante di case produttrici di medicinali,186,19,Sales representatives / Commercial agents,True
+pittore,67,19,Visual and decorative arts,False
+illuminazione pubblica,65,19,Government offices / State administration,True
+PROFESSIONISTI E ARTISTI,41,19,Visual and decorative arts,False
+Pittore,14,19,Visual and decorative arts,False
+presso Camera del Lavoro,5,19,Provincial and state institutions,False
+Giornalista professionista,3,19,"Institutions, press and political parties",False
+Pittura,2,19,Visual and decorative arts,False
+Rappresentante cingalmerie,1,19,Sales representatives / Commercial agents,False
+Rapprcsentanti e A.,1,19,Sales representatives / Commercial agents,False
+pittore decoratore,1,19,Visual and decorative arts,False
+cinema (sale di proiezione e gestione),1,19,Sales representatives / Commercial agents,False
+agenzia nolleggio film,1,19,Sales representatives / Commercial agents,False
+agenzia d’affari,1,19,Sales representatives / Commercial agents,False
+Rappresentante e Depositi,1,19,Sales representatives / Commercial agents,False
+rappresentante articoli casalinghi,1,19,Sales representatives / Commercial agents,False
+cinema (produzione film stabii-,1,19,Sales representatives / Commercial agents,False
+Rappresentanze varie,1,19,Sales representatives / Commercial agents,False
+Commissione Direttiva del Circolo Artistico,1,19,Sales representatives / Commercial agents,False
+rappresentante esercenti cinema e teatri,1,19,Sales representatives / Commercial agents,False
+rappresentante dei medici,1,19,Sales representatives / Commercial agents,False
+rappresentante dei veterinari,1,19,Sales representatives / Commercial agents,False
+Consigliere,20,20,Governance and leadership titles,True
+Commissione del Listino,5,20,Economic administration (academic),False
+Comm. Agg.,4,20,Governance and leadership titles,False
+Fid. Prov.,4,20,Governance and leadership titles,False
+Consigliere Municipale,4,20,Governance and leadership titles,False
+Commissario,3,20,Government offices / State administration,False
+Mediatore,2,20,General goods trade,False
+V. Comm.,2,20,Governance and leadership titles,False
+consigliere effettivo,2,20,Governance and leadership titles,False
+"Consigliere, ",2,20,Governance and leadership titles,False
+perito,2,20,Technical/engineering professions,False
+V. Comm. Agg.,1,20,Governance and leadership titles,False
+"Consigliere,",1,20,Governance and leadership titles,False
+Commissariato,1,20,Government offices / State administration,False
+Consigliere Segr.,1,20,Governance and leadership titles,False
+tenente,1,20,Governance and leadership titles,False
+commissario,1,20,Governance and leadership titles,False
+Giudice,1,20,Governance and leadership titles,False
+" ""Consigliere Municipale""",1,20,Governance and leadership titles,False
+Questore,1,20,Governance and leadership titles,False
+mediatori generali,1,20,Governance and leadership titles,False
+mediatore,1,20,Governance and leadership titles,False
+Consigliere (TELVE),1,20,Governance and leadership titles,False
+ Perito,1,20,Governance and leadership titles,False
+Comando Vigili,1,20,Governance and leadership titles,False
+Ispettore,1,20,Governance and leadership titles,False
+" 1. Procuratore, ",1,20,Governance and leadership titles,False
+Vicario,1,20,Governance and leadership titles,False
+ Atti giud. e conlesso governativo,1,20,Governance and leadership titles,False
+Consigliere di l. classe,1,20,Governance and leadership titles,False
+Consigliere di I. cl.,1,20,Governance and leadership titles,False
+Consigliere i. cl.,1,20,Governance and leadership titles,False
+Commissariato di Castello,1,20,Governance and leadership titles,False
+SPORT OLIMPICI,4,21,Sports organizations,False
+Fed. Ginnastica d'Italia (FGDI),1,21,Sports organizations,False
+Fed. It. Pugilato (FIP),1,21,Sports organizations,False
+Fed. It. Sport Equestri (FISE),1,21,Sports organizations,False
+Unione It. Tiro a Segno (UITS),1,21,Sports organizations,False
+"Pres. Reg., Fed. It. Sport Invernali (FISI)",1,21,Sports organizations,False
+Fed. It. Pattinaggio su Ghiaccio,1,21,Sports organizations,False
+Fed. It. Hockey su Ghiaccio,1,21,Sports organizations,False
+Pres. Reg. della (F.I.S.I.),1,21,Sports organizations,False
+COMITATO OLIMPICO NAZIONALE ITALIANO,1,21,Sports organizations,False
+ grossista,5,22,General goods trade,False
+grossista,4,22,General goods trade,False
+negozio,2,22,General goods trade,False
+ (grossista),2,22,General goods trade,False
+ negozio,1,22,General goods trade,False
+ingrosso,1,22,General goods trade,False
+gros.,1,22,General goods trade,False
+ (commercio),1,22,General goods trade,False
+ (gross),1,22,General goods trade,False
+grossisti,1,22,General goods trade,False
+ ingrosso,1,22,General goods trade,False
+Latte (grossista),1,22,General goods trade,False
+ vini (gros. s] sta),1,22,General goods trade,False
+ Compra-vendita,1,22,General goods trade,False
+(negozio),1,22,General goods trade,False
+ vendita),1,22,General goods trade,False
+Divisione I.a,2,23,Trade guild categories,False
+Categoria IX,1,23,Trade guild categories,False
+Categoria XXII,1,23,Trade guild categories,False
+Categoria VII,1,23,Trade guild categories,False
+Categoria VIII,1,23,Trade guild categories,False
+Divisione II.a,1,23,Trade guild categories,False
+Seconda Divisione,1,23,Trade guild categories,False
+Divisione III.a,1,23,Trade guild categories,False
+Tutti i prodotti ZAMPIRONI INSETTIFUGHI di massima fiducia,194,24,General goods trade (ad-dominated),True
+Alimentari (Dett.),6,24,Food & grocery retail,True
+ piante e sementi,2,24,Food & grocery retail,False
+piante e sementi,1,24,Food & grocery retail,False
+"alimentari, (dett.)",1,24,Food & grocery retail,False
+alimentari (dett.),1,24,Food & grocery retail,False
+frutta e verdura,1,24,Food & grocery retail,False
+ erane vegetale,1,24,General goods trade (ad-dominated),False
+alimentari,1,24,Food & grocery retail,False
+ fabbricati e aziende agricole,1,24,General goods trade (ad-dominated),False
+ Agrumi,1,24,Food & grocery retail,False
+"fiori, piante e sementi",1,24,General goods trade (ad-dominated),False
+essicazione frutta ed erbaggi,1,24,General goods trade (ad-dominated),False
+ frutta alimentari,1,24,General goods trade (ad-dominated),False
+Fruttiera Francesco,1,24,General goods trade (ad-dominated),False
+ acquisto fabbricati e aziende agricole,1,24,General goods trade (ad-dominated),False
+legumi,1,24,Food & grocery retail,False
+ vini rappresentante generi alimentari,1,24,General goods trade (ad-dominated),False
+ grassi,1,24,General goods trade (ad-dominated),False
+artic. commestibili (commercio),1,24,General goods trade (ad-dominated),False
+ frutta e verdura,1,24,Food & grocery retail,False
+"agrumi, essicazione frutta ed erbaggi",1,24,General goods trade (ad-dominated),False
+" ""Frutta e verdura",1,24,General goods trade (ad-dominated),False
+ alimentari,1,24,Food & grocery retail,False
+Sezione specializzata di Zootecnia,1,24,General goods trade (ad-dominated),False
+Tribunale Civile e Penale,3,25,Law and judiciary (academic),False
+Avvocato,2,25,Law and judiciary (academic),False
+Diritto del lavoro,2,25,Law and judiciary (academic),False
+Diritto amministrativo,2,25,Law and judiciary (academic),False
+Diritto processuale civile,2,25,Law and judiciary (academic),False
+Asp. Civile,1,25,Law and judiciary (academic),False
+Sostituto Proc. Tribunale Civile e Penale,1,25,Law and judiciary (academic),False
+Procuratore Tribunale dei Minorenni,1,25,Law and judiciary (academic),False
+Segretario Tribunale dei Minorenni,1,25,Law and judiciary (academic),False
+Tribunale dei Minorenni,1,25,Law and judiciary (academic),False
+Tribunale del Minorenni,1,25,Law and judiciary (academic),False
+presso la Corte d’Appello,1,25,Law and judiciary (academic),False
+Diritto commerciale,1,25,Law and judiciary (academic),False
+Scienza delle finanze e diritto finanziario,1,25,Law and judiciary (academic),False
+Diritto internazionale,1,25,Law and judiciary (academic),False
+Diritto della navigazione,1,25,Law and judiciary (academic),False
+Istituzioni di diritto pubblico,1,25,Law and judiciary (academic),False
+Istituzioni di diritto privato,1,25,Law and judiciary (academic),False
+Diritto aeronautico,1,25,Law and judiciary (academic),False
+Diritto pubblico (id.),1,25,Law and judiciary (academic),False
+Diritto privato (incar.),1,25,Law and judiciary (academic),False
+Scienze delle ze e diritto finanziario (incar.),1,25,Law and judiciary (academic),False
+Diritto e procedura penale,1,25,Law and judiciary (academic),False
+Diritto civile,1,25,Law and judiciary (academic),False
+Elementi di diritto e procedura penale,1,25,Law and judiciary (academic),False
+Elementi di diritto processuale civile,1,25,Law and judiciary (academic),False
+Laboratorio di Scienza delle finanze e diritto finanziario,1,25,Law and judiciary (academic),False
+Diritto Canonico,1,25,Law and judiciary (academic),False
+esperto materie amministrative,1,25,Law and judiciary (academic),False
+Attuari,111,26,Economic administration (academic),False
+S.A.,13,26,Companies/business entities,True
+"Solesin,",12,26,Address fragments / non-profession,False
+sarta,7,26,Textile and tailoring,False
+da A. Joggna,5,26,Address fragments / non-profession,True
+prof.,3,26,Education,False
+Mensile,3,26,"Institutions, press and political parties",False
+dett.,2,26,General retail shops,False
+arciprete,2,26,Religious & civic institutions,False
+Geom.,2,26,Technical/engineering professions,False
+Vetrocke,1,26,Address fragments / non-profession,False
+Comm.,1,26,Address fragments / non-profession,False
+Pittrice,1,26,Visual and decorative arts,False
+ Alberoni,1,26,Address fragments / non-profession,False
+fram. Santi 3,1,26,Address fragments / non-profession,False
+Conterie 24,1,26,Address fragments / non-profession,False
+(abbigra),1,26,Textile and tailoring,False
+Enego,1,26,Address fragments / non-profession,False
+"Antonio,",1,26,Address fragments / non-profession,False
+bar,1,26,Food & hospitality,False
+dettuanaglio,1,26,Address fragments / non-profession,False
+Tenenzia,1,26,Address fragments / non-profession,False
+s. r. l.,1,26,Address fragments / non-profession,False
+ Dese,1,26,Address fragments / non-profession,False
+Numero 5576-A,1,26,Address fragments / non-profession,False
+RICHMAR,1,26,Address fragments / non-profession,False
+Brendole,1,26,Address fragments / non-profession,False
+Litugi Achieri,1,26,Address fragments / non-profession,False
+Telefono 34-285,1,26,Address fragments / non-profession,False
+ chinicalgile,1,26,Address fragments / non-profession,False
+S. Pantalon,1,26,Address fragments / non-profession,False
+(eredi),1,26,Address fragments / non-profession,False
+ glati,1,26,Address fragments / non-profession,False
+pal. Patriarcale,1,26,Address fragments / non-profession,False
+ juors,1,26,Address fragments / non-profession,False
+sqiurero,1,26,Address fragments / non-profession,False
+t'atoria,1,26,Address fragments / non-profession,False
+Titto,1,26,Address fragments / non-profession,False
+Radio,1,26,Address fragments / non-profession,False
+ radio,1,26,Address fragments / non-profession,False
+ortagagi,1,26,Address fragments / non-profession,False
+materassai,1,26,Address fragments / non-profession,False
+ (dett.),1,26,Address fragments / non-profession,False
+Arcprete,1,26,Address fragments / non-profession,False
+arcirepe,1,26,Address fragments / non-profession,False
+D'allefitanni,1,26,Address fragments / non-profession,False
+Navagero 34,1,26,Address fragments / non-profession,False
+Ann. Castellan G. & Santon A.,1,26,Address fragments / non-profession,False
+Duro 3188-29,1,26,Address fragments / non-profession,False
+Lari,1,26,Address fragments / non-profession,False
+ispett.,1,26,Address fragments / non-profession,False
+n. r. 1.,1,26,Address fragments / non-profession,False
+infe.,1,26,Address fragments / non-profession,False
+in translator biz,1,26,Address fragments / non-profession,False
+Fidibus against mosquitoes,1,26,Address fragments / non-profession,False
+ Prodalta,1,26,Address fragments / non-profession,False
+ latteria,1,26,Address fragments / non-profession,False
+ rdm,1,26,Address fragments / non-profession,False
+G. V,1,26,Address fragments / non-profession,False
+M 40,1,26,Address fragments / non-profession,False
+Sarta,1,26,Address fragments / non-profession,False
+Conchiapje,1,26,Address fragments / non-profession,False
+Patrimonio,1,26,Address fragments / non-profession,False
+Telefono,1,26,Address fragments / non-profession,False
+" Arsenal°, , ",1,26,Address fragments / non-profession,False
+Bimesile,1,26,Address fragments / non-profession,False
+Bce salutariameta,1,26,Address fragments / non-profession,False
+S. A.,1,26,Address fragments / non-profession,False
+ olii,1,26,Address fragments / non-profession,False
+Suaege,1,26,Address fragments / non-profession,False
+"DOGANA,",1,26,Address fragments / non-profession,False
+Rk. PP. Armeni Mechitaristi,1,26,Address fragments / non-profession,False
+monista,1,26,Address fragments / non-profession,False
+DELLA CA’ PESARO,4,27,Civic associations & clubs,False
+trattoria,4,27,Food & hospitality,False
+ trattoria,2,27,Food & hospitality,False
+presso Albergo Danieli,1,27,Food & hospitality,False
+presso Italian,1,27,Address fragments / non-profession,False
+Gruppo Ristoranti trattorie,1,27,Food & hospitality,False
+"Gruppo: Caffé, bar, bottigliere, birrierc",1,27,Food & hospitality,False
+Gruppo: Osterie,1,27,Food & hospitality,False
+località Dese,1,27,Address fragments / non-profession,False
+stireria,1,27,Personal care,False
+"Alla Nuova Trattoria, di Mario",1,27,Food & hospitality,False
+Stabilimento : Casa di Pena,1,27,Government offices / State administration,False
+rosticceria,1,27,Food & hospitality,False
+Compra Vendita Caffè e Ristoranti,1,27,Food & hospitality,False
+ Club Alpino Italiano,1,27,Food & hospitality,False
+ditta,1,27,Food & hospitality,False
+Premiate Cantine,1,27,Food & grocery retail,False
+Cairampane trattoria,1,27,Food & hospitality,False
+ristorante,1,27,Food & hospitality,False
+albergo e ristorante,1,27,Food & hospitality,False
+Category: Ospitalità,1,27,Food & hospitality,False
+caffè (torrefazione),1,27,Food & hospitality,False
+Ristorante,1,27,Food & hospitality,False
+Presidente,20,28,Governance and leadership titles,False
+Segretario,13,28,Governance and leadership titles,False
+Vice Presidente,4,28,Governance and leadership titles,False
+Municipio,4,28,Government offices / State administration,False
+Comandante,2,28,Governance and leadership titles,False
+ govvp,1,28,Governance and leadership titles,False
+Vice Economo,1,28,Governance and leadership titles,False
+"Segretario, ",1,28,Governance and leadership titles,False
+Gerente,1,28,Governance and leadership titles,False
+Vice Pres.,1,28,Governance and leadership titles,False
+Presidente ,1,28,Governance and leadership titles,False
+segretario,1,28,Governance and leadership titles,False
+"Presidente,",1,28,Governance and leadership titles,False
+Vice segretaria,1,28,Governance and leadership titles,False
+Vendita e Mobilizzi,544,29,General goods trade,True
+FERROVIE DELLO STATO,44,29,Transport and maritime,False
+Società MARE,27,29,Transport and maritime,True
+Società in NOME COLLETTIVO,18,29,Transport and maritime,False
+SOCIETA' CANOTTIERI BUCIUNTORO,8,29,Sports organizations,False
+Attività varie,7,29,Transport and maritime,False
+impresa edile,5,29,Transport and maritime,False
+Azienda Idroelettrica,5,29,Transport and maritime,True
+Società Cementi Armati Centrifugati,5,29,Transport and maritime,True
+Società Cooperativa Lavori e Recuperi Marittimi e Fluviali A. r. l.,4,29,Transport and maritime,False
+Category: Attività Marittime ed Aeree,3,29,Transport and maritime,False
+Squadra Mobile,3,29,Government offices / State administration,False
+SOCIETA ITALIANA DEGLI AUTORI ED EDITORI,2,29,"Institutions, press and political parties",False
+Category: Comunicazioni interne,2,29,Transport and maritime,False
+Società di assicurazioni,2,29,Transport and maritime,False
+Soc. Industriale es. Marco,2,29,Transport and maritime,False
+Soc. Montedison per l'industria chimica,2,29,Transport and maritime,False
+Società ITMA,1,29,Transport and maritime,False
+Assicurazioni Generali,1,29,Transport and maritime,False
+Stabilimento I. N. A.,1,29,Provincial and state institutions,False
+presso Adriatica di Navigazione,1,29,Transport and maritime,False
+Sezione Autonoma di Credito per le Piccole Industrie e l’Artigianato,1,29,Economic administration (academic),False
+Azienda,1,29,Transport and maritime,False
+"Ditta,",1,29,Transport and maritime,False
+noleggio imbarcazioni,1,29,Transport and maritime,False
+ impresa edile,1,29,Transport and maritime,False
+Società Anonima,1,29,Transport and maritime,False
+Societa Canottieri Bucintoro,1,29,Transport and maritime,False
+Soc. a.r. l.,1,29,Transport and maritime,False
+ricuperi navali,1,29,Transport and maritime,False
+ agenzia marittima,1,29,Transport and maritime,False
+Autotrasporti,1,29,Transport and maritime,False
+ cantiere navale,1,29,Transport and maritime,False
+Concessionarie Marelli,1,29,Transport and maritime,False
+ Imbarcazioni,1,29,Transport and maritime,False
+'IRC s.a.r.I.,1,29,Transport and maritime,False
+Società mineraria immobile,1,29,Transport and maritime,False
+Società Autorimessa Roma,1,29,Transport and maritime,False
+Società Bunieraggi,1,29,Transport and maritime,False
+Ame-ricana nel Petrolio,1,29,Transport and maritime,False
+Società Italo-Oriental d’idrogenco,1,29,Transport and maritime,False
+spedizioni e trasporti,1,29,Transport and maritime,False
+"Comando Militare Mar., Autorità dell'Alto Adriatico, Arsenale",1,29,Transport and maritime,False
+(Società per la Gestione),1,29,Transport and maritime,False
+Soc. Naz. Trasporti e Fratelli Gondrano,1,29,Transport and maritime,False
+Comando Militare Maritt Aut. dell'Alto Adriatico,1,29,Transport and maritime,False
+Sezione Città,1,29,Transport and maritime,False
+Sezione Terraferma,1,29,Transport and maritime,False
+Sezione Estuario e Marghera,1,29,Transport and maritime,False
+Ditta,1,29,Transport and maritime,False
+Vice Pres. Società Canottieri Bucintoro,1,29,Transport and maritime,False
+Società Cattolica di Assicurazione Verona,1,29,Transport and maritime,False
+Cantiere Navale,1,29,Transport and maritime,False
+gestione S. A. ICSA,1,29,Transport and maritime,False
+dell'Unione,1,29,Transport and maritime,False
+Federaz. Cooperative,1,29,Transport and maritime,False
+Deputazione Borsa valori,1,29,Transport and maritime,False
+ r. t. trasporti marittimi,1,29,Transport and maritime,False
+Segretario Generale dell’Associazione Regionale Per gli Industriali,1,29,Transport and maritime,False

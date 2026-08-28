@@ -1,0 +1,22 @@
+,Role_before,Role_after,Role_delta,Profession_before,Profession_after,Profession_delta,Total_before,Total_after,Total_delta
+all_pages_20260721_1901_ambiguous.csv,2089,224,-1865,2438,1592,-846,4527,1816,-2711
+all_pages_20260721_1901_geocoded.csv,13734,2087,-11647,15354,10337,-5017,29088,12424,-16664
+all_pages_20260721_1901_unmatched_sestiere.csv,10748,3969,-6779,11398,8331,-3067,22146,12300,-9846
+matched_manual.csv,409,389,-20,346,336,-10,755,725,-30
+matched_outside_venice_centroid.csv,938,147,-791,1023,673,-350,1961,820,-1141
+nciv_check_matched.csv,188,14,-174,208,138,-70,396,152,-244
+nciv_check_unmatched.csv,2420,1174,-1246,2360,1775,-585,4780,2949,-1831
+nciv_interpolated_matched.csv,307,41,-266,320,213,-107,627,254,-373
+nominatim_20260721_1924_matched_nominatim_outside.csv,1150,78,-1072,1302,898,-404,2452,976,-1476
+nominatim_20260721_1924_matched_provincia_centroid.csv,1876,296,-1580,2046,1528,-518,3922,1824,-2098
+nominatim_20260721_1924_nominatim_unmatched_outside.csv,0,0,0,0,0,0,0,0,0
+nominatim_20260722_0943_matched_centroid_provincia.csv,0,17406,17406,0,0,0,0,17406,17406
+nominatim_20260722_0943_matched_nominatim_provincia.csv,0,832,832,0,0,0,0,832,832
+nominatim_20260722_0943_nominatim_unmatched_provincia.csv,0,0,0,0,0,0,0,0,0
+nominatim_20260722_1042_matched_nominatim_inside.csv,2164,1345,-819,2361,1751,-610,4525,3096,-1429
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,5215,2376,-2839,5135,3825,-1310,10350,6201,-4149
+pipeline_exclusions.csv,81,81,0,1,1,0,82,82,0
+provincia_out_of_scope.csv,0,2,2,0,0,0,0,2,2
+unmatched_after_interpolation.csv,2101,1133,-968,2028,1557,-471,4129,2690,-1439
+unmatched_after_manual.csv,1645,671,-974,1709,1232,-477,3354,1903,-1451
+TOTAL (all files),45065,32265,-12800,48029,34187,-13842,93094,66452,-26642

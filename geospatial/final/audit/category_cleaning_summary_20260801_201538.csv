@@ -1,0 +1,6 @@
+action,count,pct_of_nonnull
+blank_pure_garbage,2904,4.4
+keep_cleaned_phone_stripped,24,0.04
+address_candidate_unresolved,596,0.9
+deferred_known_ad,362,0.55
+clean_untouched,62157,94.12

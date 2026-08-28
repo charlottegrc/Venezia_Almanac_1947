@@ -1,0 +1,7 @@
+Page,Run,Rows,Empty Rows,Truncated Names,Issues,Layout,Ad Type,Inferred Schema,Flags,Warning Count,Warning Detail,char_accuracy,word_accuracy,bow_similarity,row_count_similarity,semantic_precision,semantic_recall,semantic_f1,Column Differences,Row Count Diff,Rows A,Rows B,Failure Reasons
+page_63.jpg,page_63.jpg_semantic_1.csv,64.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,"Name,Address,Location,Role,Profession",propagation_address,1.0,-> WARNING: 55 rows (76%) missing both Address and Location on page_63.jpg,,,,,,,,,,,,
+page_63.jpg,page_63.jpg_semantic_2.csv,63.0,0.0,0.0,,COMPLEX_LAYOUT,,"Name,Address,Location,Role,Profession",propagation_address,1.0,-> WARNING: 56 rows (79%) missing both Address and Location on page_63.jpg,,,,,,,,,,,,
+page_63.jpg,page_63.jpg_semantic_1.csv,64.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,"Name,Address,Location,Role,Profession",propagation_address,1.0,-> WARNING: 55 rows (76%) missing both Address and Location on page_63.jpg,,,,,,,,,,,,
+page_63.jpg,compare_1_2,,,,,,,,,,,,,,,,,,Additional Info,1.0,64.0,63.0,
+page_63.jpg,compare_2_3,,,,,,,,,,,,,,,,,,Additional Info,1.0,63.0,64.0,
+page_63.jpg,PAGE_SUMMARY,,,,,,,,,,,,,,,,,,,,,,AD_INTERFERENCE_WITH_WARNINGS

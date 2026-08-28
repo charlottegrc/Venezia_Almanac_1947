@@ -1,0 +1,597 @@
+file,page_num,value,address_before,action
+all_pages_20260721_1901_unmatched_sestiere.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,151,"San Marco, 1955",Via Garibaldi,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,221,Via E. Toti 9,S. Lorenzo 5126,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,221,Via Palenzo 15,S. Girolamo 2980,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,221,Via M. Polo 15,fond. Misericordia 2528,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,225,Dorsoduro 1051,Mestre Calle del Sale 47,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,260,Castello 6168,"Giudecca fondamenta S. Giovanni 14, Cann. 3557",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,290,"Via Rosa, 22",Calle dei Fabbri 926,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,317,San Marco 181 A,"S. Margherita 3675, S. Polo 1806",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,357,Via Lepanto VII-18-B,Dosoduro .345,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,409,Via Cengio 6,Cavallino 3,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,411,Santa Croce 1991,S. Marco numero 323,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_no_geocode_columns
+all_pages_20260721_1901_unmatched_sestiere.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_no_geocode_columns
+all_pages_20260721_1901_unmatched_sestiere.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,412,Castello numero 6249,Lido Piazzale Ibuonic 18,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Murano S. Lorenzon numero 15,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"Murano, Campo San Bernardo 1",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"S. Bartolomeo, 5845",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,San Bartolomeo 5315,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"S. Bartolomeo, Calle dell'Olio 5537",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"Marghera, Via F.lli Bandiera",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,428,Via Parenzo 1,S. Marina 5906,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,428,Via Santi 4,S. Marina 5906,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,428,Via Poerio numero 50,S. Marina 5906,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Burano S. M.S. 622,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Cannaregio 4442-A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Lido Via Jacupo de Barbari 4,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Marco 5062,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,Isola Veniera 34,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,S. Marco 4202,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,457,Cannaregio 461,S. Marco 1415,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,457,Cannaregio 461,Via Porta 24,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,458,Via Ospedale 63,S. Vio 614.A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,Via Cappucina numero 48,S. Elena Piazza d Novoom-bra 53,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,Via Scutari 16,S. Zacaria 4691,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,"Via Scutari, numero 16",S. Zacaria 4691,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,Cannaregio 5044,S. Zacaria 4691,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,134,San Marco 3870,San Marco 2283,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,197,Calle della Bissa 5475,Piazza Cesare Battisti 16,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,200,Via Marghera 105,Cannaregio 4927,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,208,Via Piave 86,Dorsoduro 3110,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,280,Via San Donà 142-B,D. Duro 3004,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,290,"Via Rosa, 22",San Marco 337,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,384,Cannaregio 3689,"S. Marco 5019, Lido, S. M. Elisabetta 14.A., S. Marco 724, Lido, Gran Viale 40, fdm, S. Severo 5005, S. Polo 218, S. Elena, Campo Tigrari 20, S. Croce 737, S. Marco 3448, Lido, Via Malamocco 9, Cannaregio 4449, Cannaregio 5617, Cannaregio, 5599-A, S. Polo 594, S. Polo 2804, P. Duo 2353, Cannaregio 8415, Ponte della Guerra num. 5964, Cannaregio, Ponte delle Guglie, 1318, Cannaregio 5607, Cannaregio 386, Lido, Via Malamocco 51, S. Marco 1843, S. Vio 628",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,386,Castello 2982,"Saccagnana 15-A, Castello 13, S. Marco 2629, S. Basegio 1908",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,409,Via Malamocco 47,"Castello 641, San Marco 4577-2081; Lido",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,411,Cannaregio 5620,"""Cannaregio 5620""",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,411,Castello 6396,Castello 6396,duplicate_geocoded
+all_pages_20260721_1901_ambiguous.csv,411,Castello 4698,Castello 4698,duplicate_geocoded
+all_pages_20260721_1901_ambiguous.csv,411,San Marco 4706,San Marco 4706,duplicate_geocoded
+all_pages_20260721_1901_ambiguous.csv,411,Castello 6052,Castello 6052,duplicate_geocoded
+all_pages_20260721_1901_ambiguous.csv,411,Cannaregio 5401,Cannaregio 5401,duplicate_geocoded
+all_pages_20260721_1901_ambiguous.csv,411,Castello numero 6249,Castello numero 6249,duplicate_geocoded
+all_pages_20260721_1901_ambiguous.csv,413,Castello numero 6249,"S. Marco, numero 4722",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,413,Castello numero 6249,Castello 5764,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,413,Castello numero 6249,"S. Marco, numero 234",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,428,Via Mouta San Michele 4,Castello 6265-A,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,449,Via Paolucci 54.,"S. Marco 1683., Gal Teoria Matteotti 14",conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,454,Cannaregio 461,Merletti e rinasc. S. Marco 3666,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,455,Cannaregio 461,San Marco 1165,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,455,Cannaregio 461,S. Polo 225,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,455,Cannaregio 461,Zattere 779,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,455,Cannaregio 461,S. Polo 3046,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,455,Cannaregio 461,D. Duro 1642,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,455,Cannaregio 461,Cannaregio 3501,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,457,Cannaregio 461,Dorsoduro 2870,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,457,Cannaregio 461,Campo S. Luca 4557,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,466,Via Miranese 5,D. Duro 1045,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,466,Via Negroponte 16,D. Duro 1045,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,466,Calle dei Fabbri 4685-B,San Polo 2296,conflict_manual_review
+all_pages_20260721_1901_ambiguous.csv,466,Via Barovier 12,Campo S. Geremia 282,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,134,San Marco 3870,San Marco 2283,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,140,Dorsoduro 855-B,S. Croce 782,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,149,Calle del Carbon 4177,"Cannaregio, Rio Terra Maddalena, 2064",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,183,Castello 6231,S. Marco 1804,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,185,San Marco 2683,S. Marco fdm. Dal 376,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,197,Calle della Bissa 5475,Piazza Cesare Battisti 16,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,200,Via Marghera 105,Cannaregio 4927,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,206,Via Ospale le 12,"""S. Marco 4155""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,208,Via Piave 86,Dorsoduro 3110,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Cannaregio 2325,San Marco 4261,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via Motto Grappa 4,S. Polo 1568,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via M. Bragadin 6,Castello 1340,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via F.lli Banidera 69,S. Polo 857,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via Cappuchina 45,"fond. Misericordia 2528, Cannaregio 5626-AD",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,225,Via Mazzini 5110,"San Marco, 739",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,270,Via Lorenzo Marcello 7,Cann. 1352,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,277,Via Cipr 7. 3,Castello 4682 A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,280,Via Bellinato 3,Castello 5273,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,280,Via San Donà 142-B,D. Duro 3004,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,290,"Via Rosa, 22",San Marco 337,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,299,Via Girolamo 126,S. Marco 3192,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,332,Giudecca 21,Castello 460,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,352,Via Galupp 19,D. Duro 3462,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,353,Via G. Gozzi 10,San Marco 4836,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,357,Via Costa 10,S. Stefano n. 2807,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,372,Castello 2158,S. Croce 756,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,372,Castello 2158,"S. Croce 756, S. Marco 4579, S. Marco 4647, Cannaregio 1697-A, Cannaregio 1705, Cannaregio numero 4505, San Cassiano 1828, S. Angelo 3835",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,384,Cannaregio 3689,"S. Marco 5019, Lido, S. M. Elisabetta 14.A., S. Marco 724, Lido, Gran Viale 40, fdm, S. Severo 5005, S. Polo 218, S. Elena, Campo Tigrari 20, S. Croce 737, S. Marco 3448, Lido, Via Malamocco 9, Cannaregio 4449, Cannaregio 5617, Cannaregio, 5599-A, S. Polo 594, S. Polo 2804, P. Duo 2353, Cannaregio 8415, Ponte della Guerra num. 5964, Cannaregio, Ponte delle Guglie, 1318, Cannaregio 5607, Cannaregio 386, Lido, Via Malamocco 51, S. Marco 1843, S. Vio 628",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,386,Castello 2982,"Saccagnana 15-A, Castello 13, S. Marco 2629, S. Basegio 1908",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,Dorsoduro 880,San Marco 1757,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,D. Duro 2090,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,Dorsoduro 200.B,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,Giudecca 6n,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655, D. Duro 722, Lido. Gran Viale 82",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,San Marco numero 2954,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655, D. Duro 722, Lido. Gran Viale 82, Castello numero 3495-96, Mestre. Piazza Umberto 1, S. State numero 1851, S. Pantalon 6, S. Barnaba numero 3000, Castello numero 3852, Carpenedo, Via Pasqualigo 29, S. Croce 1157B, S. Marco numero 5292, Cann. 103, S. Marco 24, Mestre, Via 27 Ottobre 30, San Polo 1051, Mestre, Via Piave 80",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,409,Via Malamocco 47,"Castello 641, San Marco 4577-2081; Lido",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,San Polo numero 2001,San Polo numero 2001,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Cannaregio 5620,"""Cannaregio 5620""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,D. Duro 3232,"""D. Duro 3232""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,Santa Croce 1991,Santa Croce 1991,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco 5074,San Marco 5074,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Castello 6396,Castello 6396,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Castello 4698,Castello 4698,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco numero 4855,San Marco numero 4855,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco 4706,San Marco 4706,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,D. Duro 858,"""D. Duro 858""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,Castello 6052,Castello 6052,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco 2456,San Marco 2456,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Cannaregio 5401,Cannaregio 5401,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,D. Duro 853-B,D. Duro 853-B,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,D. Duro numero 866,D. Duro numero 866,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Castello numero 6249,Castello numero 6249,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,412,Castello numero 6249,Giudecca numero 608,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,412,Castello numero 6249,Dorsoduro numero 489-B,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Cannaregio numero 1329,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Cannaregio 5993,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,S. Marco numero 135,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,"S. Marco, numero 4722",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,San Marco 1264,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,S. Lio 4678,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Castello 5764,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Cannaregio numero 3943,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Giudecca 125,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,SS. Apostoli numero 4702,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,"S. Marco, numero 234",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,D. Duro numero 1043,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,S. Croce 21,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,421,Via Fiurme 73,Rialto 199,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via G. Bruno numero 16,D. Duro 750,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via Miranese 61,D. Duro 750,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via Mouta San Michele 4,Castello 6265-A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via Cippo 15,Cannaregio numero 6062,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,440,Via Rosa 27,San Marco numero 909-A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,449,Via Paolucci 54.,"S. Marco 1683., Gal Teoria Matteotti 14",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,454,Cannaregio 461,"San Marco numero 4988, S. Maria del Giglio numero 2436",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,454,Cannaregio 461,San Marco 876,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,454,Cannaregio 461,Merletti e rinasc. S. Marco 3666,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 3728,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 3729,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 691,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 1771,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 2846,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 2062,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 1165,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 225,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Zattere 779,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 857,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Croce 1609,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,"S. Croce 1609, Castello 2682",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 3135,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 364,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 364,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,"San Marco 3632, D. Duro 2382",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 876,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 2358,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 987,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 2083,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 1907,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 1907,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 3046,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 3710,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Croce 2286,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,D. Duro 1642,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 4357,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 2275,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 3501,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 579,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 579,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 579,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 1473,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Stefano 2902,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,457,Cannaregio 461,Dorsoduro 2870,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,457,Cannaregio 461,Campo S. Luca 4557,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,465,Via Rosa B. 10,S. Maria del Giglio 2156,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Via Miranese 5,D. Duro 1045,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Via Negroponte 16,D. Duro 1045,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Calle dei Fabbri 4685-B,San Polo 2296,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Via Barovier 12,Campo S. Geremia 282,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,475,Via Lamen 1,"S. Marco, 2665",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,478,San Marco 4382,San Simeone 737,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via Macello 13,S. Polo 1571,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via P. Orseolo 14,S. Marco 1576,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Cannaregio 5040,"Castello 4901, Andrea cafe (eserci4.)",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via M. Bragami din 14,Castello numero 1268,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via Candia 2,Castello numero 1268,conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,260,Castello 6168,"Giudecca fondamenta S. Giovanni 14, Cann. 3557",conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,413,Castello numero 6249,"S. Bartolomeo, 5845",conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,413,Castello numero 6249,San Bartolomeo 5315,conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,413,Castello numero 6249,"S. Bartolomeo, Calle dell'Olio 5537",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,411,Santa Croce 1991,S. Marco numero 323,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_not_geocoded
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_not_geocoded
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,Cannaregio 4442-A,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Marco 5062,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,456,Cannaregio 461,S. Marco 4202,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,457,Cannaregio 461,S. Marco 1415,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,458,Via Ospedale 63,S. Vio 614.A,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,151,"San Marco, 1955",Via Garibaldi,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,221,Via M. Polo 15,fond. Misericordia 2528,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,290,"Via Rosa, 22",Calle dei Fabbri 926,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,317,San Marco 181 A,"S. Margherita 3675, S. Polo 1806",conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,357,Via Lepanto VII-18-B,Dosoduro .345,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,409,Via Cengio 6,Cavallino 3,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,412,Castello numero 6249,Lido Piazzale Ibuonic 18,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,413,Castello numero 6249,Murano S. Lorenzon numero 15,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,413,Castello numero 6249,"Marghera, Via F.lli Bandiera",conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,428,Via Poerio numero 50,S. Marina 5906,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,455,Cannaregio 461,Burano S. M.S. 622,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,455,Cannaregio 461,Lido Via Jacupo de Barbari 4,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,456,Cannaregio 461,Isola Veniera 34,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,457,Cannaregio 461,Via Porta 24,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,Via Cappucina numero 48,S. Elena Piazza d Novoom-bra 53,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,Via Scutari 16,S. Zacaria 4691,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,"Via Scutari, numero 16",S. Zacaria 4691,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,Cannaregio 5044,S. Zacaria 4691,conflict_manual_review
+nominatim_20260721_1924_matched_nominatim_outside.csv,221,Via E. Toti 9,S. Lorenzo 5126,conflict_manual_review
+nominatim_20260721_1924_matched_nominatim_outside.csv,221,Via Palenzo 15,S. Girolamo 2980,conflict_manual_review
+nominatim_20260721_1924_matched_nominatim_outside.csv,225,Dorsoduro 1051,Mestre Calle del Sale 47,conflict_manual_review
+nominatim_20260721_1924_matched_nominatim_outside.csv,221,Via E. Toti 9,S. Lorenzo 5126,conflict_manual_review
+nominatim_20260721_1924_matched_nominatim_outside.csv,221,Via Palenzo 15,S. Girolamo 2980,conflict_manual_review
+nominatim_20260721_1924_matched_nominatim_outside.csv,225,Dorsoduro 1051,Mestre Calle del Sale 47,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,151,"San Marco, 1955",Via Garibaldi,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,221,Via M. Polo 15,fond. Misericordia 2528,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,290,"Via Rosa, 22",Calle dei Fabbri 926,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,317,San Marco 181 A,"S. Margherita 3675, S. Polo 1806",conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,357,Via Lepanto VII-18-B,Dosoduro .345,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,409,Via Cengio 6,Cavallino 3,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,412,Castello numero 6249,Lido Piazzale Ibuonic 18,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,413,Castello numero 6249,Murano S. Lorenzon numero 15,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,413,Castello numero 6249,"Marghera, Via F.lli Bandiera",conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,428,Via Poerio numero 50,S. Marina 5906,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,455,Cannaregio 461,Burano S. M.S. 622,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,455,Cannaregio 461,Lido Via Jacupo de Barbari 4,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,456,Cannaregio 461,Isola Veniera 34,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,457,Cannaregio 461,Via Porta 24,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,Via Cappucina numero 48,S. Elena Piazza d Novoom-bra 53,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,Via Scutari 16,S. Zacaria 4691,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,"Via Scutari, numero 16",S. Zacaria 4691,conflict_manual_review
+nominatim_20260721_1924_matched_provincia_centroid.csv,466,Cannaregio 5044,S. Zacaria 4691,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,411,Santa Croce 1991,S. Marco numero 323,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_not_geocoded
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_not_geocoded
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,Cannaregio 4442-A,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,455,Cannaregio 461,S. Marco 5062,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,456,Cannaregio 461,S. Marco 4202,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,457,Cannaregio 461,S. Marco 1415,conflict_manual_review
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,458,Via Ospedale 63,S. Vio 614.A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,151,"San Marco, 1955",Via Garibaldi,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,221,Via E. Toti 9,S. Lorenzo 5126,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,221,Via Palenzo 15,S. Girolamo 2980,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,221,Via M. Polo 15,fond. Misericordia 2528,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,225,Dorsoduro 1051,Mestre Calle del Sale 47,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,260,Castello 6168,"Giudecca fondamenta S. Giovanni 14, Cann. 3557",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,290,"Via Rosa, 22",Calle dei Fabbri 926,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,317,San Marco 181 A,"S. Margherita 3675, S. Polo 1806",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,357,Via Lepanto VII-18-B,Dosoduro .345,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,409,Via Cengio 6,Cavallino 3,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,411,Santa Croce 1991,S. Marco numero 323,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_not_geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_not_geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,412,Castello numero 6249,Lido Piazzale Ibuonic 18,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Murano S. Lorenzon numero 15,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"Murano, Campo San Bernardo 1",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"S. Bartolomeo, 5845",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,San Bartolomeo 5315,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"S. Bartolomeo, Calle dell'Olio 5537",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"Marghera, Via F.lli Bandiera",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,428,Via Parenzo 1,S. Marina 5906,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,428,Via Santi 4,S. Marina 5906,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,428,Via Poerio numero 50,S. Marina 5906,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Burano S. M.S. 622,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Cannaregio 4442-A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,Lido Via Jacupo de Barbari 4,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,455,Cannaregio 461,S. Marco 5062,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,Isola Veniera 34,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,456,Cannaregio 461,S. Marco 4202,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,457,Cannaregio 461,S. Marco 1415,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,457,Cannaregio 461,Via Porta 24,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,458,Via Ospedale 63,S. Vio 614.A,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,Via Cappucina numero 48,S. Elena Piazza d Novoom-bra 53,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,Via Scutari 16,S. Zacaria 4691,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,"Via Scutari, numero 16",S. Zacaria 4691,conflict_manual_review
+all_pages_20260721_1901_unmatched_sestiere.csv,466,Cannaregio 5044,S. Zacaria 4691,conflict_manual_review
+nciv_check_unmatched.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+nciv_check_unmatched.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+nciv_check_unmatched.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+nciv_check_unmatched.csv,411,Santa Croce 1991,S. Marco numero 323,conflict_manual_review
+nciv_check_unmatched.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_not_geocoded
+nciv_check_unmatched.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_not_geocoded
+nciv_check_unmatched.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+nciv_check_unmatched.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+nciv_check_unmatched.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+nciv_check_unmatched.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+nciv_check_unmatched.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+nciv_check_unmatched.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+nciv_check_unmatched.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,Cannaregio 4442-A,conflict_manual_review
+nciv_check_unmatched.csv,455,Cannaregio 461,S. Marco 5062,conflict_manual_review
+nciv_check_unmatched.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+nciv_check_unmatched.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+nciv_check_unmatched.csv,456,Cannaregio 461,S. Marco 4202,conflict_manual_review
+nciv_check_unmatched.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review
+nciv_check_unmatched.csv,457,Cannaregio 461,S. Marco 1415,conflict_manual_review
+nciv_check_unmatched.csv,458,Via Ospedale 63,S. Vio 614.A,conflict_manual_review
+nciv_interpolated_matched.csv,411,Santa Croce 1991,S. Marco numero 323,conflict_manual_review
+nciv_interpolated_matched.csv,455,Cannaregio 461,Cannaregio 4442-A,conflict_manual_review
+nciv_interpolated_matched.csv,455,Cannaregio 461,S. Marco 5062,conflict_manual_review
+nciv_interpolated_matched.csv,456,Cannaregio 461,S. Marco 4202,conflict_manual_review
+nciv_interpolated_matched.csv,457,Cannaregio 461,S. Marco 1415,conflict_manual_review
+nciv_interpolated_matched.csv,458,Via Ospedale 63,S. Vio 614.A,conflict_manual_review
+unmatched_after_interpolation.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+unmatched_after_interpolation.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+unmatched_after_interpolation.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+unmatched_after_interpolation.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_not_geocoded
+unmatched_after_interpolation.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_not_geocoded
+unmatched_after_interpolation.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+unmatched_after_interpolation.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+unmatched_after_interpolation.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+unmatched_after_interpolation.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+unmatched_after_interpolation.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+unmatched_after_interpolation.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+unmatched_after_interpolation.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+unmatched_after_interpolation.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+unmatched_after_interpolation.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+unmatched_after_interpolation.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+unmatched_after_interpolation.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,134,San Marco 3870,San Marco 2283,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,140,Dorsoduro 855-B,S. Croce 782,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,149,Calle del Carbon 4177,"Cannaregio, Rio Terra Maddalena, 2064",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,183,Castello 6231,S. Marco 1804,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,185,San Marco 2683,S. Marco fdm. Dal 376,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,197,Calle della Bissa 5475,Piazza Cesare Battisti 16,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,200,Via Marghera 105,Cannaregio 4927,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,206,Via Ospale le 12,"""S. Marco 4155""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,208,Via Piave 86,Dorsoduro 3110,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Cannaregio 2325,San Marco 4261,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via Motto Grappa 4,S. Polo 1568,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via M. Bragadin 6,Castello 1340,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via F.lli Banidera 69,S. Polo 857,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,221,Via Cappuchina 45,"fond. Misericordia 2528, Cannaregio 5626-AD",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,225,Via Mazzini 5110,"San Marco, 739",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,270,Via Lorenzo Marcello 7,Cann. 1352,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,277,Via Cipr 7. 3,Castello 4682 A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,280,Via Bellinato 3,Castello 5273,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,280,Via San Donà 142-B,D. Duro 3004,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,290,"Via Rosa, 22",San Marco 337,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,299,Via Girolamo 126,S. Marco 3192,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,332,Giudecca 21,Castello 460,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,352,Via Galupp 19,D. Duro 3462,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,353,Via G. Gozzi 10,San Marco 4836,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,357,Via Costa 10,S. Stefano n. 2807,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,372,Castello 2158,S. Croce 756,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,372,Castello 2158,"S. Croce 756, S. Marco 4579, S. Marco 4647, Cannaregio 1697-A, Cannaregio 1705, Cannaregio numero 4505, San Cassiano 1828, S. Angelo 3835",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,384,Cannaregio 3689,"S. Marco 5019, Lido, S. M. Elisabetta 14.A., S. Marco 724, Lido, Gran Viale 40, fdm, S. Severo 5005, S. Polo 218, S. Elena, Campo Tigrari 20, S. Croce 737, S. Marco 3448, Lido, Via Malamocco 9, Cannaregio 4449, Cannaregio 5617, Cannaregio, 5599-A, S. Polo 594, S. Polo 2804, P. Duo 2353, Cannaregio 8415, Ponte della Guerra num. 5964, Cannaregio, Ponte delle Guglie, 1318, Cannaregio 5607, Cannaregio 386, Lido, Via Malamocco 51, S. Marco 1843, S. Vio 628",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,386,Castello 2982,"Saccagnana 15-A, Castello 13, S. Marco 2629, S. Basegio 1908",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,Dorsoduro 880,San Marco 1757,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,D. Duro 2090,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,Dorsoduro 200.B,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,Giudecca 6n,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655, D. Duro 722, Lido. Gran Viale 82",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,393,San Marco numero 2954,"San Marco 1757, San Polo 2605, San Marco 5228, San Marco numero 4791, S. Croce 1084, Via 22 Marzo numero 2283.A, S. Maria Formosa numero 4778, Via Tessera 445, Cannaregio 3710, San Marco numero 45.46.47, Dorsoduro 948, Via Garibaldi 1386, Castello numero 1455, Cannaregio, numero 3860, S. Polo 43, Cann. 3866, S. Elena 17, S. Angelo 3832, D. Duro 990, Cannaregio 1296, Dorsoduro numero 862, S. Lio 5449, S. Polo 1734, S. Marco 9721, Cannaregio numero 5435, S. Polo 2199, San Marco 4232, San Luca 4779, S. Samuele 3243.B, D. Duro 722, Castello 6655, D. Duro 722, Lido. Gran Viale 82, Castello numero 3495-96, Mestre. Piazza Umberto 1, S. State numero 1851, S. Pantalon 6, S. Barnaba numero 3000, Castello numero 3852, Carpenedo, Via Pasqualigo 29, S. Croce 1157B, S. Marco numero 5292, Cann. 103, S. Marco 24, Mestre, Via 27 Ottobre 30, San Polo 1051, Mestre, Via Piave 80",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,409,Via Malamocco 47,"Castello 641, San Marco 4577-2081; Lido",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,San Polo numero 2001,San Polo numero 2001,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Cannaregio 5620,"""Cannaregio 5620""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,D. Duro 3232,"""D. Duro 3232""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,Santa Croce 1991,Santa Croce 1991,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco 5074,San Marco 5074,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Castello 6396,Castello 6396,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Castello 4698,Castello 4698,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco numero 4855,San Marco numero 4855,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco 4706,San Marco 4706,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,D. Duro 858,"""D. Duro 858""",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,411,Castello 6052,Castello 6052,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,San Marco 2456,San Marco 2456,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Cannaregio 5401,Cannaregio 5401,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,D. Duro 853-B,D. Duro 853-B,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,D. Duro numero 866,D. Duro numero 866,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,411,Castello numero 6249,Castello numero 6249,duplicate_geocoded
+all_pages_20260721_1901_geocoded.csv,412,Castello numero 6249,Giudecca numero 608,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,412,Castello numero 6249,Dorsoduro numero 489-B,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Cannaregio numero 1329,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Cannaregio 5993,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,S. Marco numero 135,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,"S. Marco, numero 4722",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,San Marco 1264,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,S. Lio 4678,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Castello 5764,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Cannaregio numero 3943,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,Giudecca 125,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,SS. Apostoli numero 4702,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,"S. Marco, numero 234",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,D. Duro numero 1043,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,413,Castello numero 6249,S. Croce 21,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,421,Via Fiurme 73,Rialto 199,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via G. Bruno numero 16,D. Duro 750,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via Miranese 61,D. Duro 750,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via Mouta San Michele 4,Castello 6265-A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,428,Via Cippo 15,Cannaregio numero 6062,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,440,Via Rosa 27,San Marco numero 909-A,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,449,Via Paolucci 54.,"S. Marco 1683., Gal Teoria Matteotti 14",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,454,Cannaregio 461,"San Marco numero 4988, S. Maria del Giglio numero 2436",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,454,Cannaregio 461,San Marco 876,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,454,Cannaregio 461,Merletti e rinasc. S. Marco 3666,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 3728,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 3729,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 691,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 1771,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 2846,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 2062,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 1165,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 225,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Zattere 779,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 857,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Croce 1609,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,"S. Croce 1609, Castello 2682",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 3135,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 364,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 364,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,"San Marco 3632, D. Duro 2382",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 876,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 2358,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 987,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 2083,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 1907,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 1907,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 3046,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 3710,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Croce 2286,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,D. Duro 1642,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,San Marco 4357,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 2275,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,Cannaregio 3501,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 579,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 579,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Polo 579,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Marco 1473,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,455,Cannaregio 461,S. Stefano 2902,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,457,Cannaregio 461,Dorsoduro 2870,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,457,Cannaregio 461,Campo S. Luca 4557,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,465,Via Rosa B. 10,S. Maria del Giglio 2156,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Via Miranese 5,D. Duro 1045,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Via Negroponte 16,D. Duro 1045,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Calle dei Fabbri 4685-B,San Polo 2296,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,466,Via Barovier 12,Campo S. Geremia 282,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,475,Via Lamen 1,"S. Marco, 2665",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,478,San Marco 4382,San Simeone 737,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via Macello 13,S. Polo 1571,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via P. Orseolo 14,S. Marco 1576,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Cannaregio 5040,"Castello 4901, Andrea cafe (eserci4.)",conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via M. Bragami din 14,Castello numero 1268,conflict_manual_review
+all_pages_20260721_1901_geocoded.csv,480,Via Candia 2,Castello numero 1268,conflict_manual_review
+matched_outside_venice_centroid.csv,151,"San Marco, 1955",Via Garibaldi,conflict_manual_review
+matched_outside_venice_centroid.csv,221,Via M. Polo 15,fond. Misericordia 2528,conflict_manual_review
+matched_outside_venice_centroid.csv,290,"Via Rosa, 22",Calle dei Fabbri 926,conflict_manual_review
+matched_outside_venice_centroid.csv,317,San Marco 181 A,"S. Margherita 3675, S. Polo 1806",conflict_manual_review
+matched_outside_venice_centroid.csv,357,Via Lepanto VII-18-B,Dosoduro .345,conflict_manual_review
+matched_outside_venice_centroid.csv,409,Via Cengio 6,Cavallino 3,conflict_manual_review
+matched_outside_venice_centroid.csv,412,Castello numero 6249,Lido Piazzale Ibuonic 18,conflict_manual_review
+matched_outside_venice_centroid.csv,413,Castello numero 6249,Murano S. Lorenzon numero 15,conflict_manual_review
+matched_outside_venice_centroid.csv,413,Castello numero 6249,"Marghera, Via F.lli Bandiera",conflict_manual_review
+matched_outside_venice_centroid.csv,428,Via Poerio numero 50,S. Marina 5906,conflict_manual_review
+matched_outside_venice_centroid.csv,455,Cannaregio 461,Burano S. M.S. 622,conflict_manual_review
+matched_outside_venice_centroid.csv,455,Cannaregio 461,Lido Via Jacupo de Barbari 4,conflict_manual_review
+matched_outside_venice_centroid.csv,456,Cannaregio 461,Isola Veniera 34,conflict_manual_review
+matched_outside_venice_centroid.csv,457,Cannaregio 461,Via Porta 24,conflict_manual_review
+matched_outside_venice_centroid.csv,466,Via Cappucina numero 48,S. Elena Piazza d Novoom-bra 53,conflict_manual_review
+matched_outside_venice_centroid.csv,466,Via Scutari 16,S. Zacaria 4691,conflict_manual_review
+matched_outside_venice_centroid.csv,466,"Via Scutari, numero 16",S. Zacaria 4691,conflict_manual_review
+matched_outside_venice_centroid.csv,466,Cannaregio 5044,S. Zacaria 4691,conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,260,Castello 6168,"Giudecca fondamenta S. Giovanni 14, Cann. 3557",conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,413,Castello numero 6249,"S. Bartolomeo, 5845",conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,413,Castello numero 6249,San Bartolomeo 5315,conflict_manual_review
+nominatim_20260722_1042_matched_nominatim_inside.csv,413,Castello numero 6249,"S. Bartolomeo, Calle dell'Olio 5537",conflict_manual_review
+unmatched_after_manual.csv,140,Cannaregio 3051,S. Beneo 3945,conflict_manual_review
+unmatched_after_manual.csv,199,Cannaregio 4726,Marghere Via delle Macchine,conflict_manual_review
+unmatched_after_manual.csv,373,Via M. Sabotino 8,Via Cattafian 107,conflict_manual_review
+unmatched_after_manual.csv,411,Calle dei Fabbri 926,Calle dei Fabbri 926,duplicate_not_geocoded
+unmatched_after_manual.csv,411,Calle dei Fabbri 4696,Calle dei Fabbri 4696,duplicate_not_geocoded
+unmatched_after_manual.csv,412,Castello numero 6249,"S. Pole 1931, Via Negroponte 7-A",conflict_manual_review
+unmatched_after_manual.csv,413,Castello numero 6249,Rio Marin 785,conflict_manual_review
+unmatched_after_manual.csv,413,Castello numero 6249,San Giacomo dell'Orio 5586,conflict_manual_review
+unmatched_after_manual.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+unmatched_after_manual.csv,413,Castello numero 6249,Calle Lunga S. Maria Formosa 8158-5283,conflict_manual_review
+unmatched_after_manual.csv,413,Castello numero 6249,"Calle Lunga S. Maria Formosa 8158-5283, Carmini 3465",conflict_manual_review
+unmatched_after_manual.csv,454,Cannaregio 461,Calle S. giuari 5184,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,Ca' Steldi 2830,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,San Leonardo 1841,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,S. Lorenzo 5062,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,S. Marina 5890,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,Malcontenta 97,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+unmatched_after_manual.csv,455,Cannaregio 461,S. Gernezia 256,conflict_manual_review
+unmatched_after_manual.csv,456,Cannaregio 461,"Bocca di Piazza, 1261-82",conflict_manual_review
+unmatched_after_manual.csv,456,Cannaregio 461,Via Mazzeni 5116,conflict_manual_review
+unmatched_after_manual.csv,457,Cannaregio 461,Campo regio 1227-A,conflict_manual_review

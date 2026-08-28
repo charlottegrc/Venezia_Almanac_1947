@@ -1,0 +1,1 @@
+Name,Address,Location,Category,Role,Profession,Additional Info,Notes,Political Party,page_num,source_file,section,civic_num,civic_lett,sestiere_parsed,parish_parsed,sestiere_implied,match_note,location_cleaned,fail_reason,nom_classification,geocoding_tier,match_confidence,nominatim_query,llm_cleaned_address,nominatim_flagged,matched_lat,matched_lon

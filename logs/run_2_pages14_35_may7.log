@@ -1,0 +1,664 @@
+Log file: /Users/charlottegarcia/Desktop/thesis/llm_ocr/llm_ocr_results/run_20260505_111526.log
+Drive folder ready: Venezia_Almanac_1947
+Converting PDF → Drive upload at 200 DPI...
+Skipping existing: page_1.jpg
+Skipping existing: page_2.jpg
+Skipping existing: page_3.jpg
+Skipping existing: page_4.jpg
+Skipping existing: page_5.jpg
+Skipping existing: page_6.jpg
+Skipping existing: page_7.jpg
+Skipping existing: page_8.jpg
+Skipping existing: page_9.jpg
+Skipping existing: page_10.jpg
+Skipping existing: page_11.jpg
+Skipping existing: page_12.jpg
+Skipping existing: page_13.jpg
+Skipping existing: page_14.jpg
+Skipping existing: page_15.jpg
+Skipping existing: page_16.jpg
+Skipping existing: page_17.jpg
+Skipping existing: page_18.jpg
+Skipping existing: page_19.jpg
+Skipping existing: page_20.jpg
+Skipping existing: page_21.jpg
+Skipping existing: page_22.jpg
+Skipping existing: page_23.jpg
+Skipping existing: page_24.jpg
+Skipping existing: page_25.jpg
+Skipping existing: page_26.jpg
+Skipping existing: page_27.jpg
+Skipping existing: page_28.jpg
+Skipping existing: page_29.jpg
+Skipping existing: page_30.jpg
+Skipping existing: page_31.jpg
+Skipping existing: page_32.jpg
+Skipping existing: page_33.jpg
+Skipping existing: page_34.jpg
+Skipping existing: page_35.jpg
+Skipping existing: page_36.jpg
+Skipping existing: page_37.jpg
+Skipping existing: page_38.jpg
+Skipping existing: page_39.jpg
+Skipping existing: page_40.jpg
+Skipping existing: page_41.jpg
+Skipping existing: page_42.jpg
+Skipping existing: page_43.jpg
+Skipping existing: page_44.jpg
+Skipping existing: page_45.jpg
+Skipping existing: page_46.jpg
+Skipping existing: page_47.jpg
+Skipping existing: page_48.jpg
+Skipping existing: page_49.jpg
+Skipping existing: page_50.jpg
+Skipping existing: page_51.jpg
+Skipping existing: page_52.jpg
+Skipping existing: page_53.jpg
+Skipping existing: page_54.jpg
+Skipping existing: page_55.jpg
+Skipping existing: page_56.jpg
+Skipping existing: page_57.jpg
+Skipping existing: page_58.jpg
+Skipping existing: page_59.jpg
+Skipping existing: page_60.jpg
+Skipping existing: page_61.jpg
+Skipping existing: page_62.jpg
+Skipping existing: page_63.jpg
+Skipping existing: page_64.jpg
+Skipping existing: page_65.jpg
+Skipping existing: page_66.jpg
+Skipping existing: page_67.jpg
+Skipping existing: page_68.jpg
+Skipping existing: page_69.jpg
+Skipping existing: page_70.jpg
+Skipping existing: page_71.jpg
+Skipping existing: page_72.jpg
+Skipping existing: page_73.jpg
+Skipping existing: page_74.jpg
+Skipping existing: page_75.jpg
+Skipping existing: page_76.jpg
+Skipping existing: page_77.jpg
+Skipping existing: page_78.jpg
+Skipping existing: page_79.jpg
+Skipping existing: page_80.jpg
+Skipping existing: page_81.jpg
+Skipping existing: page_82.jpg
+Skipping existing: page_83.jpg
+Skipping existing: page_84.jpg
+Skipping existing: page_85.jpg
+Skipping existing: page_86.jpg
+Skipping existing: page_87.jpg
+Skipping existing: page_88.jpg
+Skipping existing: page_89.jpg
+Skipping existing: page_90.jpg
+Skipping existing: page_91.jpg
+Skipping existing: page_92.jpg
+Skipping existing: page_93.jpg
+Skipping existing: page_94.jpg
+Skipping existing: page_95.jpg
+Skipping existing: page_96.jpg
+Skipping existing: page_97.jpg
+Skipping existing: page_98.jpg
+Skipping existing: page_99.jpg
+Skipping existing: page_100.jpg
+Skipping existing: page_101.jpg
+Skipping existing: page_102.jpg
+Skipping existing: page_103.jpg
+Skipping existing: page_104.jpg
+Skipping existing: page_105.jpg
+Skipping existing: page_106.jpg
+Skipping existing: page_107.jpg
+Skipping existing: page_108.jpg
+Skipping existing: page_109.jpg
+Skipping existing: page_110.jpg
+Skipping existing: page_111.jpg
+Skipping existing: page_112.jpg
+Skipping existing: page_113.jpg
+Skipping existing: page_114.jpg
+Skipping existing: page_115.jpg
+Skipping existing: page_116.jpg
+Skipping existing: page_117.jpg
+Skipping existing: page_118.jpg
+Skipping existing: page_119.jpg
+Skipping existing: page_120.jpg
+Skipping existing: page_121.jpg
+Skipping existing: page_122.jpg
+Skipping existing: page_123.jpg
+Skipping existing: page_124.jpg
+Skipping existing: page_125.jpg
+Skipping existing: page_126.jpg
+Skipping existing: page_127.jpg
+Skipping existing: page_128.jpg
+Skipping existing: page_129.jpg
+Skipping existing: page_130.jpg
+Skipping existing: page_131.jpg
+Skipping existing: page_132.jpg
+Skipping existing: page_133.jpg
+Skipping existing: page_134.jpg
+Skipping existing: page_135.jpg
+Skipping existing: page_136.jpg
+Skipping existing: page_137.jpg
+Skipping existing: page_138.jpg
+Skipping existing: page_139.jpg
+Skipping existing: page_140.jpg
+Skipping existing: page_141.jpg
+Skipping existing: page_142.jpg
+Skipping existing: page_143.jpg
+Skipping existing: page_144.jpg
+Skipping existing: page_145.jpg
+Skipping existing: page_146.jpg
+Skipping existing: page_147.jpg
+Skipping existing: page_148.jpg
+Skipping existing: page_149.jpg
+Skipping existing: page_150.jpg
+Skipping existing: page_151.jpg
+Skipping existing: page_152.jpg
+Skipping existing: page_153.jpg
+Skipping existing: page_154.jpg
+Skipping existing: page_155.jpg
+Skipping existing: page_156.jpg
+Skipping existing: page_157.jpg
+Skipping existing: page_158.jpg
+Skipping existing: page_159.jpg
+Skipping existing: page_160.jpg
+Skipping existing: page_161.jpg
+Skipping existing: page_162.jpg
+Skipping existing: page_163.jpg
+Skipping existing: page_164.jpg
+Skipping existing: page_165.jpg
+Skipping existing: page_166.jpg
+Skipping existing: page_167.jpg
+Skipping existing: page_168.jpg
+Skipping existing: page_169.jpg
+Skipping existing: page_170.jpg
+Skipping existing: page_171.jpg
+Skipping existing: page_172.jpg
+Skipping existing: page_173.jpg
+Skipping existing: page_174.jpg
+Skipping existing: page_175.jpg
+Skipping existing: page_176.jpg
+Skipping existing: page_177.jpg
+Skipping existing: page_178.jpg
+Skipping existing: page_179.jpg
+Skipping existing: page_180.jpg
+Skipping existing: page_181.jpg
+Skipping existing: page_182.jpg
+Skipping existing: page_183.jpg
+Skipping existing: page_184.jpg
+Skipping existing: page_185.jpg
+Skipping existing: page_186.jpg
+Skipping existing: page_187.jpg
+Skipping existing: page_188.jpg
+Skipping existing: page_189.jpg
+Skipping existing: page_190.jpg
+Skipping existing: page_191.jpg
+Skipping existing: page_192.jpg
+Skipping existing: page_193.jpg
+Skipping existing: page_194.jpg
+Skipping existing: page_195.jpg
+Skipping existing: page_196.jpg
+Skipping existing: page_197.jpg
+Skipping existing: page_198.jpg
+Skipping existing: page_199.jpg
+Skipping existing: page_200.jpg
+Skipping existing: page_201.jpg
+Skipping existing: page_202.jpg
+Skipping existing: page_203.jpg
+Skipping existing: page_204.jpg
+Skipping existing: page_205.jpg
+Skipping existing: page_206.jpg
+Skipping existing: page_207.jpg
+Skipping existing: page_208.jpg
+Skipping existing: page_209.jpg
+Skipping existing: page_210.jpg
+Skipping existing: page_211.jpg
+Skipping existing: page_212.jpg
+Skipping existing: page_213.jpg
+Skipping existing: page_214.jpg
+Skipping existing: page_215.jpg
+Skipping existing: page_216.jpg
+Skipping existing: page_217.jpg
+Skipping existing: page_218.jpg
+Skipping existing: page_219.jpg
+Skipping existing: page_220.jpg
+Skipping existing: page_221.jpg
+Skipping existing: page_222.jpg
+Skipping existing: page_223.jpg
+Skipping existing: page_224.jpg
+Skipping existing: page_225.jpg
+Skipping existing: page_226.jpg
+Skipping existing: page_227.jpg
+Skipping existing: page_228.jpg
+Skipping existing: page_229.jpg
+Skipping existing: page_230.jpg
+Skipping existing: page_231.jpg
+Skipping existing: page_232.jpg
+Skipping existing: page_233.jpg
+Skipping existing: page_234.jpg
+Skipping existing: page_235.jpg
+Skipping existing: page_236.jpg
+Skipping existing: page_237.jpg
+Skipping existing: page_238.jpg
+Skipping existing: page_239.jpg
+Skipping existing: page_240.jpg
+Skipping existing: page_241.jpg
+Skipping existing: page_242.jpg
+Skipping existing: page_243.jpg
+Skipping existing: page_244.jpg
+Skipping existing: page_245.jpg
+Skipping existing: page_246.jpg
+Skipping existing: page_247.jpg
+Skipping existing: page_248.jpg
+Skipping existing: page_249.jpg
+Skipping existing: page_250.jpg
+Skipping existing: page_251.jpg
+Skipping existing: page_252.jpg
+Skipping existing: page_253.jpg
+Skipping existing: page_254.jpg
+Skipping existing: page_255.jpg
+Skipping existing: page_256.jpg
+Skipping existing: page_257.jpg
+Skipping existing: page_258.jpg
+Skipping existing: page_259.jpg
+Skipping existing: page_260.jpg
+Skipping existing: page_261.jpg
+Skipping existing: page_262.jpg
+Skipping existing: page_263.jpg
+Skipping existing: page_264.jpg
+Skipping existing: page_265.jpg
+Skipping existing: page_266.jpg
+Skipping existing: page_267.jpg
+Skipping existing: page_268.jpg
+Skipping existing: page_269.jpg
+Skipping existing: page_270.jpg
+Skipping existing: page_271.jpg
+Skipping existing: page_272.jpg
+Skipping existing: page_273.jpg
+Skipping existing: page_274.jpg
+Skipping existing: page_275.jpg
+Skipping existing: page_276.jpg
+Skipping existing: page_277.jpg
+Skipping existing: page_278.jpg
+Skipping existing: page_279.jpg
+Skipping existing: page_280.jpg
+Skipping existing: page_281.jpg
+Skipping existing: page_282.jpg
+Skipping existing: page_283.jpg
+Skipping existing: page_284.jpg
+Skipping existing: page_285.jpg
+Skipping existing: page_286.jpg
+Skipping existing: page_287.jpg
+Skipping existing: page_288.jpg
+Skipping existing: page_289.jpg
+Skipping existing: page_290.jpg
+Skipping existing: page_291.jpg
+Skipping existing: page_292.jpg
+Skipping existing: page_293.jpg
+Skipping existing: page_294.jpg
+Skipping existing: page_295.jpg
+Skipping existing: page_296.jpg
+Skipping existing: page_297.jpg
+Skipping existing: page_298.jpg
+Skipping existing: page_299.jpg
+Skipping existing: page_300.jpg
+Skipping existing: page_301.jpg
+Skipping existing: page_302.jpg
+Skipping existing: page_303.jpg
+Skipping existing: page_304.jpg
+Skipping existing: page_305.jpg
+Skipping existing: page_306.jpg
+Skipping existing: page_307.jpg
+Skipping existing: page_308.jpg
+Skipping existing: page_309.jpg
+Skipping existing: page_310.jpg
+Skipping existing: page_311.jpg
+Skipping existing: page_312.jpg
+Skipping existing: page_313.jpg
+Skipping existing: page_314.jpg
+Skipping existing: page_315.jpg
+Skipping existing: page_316.jpg
+Skipping existing: page_317.jpg
+Skipping existing: page_318.jpg
+Skipping existing: page_319.jpg
+Skipping existing: page_320.jpg
+Skipping existing: page_321.jpg
+Skipping existing: page_322.jpg
+Skipping existing: page_323.jpg
+Skipping existing: page_324.jpg
+Skipping existing: page_325.jpg
+Skipping existing: page_326.jpg
+Skipping existing: page_327.jpg
+Skipping existing: page_328.jpg
+Skipping existing: page_329.jpg
+Skipping existing: page_330.jpg
+Skipping existing: page_331.jpg
+Skipping existing: page_332.jpg
+Skipping existing: page_333.jpg
+Skipping existing: page_334.jpg
+Skipping existing: page_335.jpg
+Skipping existing: page_336.jpg
+Skipping existing: page_337.jpg
+Skipping existing: page_338.jpg
+Skipping existing: page_339.jpg
+Skipping existing: page_340.jpg
+Skipping existing: page_341.jpg
+Skipping existing: page_342.jpg
+Skipping existing: page_343.jpg
+Skipping existing: page_344.jpg
+Skipping existing: page_345.jpg
+Skipping existing: page_346.jpg
+Skipping existing: page_347.jpg
+Skipping existing: page_348.jpg
+Skipping existing: page_349.jpg
+Skipping existing: page_350.jpg
+Skipping existing: page_351.jpg
+Skipping existing: page_352.jpg
+Skipping existing: page_353.jpg
+Skipping existing: page_354.jpg
+Skipping existing: page_355.jpg
+Skipping existing: page_356.jpg
+Skipping existing: page_357.jpg
+Skipping existing: page_358.jpg
+Skipping existing: page_359.jpg
+Skipping existing: page_360.jpg
+Skipping existing: page_361.jpg
+Skipping existing: page_362.jpg
+Skipping existing: page_363.jpg
+Skipping existing: page_364.jpg
+Skipping existing: page_365.jpg
+Skipping existing: page_366.jpg
+Skipping existing: page_367.jpg
+Skipping existing: page_368.jpg
+Skipping existing: page_369.jpg
+Skipping existing: page_370.jpg
+Skipping existing: page_371.jpg
+Skipping existing: page_372.jpg
+Skipping existing: page_373.jpg
+Skipping existing: page_374.jpg
+Skipping existing: page_375.jpg
+Skipping existing: page_376.jpg
+Skipping existing: page_377.jpg
+Skipping existing: page_378.jpg
+Skipping existing: page_379.jpg
+Skipping existing: page_380.jpg
+Skipping existing: page_381.jpg
+Skipping existing: page_382.jpg
+Skipping existing: page_383.jpg
+Skipping existing: page_384.jpg
+Skipping existing: page_385.jpg
+Skipping existing: page_386.jpg
+Skipping existing: page_387.jpg
+Skipping existing: page_388.jpg
+Skipping existing: page_389.jpg
+Skipping existing: page_390.jpg
+Skipping existing: page_391.jpg
+Skipping existing: page_392.jpg
+Skipping existing: page_393.jpg
+Skipping existing: page_394.jpg
+Skipping existing: page_395.jpg
+Skipping existing: page_396.jpg
+Skipping existing: page_397.jpg
+Skipping existing: page_398.jpg
+Skipping existing: page_399.jpg
+Skipping existing: page_400.jpg
+Skipping existing: page_401.jpg
+Skipping existing: page_402.jpg
+Skipping existing: page_403.jpg
+Skipping existing: page_404.jpg
+Skipping existing: page_405.jpg
+Skipping existing: page_406.jpg
+Skipping existing: page_407.jpg
+Skipping existing: page_408.jpg
+Skipping existing: page_409.jpg
+Skipping existing: page_410.jpg
+Skipping existing: page_411.jpg
+Skipping existing: page_412.jpg
+Skipping existing: page_413.jpg
+Skipping existing: page_414.jpg
+Skipping existing: page_415.jpg
+Skipping existing: page_416.jpg
+Skipping existing: page_417.jpg
+Skipping existing: page_418.jpg
+Skipping existing: page_419.jpg
+Skipping existing: page_420.jpg
+Skipping existing: page_421.jpg
+Skipping existing: page_422.jpg
+Skipping existing: page_423.jpg
+Skipping existing: page_424.jpg
+Skipping existing: page_425.jpg
+Skipping existing: page_426.jpg
+Skipping existing: page_427.jpg
+Skipping existing: page_428.jpg
+Skipping existing: page_429.jpg
+Skipping existing: page_430.jpg
+Skipping existing: page_431.jpg
+Skipping existing: page_432.jpg
+Skipping existing: page_433.jpg
+Skipping existing: page_434.jpg
+Skipping existing: page_435.jpg
+Skipping existing: page_436.jpg
+Skipping existing: page_437.jpg
+Skipping existing: page_438.jpg
+Skipping existing: page_439.jpg
+Skipping existing: page_440.jpg
+Skipping existing: page_441.jpg
+Skipping existing: page_442.jpg
+Skipping existing: page_443.jpg
+Skipping existing: page_444.jpg
+Skipping existing: page_445.jpg
+Skipping existing: page_446.jpg
+Skipping existing: page_447.jpg
+Skipping existing: page_448.jpg
+Skipping existing: page_449.jpg
+Skipping existing: page_450.jpg
+Skipping existing: page_451.jpg
+Skipping existing: page_452.jpg
+Skipping existing: page_453.jpg
+Skipping existing: page_454.jpg
+Skipping existing: page_455.jpg
+Skipping existing: page_456.jpg
+Skipping existing: page_457.jpg
+Skipping existing: page_458.jpg
+Skipping existing: page_459.jpg
+Skipping existing: page_460.jpg
+Skipping existing: page_461.jpg
+Skipping existing: page_462.jpg
+Skipping existing: page_463.jpg
+Skipping existing: page_464.jpg
+Skipping existing: page_465.jpg
+Skipping existing: page_466.jpg
+Skipping existing: page_467.jpg
+Skipping existing: page_468.jpg
+Skipping existing: page_469.jpg
+Skipping existing: page_470.jpg
+Skipping existing: page_471.jpg
+Skipping existing: page_472.jpg
+Skipping existing: page_473.jpg
+Skipping existing: page_474.jpg
+Skipping existing: page_475.jpg
+Skipping existing: page_476.jpg
+Skipping existing: page_477.jpg
+Skipping existing: page_478.jpg
+Skipping existing: page_479.jpg
+Skipping existing: page_480.jpg
+Skipping existing: page_481.jpg
+Skipping existing: page_482.jpg
+Skipping existing: page_483.jpg
+Skipping existing: page_484.jpg
+Skipping existing: page_485.jpg
+Skipping existing: page_486.jpg
+Skipping existing: page_487.jpg
+Skipping existing: page_488.jpg
+Skipping existing: page_489.jpg
+Skipping existing: page_490.jpg
+Skipping existing: page_491.jpg
+Skipping existing: page_492.jpg
+Skipping existing: page_493.jpg
+Skipping existing: page_494.jpg
+Skipping existing: page_495.jpg
+Skipping existing: page_496.jpg
+Skipping existing: page_497.jpg
+Skipping existing: page_498.jpg
+Skipping existing: page_499.jpg
+Skipping existing: page_500.jpg
+Skipping existing: page_501.jpg
+Skipping existing: page_502.jpg
+Skipping existing: page_503.jpg
+Skipping existing: page_504.jpg
+Skipping existing: page_505.jpg
+Skipping existing: page_506.jpg
+Skipping existing: page_507.jpg
+Skipping existing: page_508.jpg
+Skipping existing: page_509.jpg
+Skipping existing: page_510.jpg
+Skipping existing: page_511.jpg
+Skipping existing: page_512.jpg
+Skipping existing: page_513.jpg
+Skipping existing: page_514.jpg
+Skipping existing: page_515.jpg
+Skipping existing: page_516.jpg
+Skipping existing: page_517.jpg
+Skipping existing: page_518.jpg
+Skipping existing: page_519.jpg
+Skipping existing: page_520.jpg
+Skipping existing: page_521.jpg
+Skipping existing: page_522.jpg
+Skipping existing: page_523.jpg
+Skipping existing: page_524.jpg
+Skipping existing: page_525.jpg
+Skipping existing: page_526.jpg
+Skipping existing: page_527.jpg
+Skipping existing: page_528.jpg
+Skipping existing: page_529.jpg
+Skipping existing: page_530.jpg
+Skipping existing: page_531.jpg
+Skipping existing: page_532.jpg
+Skipping existing: page_533.jpg
+Skipping existing: page_534.jpg
+Skipping existing: page_535.jpg
+Skipping existing: page_536.jpg
+Skipping existing: page_537.jpg
+Skipping existing: page_538.jpg
+Skipping existing: page_539.jpg
+Skipping existing: page_540.jpg
+Skipping existing: page_541.jpg
+Skipping existing: page_542.jpg
+Skipping existing: page_543.jpg
+Skipping existing: page_544.jpg
+Skipping existing: page_545.jpg
+Skipping existing: page_546.jpg
+Skipping existing: page_547.jpg
+Skipping existing: page_548.jpg
+Skipping existing: page_549.jpg
+Skipping existing: page_550.jpg
+Skipping existing: page_551.jpg
+Skipping existing: page_552.jpg
+Skipping existing: page_553.jpg
+Skipping existing: page_554.jpg
+Skipping existing: page_555.jpg
+Skipping existing: page_556.jpg
+Skipping existing: page_557.jpg
+Skipping existing: page_558.jpg
+Skipping existing: page_559.jpg
+Skipping existing: page_560.jpg
+Skipping existing: page_561.jpg
+Skipping existing: page_562.jpg
+Skipping existing: page_563.jpg
+Skipping existing: page_564.jpg
+Skipping existing: page_565.jpg
+Skipping existing: page_566.jpg
+Skipping existing: page_567.jpg
+Skipping existing: page_568.jpg
+Skipping existing: page_569.jpg
+Skipping existing: page_570.jpg
+Skipping existing: page_571.jpg
+Skipping existing: page_572.jpg
+Skipping existing: page_573.jpg
+Skipping existing: page_574.jpg
+Skipping existing: page_575.jpg
+Uploaded 575 pages to Drive.
+Total pages available: 575
+Running pages 14-35: 22 pages
+Processing: page_14.jpg
+  -> Layout type: SIMPLE_LAYOUT
+  -> Ad type: NO_AD
+  -> Page type inferred: 
+Processing: page_15.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_16.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_17.jpg
+  -> OCR refusal detected, retrying with fallback prompt...
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_18.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_19.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_20.jpg
+  -> OCR refusal detected, retrying with fallback prompt...
+  -> OCR still refused after fallback for page_20.jpg, skipping.
+Processing: page_21.jpg
+  -> Layout type: SIMPLE_LAYOUT
+  -> Ad type: FULL_AD
+Processing: page_22.jpg
+  -> Layout type: SIMPLE_LAYOUT
+  -> Ad type: NO_AD
+  -> Page type inferred: 
+Processing: page_23.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: FULL_AD
+Processing: page_24.jpg
+  -> Layout type: SIMPLE_LAYOUT
+  -> Ad type: NO_AD
+  -> Page type inferred: 
+Processing: page_25.jpg
+  -> Layout type: SIMPLE_LAYOUT
+  -> Ad type: NO_AD
+  -> Page type inferred: 
+Processing: page_26.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_27.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: FULL_AD
+Processing: page_28.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_29.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_30.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: FULL_AD
+Processing: page_31.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: FULL_AD
+Processing: page_32.jpg
+  -> Layout type: SIMPLE_LAYOUT
+  -> Ad type: NO_AD
+  -> Page type inferred: 
+Processing: page_33.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_34.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred: 
+Processing: page_35.jpg
+  -> Layout type: COMPLEX_LAYOUT
+  -> Ad type: PARTIAL_AD
+  -> Page type inferred:

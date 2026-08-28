@@ -1,0 +1,2 @@
+Name,Address,Location,section,Role,page_num,nom_classification,is_provincia,provincia_town,geocoding_tier,match_confidence,match_note,nominatim_query,nominatim_flagged,matched_lat,matched_lon
+,,... (Continues In The Provided Format),provincia,,510,outside_venice,True,... (continues in the provided format),,provincia_failed,No address and no centroid for ... (continues in the provided format),,False,,

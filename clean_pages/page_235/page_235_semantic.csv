@@ -1,0 +1,25 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Licata Simone,fdm. Sebastiano Venier 47 A,Murano,Librerie,commercio,235,False
+Alzetta Luigia,"fdm. Sebastiano Venier 47 A, ""S. Marco 4537""",,S. Marco,ved. Zanco,235,True
+Barbarigo Mario,S. Marco 743,S. Marco,Librerie,commercio,235,False
+Cassini Stefano,S. Marco 2424,S. Marco,libri antichi,commercio,235,False
+Del Ben Toniolo Elena,S. Marco 4937,S. Marco,Librerie,commercio,235,False
+D'Ischia Maria,Serenissima S Marco 739,S. Marco,Librerie,commercio,235,False
+Filippi Giovanni,Castello 5912,Castello,Librerie,commercio,235,False
+"Libreria Antiquaria Editrice «La Borsa del Libro, dr. F. Pesenti","Castello 5912, S. Marco, Campo Arditi 523-24",MURANO,S. Marco,Del Thei,235,False
+Libreria e Cartoleria Moderna di Zanco Linda,Mestre Piazza Umberto I. 1-3,Mestre,Librerie,commercio,235,False
+Libreria e Cartoleria Moderna dei Fratelli Franceschi,Mestre Piazza Umberto I,Mestre,Librerie,commercio,235,False
+Libreria del Sansovino S. A.,"Piazza San Marco, 84",S. Marco,Librerie,commercio,235,False
+Libreria Emiliana,"Piazza San Marco, 84",S. Luca,Librerie,commercio,235,False
+Libreria Minerva,Cannaregio 5796,Cannaregio,Librerie,commercio,235,False
+Libreria Rigattieri Antiquaria Moderna,Calle della Mandola 3713,MURANO,Librerie,commercio,235,False
+Libreria Serenissima,S. Marco 739,S. Marco,Librerie,commercio,235,False
+Libreria Tarantola,S. Luca 4964,S. Luca,Librerie,commercio,235,False
+Libreria Universitaria di Mellomi Ruggero,Dorsoduro 3529,Dorsoduro,Librerie,commercio,235,False
+Maggio Gianni,Calle Lunga S. M. Formosa 6135-5233,S. M. Formosa,Librerie,commercio,235,False
+Morigo Giuseppe,Via Caneva 35.A,Mestre,Librerie,commercio,235,False
+Ongania Amedeo,S. Marco 66,S. Marco,Librerie,commercio,235,False
+Arti Graf. Esperia,Venezia S. Antonio 3579a,Mestre,Arti Grafiche,Tel. 23-56,235,False
+LIBRERIA UNIVERSITARIA,Calle Foscari 3259,Venezia,Libreria,Telefono n. 24.097,235,False
+LIBRERIA RIGATTIERI,"VENEZIA, Calle della Mandola 3713",Mestre,Libreria,Telefono 26-758,235,False
+MAGGIO GIANNI,VENEZIA - Calle Lunga S. Maria Formosa n. 6135 - 5239,,Libreria,CARTOLERIA - GIOCATTOLI SPECIALITÀ VENEZIAM,235,True

@@ -1,0 +1,7 @@
+source,description,rows_geocoded,pct_of_total,tiers
+notebook_05_sestiere,Sestiere + civic number match,14117,58.27,"{'1': 5347, '4': 4918, '2': 2805, '3': 1047}"
+notebook_06_nominatim_outside,"Nominatim — outside Venice real address (tiers 5, 5f)",3252,13.42,"5, 5f"
+notebook_06_centroid_outside,"Town centroid — outside Venice (tiers 7a, 7b)",2444,10.09,"7a, 7b"
+notebook_06_nominatim_inside,"Nominatim — inside Venice named places (tiers 6, 6f) — PENDING Cell 5",0,0.0,"6, 6f"
+TOTAL_GEOCODED,Total geocoded across all steps so far,19813,81.78,all
+TOTAL_UNMATCHED,Still unmatched (includes inside-Venice pending Cell 5),4414,18.22,none

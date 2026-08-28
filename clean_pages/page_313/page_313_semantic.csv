@@ -1,0 +1,59 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Maschio Cirillo,Murano fdm. Navagero,Murano,Vetri artistici,Location: Murano,313,False
+Nason Angelo,Murano fdm. Navagero,Murano,Vetri artistici,Location: Murano,313,False
+Ragazzi F.lli,San Marco 4789,,Vetri artistici,Location: Murano,313,True
+Seguso,"San Marco 4789, Ponte Vivarini 138",,Murano,"Vetri artistici, | Murano",313,True
+Sent Guglielmo,Via Vetrai 8,,Murano,"Vetri artistici, | Murano",313,True
+S. A. Ferro Toso Barovier,Murano fdm. Vetrai 36,Murano,Vetri artistici,Location: Murano,313,False
+S. A. Venini Murano fdm. Vetrai 47,Murano fdm. Vetrai 36,Vetri artistici,Vetri artistici,Murano,313,False
+Società Veneziana per l’Industria delle Collerie,Murano fdm. Vetrai 36, Negozio, Piazza S. Marco 31,"Murano, Vetri artistici, | Murano",313,False
+Toso F.lli,Murano fdm. Colleoni 7,Murano,Vetri artistici,Location: Murano,313,False
+Vetreria Artistica Nason e Zaniol,Murano Fondamenta Vetrai 92,Murano,Vetri artistici,Location: Murano,313,False
+Vetreria Artistica Romano Mazzega,Murano fdm. Radi 10-19,Murano,Vetri artistici,Location: Murano,313,False
+Zecchin ing. Francesco,Murano fdm. Navagero 75,Murano,Vetri artistici,Location: Murano,313,False
+Fidenza Soc. An. Vetraria,"Murano fdm. Navagero 75, 2052",Murano,Vetrerie in genere,"Vetrerie in genere, Vetri diffusori prismatici per illuminazione, Proiettori o riflettori per illuminazione, | S. Moisé",313,False
+Fornasier Alessandro,"Murano fdm. Navagero 75, 2052", Fondamenta Vetrai,Murano,"Vetrerie in genere, | Murano",313,False
+Favre e G. Tonon (ditta),Cannaregio 4941,,Vetrerie in genere,'e lampadari,313,True
+Girotto Giuseppe Bruno,"Cannaregio 4941, Via Olivi 22",,Mestre,"Vetrerie in genere, | Mestre",313,True
+Mandruzzato Donà e Toni (ditte),Murano Fondamenta Navagero 54 B,Murano,Vetrerie in genere,'e lampadari,313,False
+Modolo Giovan Battista,S. Marco 888,Murano,Vetrerie in genere,'e lampadari,313,False
+Nason Luigia,Cannaregio 4191,,Vetrerie in genere,'e lampadari,313,True
+Rioda Romano,"Cannaregio 4191, Cl. del Mistur 205",,Murano,"Vetrerie in genere, | Murano",313,True
+Santi Alaimiro,"Cannaregio 4191, Cl. del Mistur 205", Calle Barovier,Murano,"Vetrerie in genere, | Murano",313,False
+Soc. a. r. l. succ. Fulvio Ferro e C.,"Cannaregio 4191, Cl. del Mistur 205",,Vetrerie in genere,Murano,313,True
+Soc. in n. collet. Toso Campagnol e Fon,Murano fdm. Lorenzo Ralli 14 B,Murano,Vetrerie in genere,'e lampadari,313,False
+Stabilimento Wabersich,S. Geremia 99,,Vetrerie in genere,'e lampadari,313,True
+Stajano Giuseppe,"S. Geremia 99, Via Adamello 11",,Mestre,"Vetrerie in genere, | Mestre",313,True
+Toso Cesare,Murano 44,Murano,Vetrerie in genere,'e lampadari,313,False
+Vetreria Artistica Antonio Barovier e C.,S. Giobbe 985,Murano,Vetrerie in genere,'e lampadari,313,False
+Vetrerie e Cristalleria Sant’Erasmo,S. Giobbe 985,Murano,Vetrerie in genere,Murano,313,False
+Vetreria Italo Toso e C.,"S. Giobbe 985, Fondamenta Vetrai 93-A",Murano,Murano,"Vetrerie in genere, | Murano",313,False
+Vetreria Vistosi,fdm. S. Lorenzo 18,Murano,Vetrerie in genere,"Vetrerie in genere, Soprammobili d’Arte Plastica Vetraria Moderna, Centri da tavolo, Lampadari di distinzione | Barbini e C.",313,False
+Wabersich,S. Geremia. Vetrerie scientifiche e farmaceutiche,Murano,Vetrerie in genere,S. Geremia,313,False
+Trevisan dr. Renato,"Cannaregio, 1858",,Vetrerie scientifiche e farmaceutiche,"Vetrerie scientifiche e farmaceutiche, Lavorazione Fiale ed Articoli Farmaceutici, Laboratorio",313,True
+Arte Veneziana di Isabella Garlizzo,"Calle della Madonna, 985",,Vetri artistici,"Vetri artistici, Fabbrica Fiori in Vetro, Vetri Artistici | Lista di Spagna",313,True
+« Artevetro » del Prof Speciale Felice,Murano fdm. Navagero 54,Murano,Vetri artistici,'e lampadari,313,False
+Arte Vetraria Muranense,"Murano fdm. Navagero 54, Fond. Vetrai 33",Murano,Murano,"Vetri artistici, | Murano",313,False
+Barovier Antonio & C.I.,"Murano fdm. Navagero 54, Fond. Vetrai 33", Calle della Madonna, 985,"Vetri artistici, Vetreria Artistica, Fabbricazione vetri soffiati di Murano, Lampadari, Vasi di ogni stile | S. Giobbe",313,False
+Bigaglia Luigi,"Fondamenta Sebastiano Venier, 38",Murano,Murano,"Vetri artistici, | Murano",313,False
+Cattelan e Valma-ana,"Fondamenta Sebastiano Venier, 38",Murano,Murano,"Vetri artistici, | Murano",313,False
+Dalla Venezia Pietro,S. Marco Calle dei Fabbri (Ponte dei Dai) 832-834,,Vetri artistici,"vetri artistici, perle, specialità veneziane",313,True
+Donà Ugo,"S. Marco Calle dei Fabbri (Ponte dei Dai) 832-834, Calle San Bernardo 5",,Murano,"Vetri artistici, | Murano",313,True
+Donà V. e C. Soc. a. r. l.,Murano Fondamenta Vetrai 938,Murano,Vetri artistici,'e lampadari,313,False
+Dose Guiòo,S. Marco 2629,,Vetri artistici,'e lampadari,313,True
+Ferro Eugenio e C. (Ditta),Murano fdm. Navagero 75,Murano,Vetri artistici,'e lampadari,313,False
+Industrie Vetrerie Veneziane,S. A. Santa Maria dei Giglio 2516,,Vetri artistici,'e lampadari,313,True
+I.V.A.I.M.,"Cast. 322, Cannaregio 6061",,Vetri artistici,"Vetri artistici, ",313,True
+Lazzari Matilde,Cannaregio 6061,,Vetri artistici,'e lampadari,313,True
+Maschio Cirillo,Murano Fondamenta Navagero 54 B,Murano,Vetri artistici,'e lampadari,313,False
+Mazzega F.lli,Murano fdm. Vetrai 148,Murano,Vetri artistici,'e lampadari,313,False
+Mazzega Romano,S. Croce 913 A,,Vetri artistici,'e lampadari,313,True
+Modolo Giovambattista,S. Marco 88,,Vetri artistici,'e lampadari,313,True
+Moretti Aroldo,Murano fdm. Navagero 3,Murano,Vetri artistici,'e lampadari,313,False
+Nason Angelo,Murano fdm. Navagero 54 B,Murano,Vetri artistici,'e lampadari,313,False
+Nason Mario e C.,Murano fdm. Navagero 54b,Murano,Vetri artistici,'e lampadari,313,False
+Nason e Moretti,Murano fdm. Navagero 54b,Murano,Vetri artistici,Murano,313,False
+Pauley e C,S. Marco Ponte dei Consorvi,Murano,Vetri artistici,'e lampadari,313,False
+Ravanello F.lli e C.,"S. Marco Ponte dei Consorvi, fdm. Basstazione Santa 12",,Murano,"Vetri artistici, | Murano",313,True
+Rigattieri Renato (ditta),"S. Marco, calle del Frari 335",Murano,Vetri artistici,"Vetri artistici, Oggetti artistici per regalo, Vetri, Ceramiche, Stampe, Quadri, ecc. ecc.",313,False
+ZAGO F.LLI,"S. Polo, 1479",Murano,Vetri artistici,"Vetri artistici, Ritratti artisti, Lavori industriali, Reparto cinografico, vedite materiale fotocinematografico | S. Polo",313,False

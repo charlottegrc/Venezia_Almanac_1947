@@ -1,0 +1,62 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Atlantico,S. Marco 408,VENEZIA,PENSIONI,"Pensioni e Locande,",139,False
+Bel Sito Berlino,S. Marco 2517,VENEZIA,PENSIONI,"Pensioni e Locande,",139,False
+BOZENA,"Fondamenta del Vin, 4656",VENEZIA,PENSIONI,"Pensioni e Locande,",139,False
+BUCINTORO,"Riva dell'Impero, 2134",VENEZIA,PENSIONI,"Pensioni e Locande,",139,False
+BUDAPEST,S. Marco 2154,VENEZIA,PENSIONI,"Pensioni e Locande,",139,False
+CALCINA,Zattere 780,VENEZIA,PENSIONI,"Pensioni e Locande,",139,False
+Belvedere,"Via Caneva, 3",MARGHERA,PENSIONI,"Pensioni e Locande,",139,False
+LA CALCINA,Zattere 780,VENEZIA,PENSIONI,"CASA DEL SOLE, REGINA DELLE ZATTERE, aperta tutto l'anno, TERRAZZA ESTIVA SULLA LAGUNA, TUTTI I CONFORT, Tel. 24-126",139,False
+CASA FONTANA,"S. Provolo, 4701",MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+CASA FRIOLLO,Giudecca 50,,PENSIONI,"Pensioni e Locande,",139,True
+CASA PAGANELLI,Castello 4644,,PENSIONI,"Pensioni e Locande,",139,True
+CASA PETRARCA,Castello 4644,,PENSIONI,Canal Grande,139,True
+CENTRALE DEI DOGI,"Pazza S. Marco, 292",,PENSIONI,"Pensioni e Locande,",139,True
+CONTE,Castello 2185-86,,PENSIONI,"Pensioni e Locande,",139,True
+DIANA,S. Marco 449,,PENSIONI,"Pensioni e Locande,",139,True
+DINTESEN,S. Vio 628,,PENSIONI,"Pensioni e Locande,",139,True
+DOLOMITI,Calle Priuli 72-73,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+EDERA,"S. Marco, n. 1224 A",,PENSIONI,"Pensioni e Locande,",139,True
+MARIN,Santa Croce 670 B,,PENSIONI,"Pensioni e Locande,",139,True
+MITTERER,"S. Marco, 403",,PENSIONI,"Pensioni e Locande,",139,True
+ORIONE,"Spadaria, n. 700 A",MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+SEGUSO,Zattere 779,,PENSIONI,"Pensioni e Locande,",139,True
+STELLA ALPINA,"Cl. Priuli, 99 D",MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+WIDNER,Riva Schiavoni 4161,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+Amadio Ugo,"albergo ristorante Gran Viale, 8",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+CENTRALE,"V. Dardanelli, 17",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+ELVEZIA,Gran Viale n. 6,LIDO,PENSIONI,"Pensioni e Locande,",139,False
+La MERIDIANA,"Via Lorenzo Marcel lo, 31",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+MARIA ELISABETTA,"Via Perasto, 6",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+NORDIO,"Via Parenzo, 1",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+PANCIN,"Va Paolo Manuzio, 6",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+PANORAMA,"S. Maria Elisabetta, 23",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+PARCO,"V. Rodi, n. 1",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+PRADEL,"Riviera S. Nicolò, 2",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+QUIBISANA,"Gran Viale, 51",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+SPRINGMANN,"V. Fra Mauro, 5",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+VIANELLO,"V. Fra Mauro, 5",LIDO,PENSIONI,Alberoni Bagni,139,False
+VILLA ADRIA,"V. Fra Mauro, 5",LIDO,PENSIONI,Alberoni Bagni,139,False
+VILLA BRIONT,"Via M. Bragadin, 14",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+VILLA FANNY,"V. Candia, 2",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+VILLA LAGUNA,"Via Malamocco, 6",LIDO,PENSIONI,"Pensioni e Locande,",139,False
+Bologna e Stazione,Piazzale Stazione,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+Kesseloo,Piazza 27 Ottobre 43,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+Moderno Milano,Piazzale Stazione,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+Vida,Via Macello n. 13,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+VIVIT,Piazza Umberto I,MESTRE,PENSIONI,"Pensioni e Locande,",139,False
+Baucini Anna,Cannaregio 152,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Bernardi Maria,Cannaregio 4363,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Bocus Luigi,S. Croce 686,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Bottoni Maria Teresa,Cann. 253A,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Breda Amalia,Cannaregio 1018,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Brutto Angela,Via Montenero 1,MESTRE,LOCANDE,"Pensioni e Locande,",139,False
+Cavallini Margherita,Cann. 262,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Creazzo Vittoria,S. Marco 1652,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Cesng Eleina,Castello 4089,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Furlanetto Giuditta,Cann. 105,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Frapporti Onorina,"Carpenedo, Via Trezzo 6",MESTRE,LOCANDE,"Pensioni e Locande,",139,False
+Galeazzo Adele,S. Marco 1638,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Ingbeerg Bruno,S. Croce 1979,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Locanda Gobbo,Campo S. Geremia 312,LOCANDE,LOCANDE,"Pensioni e Locande,",139,False
+Locanda COBBO,"Campo S. Geremia, 312",VENEZIA,LOCANDE,"Proppr. VINCO MARIA,  Termosifone :: Acqua corrente calda e fredda :: Posizione centralissima,  a sinistra uscendo dalla Ferrovia :: ogni conforto,  PREZZI MODICI,  Telefono 20-143",139,False

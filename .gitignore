@@ -1,0 +1,15 @@
+# Secrets / local config — never commit
+config.py
+token.pickle
+credentials.json
+openapikey.txt
+
+# Thesis source — pushed as a finished PDF only
+overleaf/
+
+# OS / editor / interpreter junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.cache/

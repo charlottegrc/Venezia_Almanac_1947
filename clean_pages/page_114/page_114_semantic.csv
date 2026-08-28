@@ -1,0 +1,115 @@
+Name,Address,Location,Profession,Additional Info,page,location_cleaned
+Abrile Papa Elena,Cann. 1249,Griolera,Farmacista,",",114,False
+Ambroso Angelo,Cann. 1249,Cavarzere,Farmacista,",",114,False
+Berti Carlo,Cann. 1249,Noale,Farmacista,",",114,False
+Bertonello Paolo,Cann. 1249,Noale,Farmacista,",",114,False
+Borgese Maria,Cann. 1249,Dolo,Farmacista,",",114,False
+Bottacin Anna Maria,Cann. 1249,Salzano,Farmacista,",",114,False
+Bolognesi Cinzio,Cann. 1249,Chioggia,Farmacista,",",114,True
+Bortignon Romano,Cann. 1249,Scorzé,Farmacista,",",114,False
+Bortolini Carlo,Cann. 1249,Dolo,Farmacista,",",114,False
+Bottani Aldo,Cann. 1249,Salzano,Farmacista,",",114,False
+Bottacin Cesare,Cann. 1249,Salzano,Farmacista,",",114,False
+Bressanin Giuseppe,Cann. 1249,S. Donà di Piove,Farmacista,",",114,False
+Bruttomesso RomuUo,Cann. 1249,Annone Veneto,Farmacista,",",114,False
+Calderaro Sansoni,Cann. 1249,Mirano,Farmacista,",",114,False
+Canella Arrigo,Cann. 1249,Cavarese,Farmacista,",",114,False
+Canella Filippo,Cann. 1249,Chioggia,Farmacista,",",114,True
+Carradore De Gotzen Jolanda,Cann. 1249,Mira,Farmacista,",",114,False
+Cattin Zellarina,Cann. 1249,Fiesol d'Artico,Farmacista,",",114,False
+Cepparo Piovesana Anna Maria,Cann. 1249,Ceggia,Farmacista,",",114,False
+Chiereghin Erminio,Cann. 1249,Chioggia,Farmacista,",",114,True
+Ciavatta Levino,Cann. 1249,Favaro Veneto,Farmacista,",",114,True
+Cimatti Ottone,Cann. 1249,S. Polo di Piave,Farmacista,",",114,False
+Cimontti Bazzoni Laetli'a,Cann. 1249,Fossalta di Portogruaro,Farmacista,",",114,False
+Cosenflno Vito Antonio,Cann. 1249,Caorle,Farmacista,",",114,False
+De Gotzen Marco,Cann. 1249,Mira Taglio,Farmacista,",",114,False
+Dian Luigi,Cann. 1249,Vigonovo,Farmacista,",",114,False
+Fabbroni Francesco,Cann. 1249,Portogruaro,Farmacista,",",114,False
+Favaro Francesco,Cann. 1249,Oriago di Mira,Farmacista,",",114,False
+Fratta Salvatore,Cann. 1249,Portogruaro,Farmacista,",",114,False
+Furlanis Santo,Cann. 1249,Concordia Sagittaria,Farmacista,",",114,False
+Galon Ferdinando,Cann. 1249,Fossalta di Piave,Farmacista,",",114,False
+Gandolfi Ugo,Cann. 1249,Chioggia,Farmacista,",",114,True
+Giohn Ferdinando,Cann. 1249,S. Maria di Sala,Farmacista,",",114,False
+La Sora Manlio,Via Roma,Mirano,Farmacista,",",114,False
+Maffone Rita,Via Roma,Carole,Farmacista,",",114,False
+Malipero Mari,Via Roma,Mirano,Farmacista,",",114,False
+Mareon Eleonora,Via Roma,Chirignago,Farmacista,",",114,False
+Mareon Giulio,Via Roma,Chirignago,Farmacista,",",114,False
+Mas.0arcuci Filadelfo,Via Roma,Noale,Farmacista,",",114,False
+Moretto Lejola,Via Roma,S. Stino Livenzu,Farmacista,",",114,False
+Muneratti Cilia,Via Roma,Mirano Spinea,Farmacista,",",114,False
+Pellegrini Berti Maria,Via Roma,Chioggia,Farmacista,",",114,False
+Penzo Guido,Via Roma,Cona Venezia,Farmacista,",",114,False
+Pilla Corrado,Via Roma,Noventa di Piave,Farmacista,",",114,False
+Pilla Marcello,Via Roma,Noventa di Piave,Farmacista,",",114,False
+Pizzini Massimiliano,Via Roma,Torre di Mosto,Farmacista,",",114,False
+Rigobelli Mori Maria,Via Roma,Strà,Farmacista,",",114,False
+Rigoni Orsola,Via Roma,Mirano,Farmacista,",",114,False
+Sagradi Aldo,Via Roma,Chioggia,Farmacista,",",114,False
+Salvagno Aldo,Via Roma,Chioggia,Farmacista,",",114,False
+Sansoni Antonio,Via Roma,Mirano,Farmacista,",",114,False
+Scarpa Arrigo,Via Roma,Portogruaro,Farmacista,",",114,False
+Signore Giovanni,Via Roma,Scaltenigo di Mirano,Farmacista,",",114,False
+Tamino Giorgio,Via Roma,Meolo,Farmacista,",",114,False
+Toldi Italo,Via Roma,S. Michele al Tagliamento,Farmacista,",",114,False
+Trivellato Celio,Via Roma,S. Donà di Piave,Farmacista,",",114,False
+Vio Sartori Pozzo.o,Via Roma,Campagnalupia,Farmacista,",",114,False
+Zamboni Furvesco,Via Roma,Maerne di Martellago,Farmacista,",",114,False
+Zennaro Egidio,Via Roma,Chioggia,Farmacista,",",114,False
+Zennaro Giuseppe,Via Roma,Pellestrina,Farmacista,",",114,False
+Zennaro Oddone,Via Roma,Chioggia,Farmacista,",",114,False
+Zenti Marcello,Via Roma,Concordia Sagittaria,Farmacista,",",114,False
+Zotti Domenico,Via Roma,Pianiga,Farmacista,",",114,False
+Zuccella Alessandro,Via Roma,Cavatazere,Farmacista,",",114,False
+Zuntini Ennio,Via Roma,Mira,Farmacista,",",114,False
+Agostinetto Giulio,Via Bonifica 14,S. Donà di Piave,Geometra,",",114,False
+Ambrosio Giovanni,Via Bonifica 14,S. Michele al TagliunL,Geometra,",",114,False
+Angonese Aldo,Via Caneve 60,Mestre,Geometra,",",114,False
+Argenta Ugo,Piazza Umberto,Mestre,Geometra,",",114,False
+Bampa Mario,"Piazza Umberto, Dorsoduro 1993",Attuari,Geometra,",",114,False
+Bandel Giulio,Castello 3694,Attuari,Geometra,",",114,False
+Baradello Cesare,Via Garibaldi 16,Portogruaro,Geometra,",",114,False
+Barbato Vittlorlo,C.Le Larga S. Lorenzo 5126,Attuari,Geometra,",",114,False
+Barlese Raffaello,Via Lecchi 9,Mestre,Geometra,",",114,False
+Bastianello Giuseppe,"Via Lecchi 9, Cannaregio 5262",Attuari,Geometra,",",114,False
+Battaglini Milizalde,Cannaregio 3666,Attuari,Geometra,",",114,False
+Benozi Lino,Via Roma 32.b,Jesolo,Geometra,",",114,False
+Beraldo Giulio,Via A. Diaz 7,Meolo,Geometra,",",114,False
+Bertoldardo Luciano,Via A. Diaz 7,S. Donà di Piave,Geometra,",",114,False
+Bettera Gino,"Via A. Diaz 7, Castello 3204",Attuari,Geometra,",",114,False
+Bianchin Vincenzo,Via Marconi,Fossalta di Piave,Geometra,",",114,False
+Biasoli Leonida,"Via Marconi, S. Polo 1895.C",Attuari,Geometra,",",114,False
+Birello Paolo,Via Gino Allegri 9,Mestre,Geometra,",",114,False
+Bitoloo Bon Eugenio,Via Rastrello 15,Portogruaro,Geometra,",",114,False
+Boato Bruno,Via Roma 45,Salzano,Geometra,",",114,False
+Boldrin Amedeo,Via Roma 45,Bologn di Campolongo M.,Geometra,",",114,False
+Bontempelli Oscar,"Via Roma 45, Castello 5375",Attuari,Geometra,",",114,False
+Bortoluzzi Gabriele,S. Polo 2218,Attuari,Geometra,",",114,False
+Bosone Roberto,Castello 5160,Attuari,Geometra,",",114,False
+Bragaggia Giorgio,Via Poerio 18,Mestre,Geometra,",",114,False
+Brasolin Marcello,"Via Poerio 18, Castello 5449",Attuari,Geometra,",",114,False
+Brivonese Marino,Via Piave 6,Attuari,Geometra,",",114,False
+Brusaggna Amedeo,Via Piave 6,Dolo,Geometra,",",114,False
+Brusolo Livio,Via Piave 6,S. Donà di Piave,Geometra,",",114,False
+Buffolo Giuseppe,Via Golfo 19,Noventa di Piave,Geometra,",",114,False
+Busetto Giulio Bruno,"Via Golfo 19, S. Polo 1054",Attuari,Geometra,",",114,False
+Cadenti Avino,Via Serena 1,Marghera,Geometra,",",114,False
+Campagna Olindo,Via Serena 1,S. Stino di Livenza,Geometra,",",114,False
+Campanelle Angelo,Via dei Villini,Mestre,Geometra,",",114,False
+Campese Rinaldo,Via Marco Bragadir dim 6,Lido,Geometra,",",114,False
+Campese Luigi,Via Marco Bragadìin 6,Lido,Geometra,",",114,False
+Canziani Cesare,Via Marco Bragadìin 6,Fossalta di Portogruaro,Geometra,",",114,False
+Canziani Gino,"Via Marco Bragadìin 6, Cannaregio 5393",Attuari,Geometra,",",114,False
+Carraro ?ituiseppe,Via Rioin,Campagna Lupia,Geometra,",",114,False
+Cattaruzza Sergio,"Via Rioin, Cannaregio 1863",Attuari,Geometra,",",114,False
+Cattaruzzo Francesroc,Cannaregio 3274,Attuari,Geometra,",",114,False
+Cazzador Antonio,Via Platol 742,Dese di Favaro,Geometra,",",114,False
+Cazzagon Giovanni,Via Roma 85,Dolo,Geometra,",",114,False
+Ceolin Carlo,Via Molino 143,Marcon,Geometra,",",114,False
+Chiariotto Ttino,"Via Molino 143, Cannaregio 2656",Attuari,Geometra,",",114,False
+Chieregato Edoardo,D. Duro 572,Attuari,Geometra,",",114,False
+Cilia Mario,Via Garibaldi 92,Mestre,Geometra,",",114,False
+Collelli Luciano,Via Felissimi 5,Mestre,Geometra,",",114,False
+Corà Mario,"Via Felissimi 5, S. Polo 1410",Attuari,Geometra,",",114,False

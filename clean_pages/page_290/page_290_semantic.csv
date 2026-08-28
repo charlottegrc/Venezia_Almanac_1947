@@ -1,0 +1,33 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Camilla Renato,San Marco 5335,,setorie e lanerie,Ristoranti,290,True
+Alta Moda,S. Zulian 7327,Mestre,setorie e lanerie,Ristoranti,290,False
+"SESIA, Soc. An. Industria Seta Italo Americana",S. Marco 712,,setorie e lanerie,Ristoranti,290,True
+Colorificio Veneto Brovazzo,Cannaregio 3542,,Smalti,Ristoranti,290,True
+Tamburini Pietro,S. Croce 688,,Smalti,Ristoranti,290,True
+Tesio Raimondo e Mario,S. Croce 688,,Smalti,Neu Smalto | Campiello R. Selvatico,290,True
+Donà V. e C.,Murano fondamente Vetrai 93,Mestre,Smalti e ori per mosaici,Ristoranti,290,False
+Orsoni A.,S. Globbe 10458,Mestre,Tel. 22-985,Ristoranti,290,False
+Vetrai Italo Toso e C.,Murano fondamente Vetrai 93 A,Mestre,Smalti e ori per mosaici,Ristoranti,290,False
+"Alleanza, Securitas, Esperia",S. Marco 1957a,,Società di assicurazioni,Ristoranti,290,True
+Ancora (L'),S. Luca 4037,,Società di assicurazioni,Ristoranti,290,True
+Anonima Grandine,S. Marco 1219,,Società di assicurazioni,Ristoranti,290,True
+Anonima Infortuni (L'),"Bocca di Piazza 1241, San Luca 4037",,Società di assicurazioni,Ristoranti,290,True
+Assicuratrice industriale,S. Marco 2065,,Società di assicurazioni,Ristoranti,290,True
+Assicuratrice (L’) Italiana,"Riva dei Carbon, Palazzo Bembo",Mestre,Società di assicurazioni,Ristoranti,290,False
+Assicurazioni Generali di Venezia,Piazza S. Marco 105,,Società di assicurazioni,Ristoranti,290,True
+Cassa Marittima Adriatica,Ascensione 1253,Mestre,Società di assicurazioni,per l’assicurazione contro gli infortuni sul lavoro e le malattie,290,False
+Comp. An,"Ascensione 1253, S. Marco 5110",,Società di assicurazioni,Assicurazione Incendi di Torino,290,True
+Compagnia Assicurazioni di Milano,Via 22 Marzo 2382-A,Mestre,Società di assicurazioni,Ristoranti,290,False
+Compagnia del Phoenix,San Marco 1341,,Società di assicurazioni,Ristoranti,290,True
+Fenice (La) soc. an. coop. di Assicurazione,"Accademia 878-A, Palazzo Cesana",Mestre,Società di assicurazioni,Ristoranti,290,False
+"Fiume, Società Anonima di Assicurazione e Rias",S. Luca 4037,,Società di assicurazioni,Ristoranti,290,True
+Istituto Nazionale delle Assicurazioni,Via 22 Marzo,Mestre,Società di assicurazioni,Ristoranti,290,False
+Istituto Nazionale per l’Assicurazione,Corte dell’Albero 3883,Mestre,Società di assicurazioni,"contro gli infortuni sul lavoro, Sede di Venezia",290,False
+Italia (Ass. Maritt. Fluv. Trasp.),San Marco 1341,,Società di assicurazioni,Ristoranti,290,True
+Italiana Incendi Vita e Rischi di Assicurazione,S. Marco 1253,,Società di assicurazioni,Ristoranti,290,True
+La Sicurtà,San Marco 337,,Società di assicurazioni,ass. vetri cristalli e specchi,290,True
+La Vittoria,San Marco 337,,"Via Rosa, 22",Ristoranti,290,True
+Lloyd Italico,San Luca 4037,,Società di assicurazioni,"L’Ancora, Comp. Assic. e Riassicurazione",290,True
+Lloyd Siciliano,Calle dei Fabbri 926,Mestre,Società di assicurazioni,Ristoranti,290,False
+Mondo (Il),Calle dei Fabbri 926,Mestre,"Via Rosa, 22",Incendio e Vita,290,False
+Mutua di Assicurazioni,Campo Manin 4023,Mestre,Società di assicurazioni,Ristoranti,290,False

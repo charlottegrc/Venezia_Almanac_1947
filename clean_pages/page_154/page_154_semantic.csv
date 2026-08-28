@@ -1,0 +1,74 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Scorla Gino,S. Croce 1202,,Avvolgimento Motori,Officina elettro Meccanica,154,True
+,"S. Marco, cl. della Verona",Mestre,Bagni Pubblici,Bagni e Doccie,154,False
+,"S. Marco, cl. della Verona",Mestre,Bagni Pubblici,Bagni e doccie comunali alla Bragora | Bragora Pescheria,154,False
+,Dorsoduro,Mestre,Bagni Pubblici,Bagni e Doccie Comunali al Malcanton,154,False
+,Isola Giudecca,Giudecca,Bagni Pubblici,Bagni e Doccie Comunali (nei pressi dell’Asilo Comunale),154,False
+,Campo SS. Giov. e Paolo,Mestre,Bagni Pubblici,Ospedale Civile,154,False
+,Campo SS. Giov. e Paolo,Mestre,Banche,(vedi istituti di credito),154,False
+,Campo SS. Giov. e Paolo,Mestre,Banchi Lotto,Banco Lotto n. 1 | San Lio,154,False
+,Calle Fuseri,Mestre,Banchi Lotto,Banco Lotto n. 2,154,False
+,Calle delle Rasse,Mestre,Banchi Lotto,Banco Lotto n. 3,154,False
+,Campo S. Polo,Mestre,Banchi Lotto,Banco Lotto n. 4,154,False
+,Campo S. Polo,Mestre,Banchi Lotto,Banco Lotto n. 5 | San Vio,154,False
+,Ponte S. Giov. Grisost.,Mestre,Banchi Lotto,Banco Lotto n. 6,154,False
+,Ponte S. Giov. Grisost.,Mestre,Banchi Lotto,Banco Lotto n. 7 | S. Pantaleon,154,False
+,Calle dei Fabbri,Mestre,Banchi Lotto,Banco Lotto n. 8,154,False
+,Calle lunga S. M. Form.,Mestre,Banchi Lotto,Banco Lotto n. 9,154,False
+,Calle lunga S. M. Form.,Mestre,Banchi Lotto,Banco Lotto n. 10 | Rialto,154,False
+,Calle lunga S. M. Form.,Mestre,Banchi Lotto,Banco Lotto n. 11 | S. Antonin,154,False
+,Via Garibaldi,Mestre,Banchi Lotto,Banco Lotto n. 12,154,False
+,Via Garibaldi,Mestre,Banchi Lotto,Banco Lotto n. 13 | Strada Nuova,154,False
+,Via Garibaldi,Mestre,Banchi Lotto,Banco Lotto n. 14 | S. Maurizio,154,False
+,Via Garibaldi,Mestre,Banchi Lotto,Banco Lotto n. 15 | S. Barnaba,154,False
+,Calle Stagneri,Mestre,Banchi Lotto,Banco Lotto n. 16,154,False
+,Calle Stagneri,Mestre,Banchi Lotto,Banco Lotto n. 17 | S. Leonardo,154,False
+,Calle Stagneri,Mestre,Banchi Lotto,Banco Lotto n. 18 | Spadaria,154,False
+,Calle Stagneri,Mestre,Banchi Lotto,Banco Lotto n. 19 | S. Cassiano,154,False
+,Calle Stagneri,Giudecca,Banchi Lotto,Banco Lotto n. 20,154,False
+,Calle Stagneri,Lido,Banchi Lotto,Banco Lotto n. 21,154,False
+,Calle Stagneri,Murano,Banchi Lotto,Banco Lotto n. 23,154,False
+,Calle Stagneri,Murano,Banchi Lotto,Banco Lotto n. 24,154,False
+,Calle Stagneri,Dolo,Banchi Lotto,Banco Lotto n. 26,154,False
+,Calle Stagneri,Mira,Banchi Lotto,Banco Lotto n. 27,154,False
+,Calle Stagneri,Portogruaro,Banchi Lotto,Banco Lotto n. 29,154,False
+,Calle Stagneri,Mestre,Banchi Lotto,Banco Lotto n. 31,154,False
+,Calle Stagneri,Chioggia,Banchi Lotto,Banco Lotto n. 33,154,False
+,Calle Stagneri,Chioggia,Banchi Lotto,Banco Lotto n. 34,154,False
+,Calle Stagneri,Pellestrina,Banchi Lotto,Banco Lotto n. 36,154,False
+,Calle Stagneri,S. Donà,Banchi Lotto,Banco Lotto n. 38,154,False
+,Calle Stagneri,Mira,Banchi Lotto,Banco Lotto n. 40,154,False
+,Calle Stagneri,Noale,Banchi Lotto,Banco Lotto n. 41,154,False
+Codognotto Gius.,SS. Apostoli 4460,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Crovato Antonio,Castello 8535,Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Dal Prà Eugenio,Castello 8535,Mestre,Bandai e Lattonieri,"S. Marcuola, cl. Seconda del Cristo",154,False
+De Angeli Renato,S. Lio 5620,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Fabbris Giovanni,"Mestre, V. Marghera 113",Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Giacchetti Enrico di Carlo Patero,S. Trovaso 1175,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Gianolla Natale,San Cassiano 1562,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Gianolla Pietro,Castello 3486,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Levorato Giovanni,S. Stefano 2973,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Miniutti Stefano,"Mestre, Via Andrea Costa",Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Ramello Bruno,Castello 3699,Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Sa-ter Giovanni,"Cannar, 6212",Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Sussati Luigi,Cannaregio 2612,,Bandai e Lattonieri,CATEGORY_NAME,154,True
+Valentini Giuseppe,Cannaregio 2612,Treporti,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Veronese Luigina,Tolentini 237,Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Vin Giacomo,"Rialto, cl. del Cappeler, 1594",Mestre,Bandai e Lattonieri,CATEGORY_NAME,154,False
+Ceroni Alessandro,S. Marco 4759,,Bandiere,CATEGORY_NAME,154,True
+Donaggio G. e figli,Ponte Veneta Marina,Mestre,Bandiere,CATEGORY_NAME,154,False
+"Soc. An. N. Nicolaj e C., Cannaregio S. Giovanni e Paolo",Ponte Veneta Marina,Mestre,Bandiere,CATEGORY_NAME,154,False
+Speri E.,"Ponte Veneta Marina, Cannaregio 1956-60",,Bandiere,"Bandiere, Gagliardetti, Distintivi sportivi, Laboratorio",154,True
+,"Ponte Veneta Marina, Cannaregio 1956-60",,Bar,(vedi anche bottiglierie e caffè),154,True
+Allegrini Mario “Tecchiali”,S. Marco 705,Mestre,Bar,CATEGORY_NAME,154,False
+Andrean Angela,Castello 1545,Mestre,Bar,CATEGORY_NAME,154,False
+Bassanato Umberto,Lido via Malamocco 32,Lido,Bar,CATEGORY_NAME,154,False
+Baldi Antonio,Lido via Malamocco 32,Teatro La Fenice,Bar,CATEGORY_NAME,154,False
+Baldi Antonio,Antico Martini” S. Marco 1981,,Bar,CATEGORY_NAME,154,True
+Bar americano S. A.,S. Marco 302,,Bar,CATEGORY_NAME,154,True
+Bar Gelateria « da Nico »,920,Zattero,Bar,La migliore posizione estiva ed invernale. Uno dei posti più suggestivi di Venezia,154,False
+Bar Ristorante « Da Aldo »,S. Moisè 1473,Mestre,Bar,CATEGORY_NAME,154,False
+Bar Marzani Colombo Elena,S. Polo 476,,Bar,CATEGORY_NAME,154,True
+Bar Stella d’Italia S. A.,S. Marco 6314,Mestre,Bar,CATEGORY_NAME,154,False
+Battistella Gemma,Cannaregio 6870,Mestre,Bar,CATEGORY_NAME,154,False
+Battiston Antonio Silvio,Cannaregio 233 B,,Bar,CATEGORY_NAME,154,True

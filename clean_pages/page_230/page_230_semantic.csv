@@ -1,0 +1,30 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Cassa di Risparmio di Venezia,Ponte dei Baretteri,Marghera,Istituti di credito,Agenzia di Citta N. 1,230,False
+Cassa di Risparmio di Venezia,Ponte dei Baretteri Agenzia di Città n. 2,Marghera,Istituti di credito,Agenzia di Citta N. 2,230,False
+"Banco di Sicilia ""Istituto di Diritto Pubblico""",Merceria 2 Aprile,Marghera,Istituti di credito,"Sede di Venezia, Fondi patrimoniali L. 547.329.117.40",230,False
+Massone rag. Tito,Merceria 2 Aprile,Marghera,Istituti di credito,Direttore,230,False
+Cassa di Risparmio di Venezia,"S. Marco, Campo Manin",Marghera,Istituti di credito,Sede Centrale,230,False
+Cassa di Risparmio di Venezia,Ponte dei Baretteri,Marghera,Istituti di credito,Agenzia di Citta N. 1,230,False
+Cassa di Risparmio di Venezia,"S. Sofia, Palazzo Sagredo",Marghera,Istituti di credito,Agenzia di Citta N. 2,230,False
+Cassa di Risparmio di Venezia,"S. Cassiano, Palazzo Corner",Marghera,Istituti di credito,Sezione Pegno (ex Monte di Pieta di Venezia),230,False
+Avv. Cerutti Arduino,S. Luca 4149,,Istituti di credito,"Presidente,  Consiglio di Amministrazione",230,True
+Ca Zorzi dr. Antonio,S. Polo 2766,,Istituti di credito,"Vice Presidente,  Consiglio di Amministrazione",230,True
+Gianguito dot. Antonio,S. Luca 4232,,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,True
+Pellizzon dr. Ferdinando,S. Stefano 2940,,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,True
+Frascella Avv. Giuseppe,S. Fantino 1902,Marghera,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,False
+Menegazzi dr. Vito,Dorsoduro 3205,,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,True
+Fabro Dr. Manlio,S. Croce 151,,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,True
+Baldisssera Avv. Giacomo,Castello 3392,,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,True
+Gamba Avv. Aldo,S. Maurizio 2669,Marghera,Istituti di credito,"Consigliere,  Consiglio di Amministrazione",230,False
+Bettini dr. Furio,Zattere 958,,Istituti di credito,Direttore Generale,230,True
+Volpato dr. Guerrino,Via Ascalona n. 1,Lido di Venezia,Istituti di credito,Vice Direttore Generale,230,False
+Credito Industriale,San Marco 1126,,Istituti di credito,Insegne e cartelli reclame,230,True
+"Credito Italiano ""Soc. An.""",Campo S. Salvador,Marghera,Istituti di credito,Sede di Venezia,230,False
+"Credito Italiano ""Soc. An.""",Bocca di Piazza 1254,,Istituti di credito,Agenzia Numero 2,230,True
+"Credito Italiano ""Soc. An.""",Bocca di Piazza 1254,,Istituti di credito,Galleria Vitt. Emanuele,230,True
+Istituto Federale delle Casse di Risparmio delle Venezie,"San Stefano, n. 2847",,Istituti di credito,"Telegrafo: Federalcasse,  Casella Postale 352",230,True
+Smeraldi dott. Ing. Ferruccio,"San Stefano, n. 2847",,Istituti di credito,Presidente,230,True
+Rizzoli dott. Ettore,"San Stefano, n. 2847",,Istituti di credito,Direttore Generale,230,True
+Padovan Dott. Giulio,"San Stefano, n. 2847",,Istituti di credito,Vice Direttore,230,True
+Pagani Dott. Luigi,"San Stefano, n. 2847",,Istituti di credito,Vice Direttore,230,True
+ZAGO F.ILLI,"San Polo, 1479",,Istituti di credito,Ritratti artistici - Lavori industriali - Reparto eliocinografico - vendita materiale fotocinematografico,230,True

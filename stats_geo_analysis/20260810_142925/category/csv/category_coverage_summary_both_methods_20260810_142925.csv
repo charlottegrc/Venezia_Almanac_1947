@@ -1,0 +1,3 @@
+method,total_rows,rows_with_category_value,rows_classified,pct_of_total,pct_of_rows_with_category,n_categories,rows_excluded
+Direct (k=10),16837,10546,10797,64.1,102.4,12,-251
+Tokenised (k=10),16837,10546,9785,58.1,92.8,12,761

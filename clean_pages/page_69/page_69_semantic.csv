@@ -1,0 +1,50 @@
+Name,Address,Location,Role,Profession,Additional Info,page,location_cleaned
+Porreca dr. Silvio,S. Angelo 3883,S. Leonardo,Direttore della Sede,",",",",69,False
+Raselli comm. rag. Renato,S. Angelo 3883,S. Leonardo,Ispettore Compartimentale Amministrativo per le Tre Venezie,",",",",69,False
+Dr. Gastone Marselli,Dorsoduro 3498-A,S. Leonardo,Reggente,",",",",69,False
+dr. Enrico Boldi,Dorsoduro 3498-A,S. Leonardo,Capo dei Servizi Sanitari,",",",",69,False
+,Dorsoduro 3498-A,,Rio Nuovo 3498-A,",",",",69,True
+,Dorsoduro 3498-A,,Fontamenta S. Felice 3084,",",",",69,True
+,Dorsoduro 3498-A,,Calle della Pietà n. 3660,",",",",69,True
+,Dorsoduro 3498-A,,Ponte dei Pugni,",",",",69,True
+,Dorsoduro 3498-A,,Via Cappuccina n. 129,",",",",69,True
+,Dorsoduro 3498-A,,Calle del Forno N. 466,",",",",69,True
+,Dorsoduro 3498-A,,Campo S, Silvestro,",",69,True
+,Dorsoduro 3498-A,,Via Ex Pietro Marsch n. 3,",",",",69,True
+,Dorsoduro 3498-A,,Corte Bigaglia,",",",",69,True
+Grandesco dott. Michele,Ramo primo della Ascensione numero 1253,S. Leonardo,Medico fiduciario,",",",",69,False
+Montalto dott. Ugo,Ramo primo della Ascensione numero 1253,S. Leonardo,Medico fiduciario,",",",",69,False
+Polichati prof. Enrico,Ramo primo della Ascensione numero 1253,S. Leonardo,Medico fiduciario,",",(per Mestre e Porto Marghera),69,False
+Miotto cav. Angelo,S. Simeone Grande 927,S. Leonardo,Commissario,",",",",69,False
+Bastiaonetto avv. Cerleste,S. Simeone Grande 927,S. Leonardo,Membro commissione,",",",",69,False
+De Senzi Ermenegildo,S. Simeone Grande 927,S. Leonardo,Membro commissione,Lavoratore,",",69,False
+Mazzucato dott. Alessandro,S. Simeone Grande 927,S. Leonardo,Direttore Amm.,",",",",69,False
+Comandante Alessandro Arcauggeli,Zattere 1485-B,,Presidente,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,", ,",69,False
+Galletti Alberto,Zattere 1485-B,,Vice Presidente,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,", ,",69,False
+Perale Federico,Zattere 1485-B,,Vice Presidente,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,", ,",69,False
+Vianello dr. Riccardo,"Presso Ca' Matteioti, Via XXVIII aprile",,Presidente,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Samuele Aurelio,"Presso Ca' Matteioti, Via XXVIII aprile",,Vice Segretario,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Cosciutta Giorgio,"Presso Ca' Matteioti, Via XXVIII aprile",,Vice Segretario,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Muller Gino,Calle Larga S. Marco 374,,Presidente,Consiglio Direttivo,",",69,False
+Comolli Vittorio,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Dalla Pozza Romeo,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Gavagnin Danilo,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Serrettii Ezio,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Tagliapietra Giovanni,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Vaccari Gino,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Vianello Federico,Calle Larga S. Marco 374,,Componente,Consiglio Direttivo,",",69,False
+Rag. Mondini Gino,Calle Larga S. Marco 374,,Direttore Provinciale,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Dott. Alberto Zaia,Calle Larga S. Marco 374,,Sindaco Revisore,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Rag. Riccardo Gnocchi,Calle Larga S. Marco 374,,Sindaco Revisore,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Sig. Giorgio Bassato,Calle Larga S. Marco 374,,Sindaco Revisore,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Walter Ravazzolo,Calle Larga S. Marco 374,,Delegato sportivo prov.,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Marco Pescante,Calle Larga S. Marco 374,,Direttore Tecnico Provinciale per l'attività Nautica,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Antonio Scalabrin,Calle Larga S. Marco 374,,Direttore Tecnico Prov. per il Tiro a Volo,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Giuseppe Drudi,Calle Larga S. Marco 374,,Direttore Tecnico Prov. per il Tiro a Volo, Caccia e Pesca,",",69,False
+Egidio De Zotts,Calle Larga S. Marco 374,,Direttore Tecnico Prov. per l'Atletica Leggera e Tiro alla Fune,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Aldo Cetti,Calle Larga S. Marco 374,,Direttore Tecnico Prov. per il Tamburello - Palla a volo e Pallone a bracciale,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Ruggero Pillon,Calle Larga S. Marco 374,,Direttore Tecnico Prov. FIGB,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Ferruccio Di Giulio,Calle Larga S. Marco 374,,Collaboratore Tecnico FIGB,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Tullio Semenzato,Calle Larga S. Marco 374,,Collaboratore Tecnico FIGB,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Silvio Adami,Calle Larga S. Marco 374,,Presidente Gruppo Prov. Arbitri della F. I G. B.,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,",",69,False
+Guido Cocoon,Calle Larga S. Marco 374,,Commissario,ASSOCIAZIONE FRA PROPRIETARI DI FABBRICATI DELLA PROVINCIA DI VENEZIA,"Federazione Prov. Filodrammatiche, ",69,False

@@ -1,0 +1,4 @@
+strategy,architecture,semantic_f1,profession_acc
+S1,"image -> text, then text -> semantic CSV (two calls)",88.62,100.0
+S2,image -> semantic CSV directly (one call),54.69,0.0
+S3,"classical OCR -> text, then text -> semantic CSV",49.59,0.0

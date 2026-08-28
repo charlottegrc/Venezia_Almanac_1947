@@ -1,0 +1,5 @@
+Name,Address,Location,section,Role,page_num,nom_classification,is_provincia,provincia_town,geocoding_tier,match_confidence,match_note,nominatim_query,nominatim_flagged,matched_lat,matched_lon
+Ufficio Postale,,Caravenealla,UFFICI PUBBLICI,Ufficio Postale,506,outside_venice,True,caravenealla,,out_of_scope_ad_propagation,Ad/OCR propagation error: 'caravenealla' is not a real town,,False,,
+Buscaglia,Corso del Popolo,Vigo,UFFICI PUBBLICI,Impresa daziaria,506,outside_venice,True,vigo,,out_of_scope_ad_propagation,Ad/OCR propagation error: 'vigo' is not a real town,,False,,
+,,Nesto,provincia,,528,outside_venice,True,nesto,,out_of_scope_ad_propagation,Ad/OCR propagation error: 'nesto' is not a real town,,False,,
+,,Zatti),provincia,,528,outside_venice,True,zatti),,out_of_scope_ad_propagation,Ad/OCR propagation error: 'zatti)' is not a real town,,False,,

@@ -1,0 +1,4 @@
+source,description,rows_geocoded,pct_of_total,tiers,run
+notebook_06_nominatim_outside,"Nominatim — outside Venice real address (tiers 5, 5f)",2308,9.53,"5, 5f",nominatim_20260619_1134
+notebook_06_centroid_outside,"Town centroid — outside Venice (tiers 7a, 7b)",2809,11.59,"7a, 7b",nominatim_20260619_1134
+notebook_06_nominatim_inside,"Nominatim — inside Venice named places (tiers 6, 6f)",1517,6.26,"6, 6f",nominatim_20260628_1823

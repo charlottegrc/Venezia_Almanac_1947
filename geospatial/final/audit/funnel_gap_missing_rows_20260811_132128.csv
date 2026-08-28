@@ -1,0 +1,12 @@
+Name,Address,Location,Category,Role,Profession,Additional Info,Notes,Political Party,page_num,source_file,section,civic_num,civic_lett,sestiere_parsed,parish_parsed,sestiere_implied,match_note,location_cleaned,fail_reason,matched_lat,matched_lon,geocoding_tier,match_confidence
+dr. Alfio Battini,Lista di Spagna 122,Calle Giustinia,,FEDERAZIONE PROVINCIALE PICCOLI PROPRIETARI,Ispettore Regionale per il Veneto,"COLTIVATORI DIRETTI E MEZZADRI, ,",,,65,page_65_semantic.csv,government,,,,,False,no_civic_number,,no_civic_number,,,,
+Dott. Lino Scabello,Lista di Spagna 122,Calle Giustinia,,ISPETTOR. PROV. DELL'AGRICOLTURA,Sezione specializzata di Zootecnia,"COLTIVATORI DIRETTI E MEZZADRI, ,",,,65,page_65_semantic.csv,government,,,,,False,no_civic_number,,no_civic_number,,,,
+,"Genova, Via Boccaccio 45",D’alessandro,,Santo Domingo,,Genova,,,71,page_71_semantic.csv,government,,,,,False,,,no_civic_number,,,,
+Trevisanello Giuseppe,Scuola Media «S. Giovanni Laterano »,"""San Trovaso",,Custode,"SCIENTIFICA E MAGISTRALE,",,,,75,page_75_semantic.csv,government,,,DORSODURO,Santi Gervasio e Protasio,True,no_civic_number,,no_civic_number,,,,
+Cirilli gr. uff. prof. arch. Guido,Accademia di Belle Arti e Liceo Artistico,,,Presidente,Vanoni Ezio,Lanzillo Azionista,,,76,page_76_semantic.csv,government,,,,,False,no_civic_number,False,no_civic_number,,,,
+Certi Ilio,Via M. Polo 15,Mestre,Via Piave,,,(fabbriche),,,221,page_221_semantic.csv,industria,,,,,False,,False,no_civic_number,,,,
+Valsecchi Mario,S. Canciano,Malcontenta,Scatole,,,",",,,288,page_288_semantic.csv,industria,,,,,False,no_civic_number,False,no_civic_number,,,,
+Augguriria Raffaelanil,"Mestre, Circovallazione (Quattro Cantoni)",,Istituto Universitario di Economia e Comm. Cà Foscari,,Segretaria,OCCASIONI - CAMBI - RICOSTRUZIONI - NOLEGGI,,,337,page_337_semantic.csv,indice_generale,,,,,False,no_civic_number,,no_civic_number,,,,
+Radio Venezia,"Palazzo Vendramin Calergi, S. Marcuola, 2021",Pugitto mons. comm. prof. Giuseppe,Concessionaria per le reclandiazioni circolari,,,Radio,,,441,page_441_semantic.csv,indice_generale,,,,,False,,,no_civic_number,,,,
+Sartori dr. Gioachino,"Murano, Sca-ne-gheli",Mestre,,,pediatra,Acer. Sempl. Venezia (Costruzioni Impresa edile,,,451,page_451_semantic.csv,indice_generale,,,,,False,no_civic_number,False,no_civic_number,,,,
+Vedovato Danilo,S. Marco 32,Porto Marghera,OFFICINA RIPARAZIONI MACCHINE PER SCRIVERE,,,tipografia,,,477,page_477_semantic.csv,indice_generale,32.0,,SAN MARCO,,False,num=32 not found in sestiere=SAN MARCO,,number_not_in_reference,,,,

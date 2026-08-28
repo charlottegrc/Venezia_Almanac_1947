@@ -1,0 +1,7 @@
+Page,Run,Rows,Empty Rows,Truncated Names,Issues,Layout,Ad Type,Inferred Schema,Flags,Warning Count,Propagation Flag,Propagation Note,char_accuracy,word_accuracy,bow_similarity,row_count_similarity,semantic_precision,semantic_recall,semantic_f1,Column Differences,Row Count Diff,Rows A,Rows B,Value Similarity %,Failure Reasons
+page_63.jpg,page_63.jpg_semantic_1.csv,64.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,"Name,Address,Location,Role,Profession",propagation_address,1.0,False,,89.81,3.32,62.24,98.44,62.07,61.54,61.8,,,,,,
+page_63.jpg,page_63.jpg_semantic_2.csv,63.0,0.0,0.0,,COMPLEX_LAYOUT,,"Name,Address,Location,Role,Profession",propagation_address,1.0,False,,91.81,1.27,66.2,100.0,99.13,97.44,98.28,,,,,,
+page_63.jpg,page_63.jpg_semantic_1.csv,64.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,"Name,Address,Location,Role,Profession",propagation_address,1.0,False,,89.81,3.32,62.24,98.44,62.07,61.54,61.8,,,,,,
+page_63.jpg,compare_1_2,,,,,,,,,,,,,,,,,,,Additional Info,1.0,64.0,63.0,45.3,
+page_63.jpg,compare_2_3,,,,,,,,,,,,,,,,,,,Additional Info,1.0,63.0,64.0,45.3,
+page_63.jpg,PAGE_SUMMARY,,,,,,,,,,,,,,,,,,,,,,,,COMPLEX_LAYOUT_OK

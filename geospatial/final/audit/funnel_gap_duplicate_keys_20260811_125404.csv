@@ -1,0 +1,139 @@
+page_num,Name,Address,files,n_occurrences
+44,Il Prefetto,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb06_inside, nb07_manual",2
+48,nan,Palazzo Loredan,"nb06_inside, nb06_inside, nb06_inside, nb06_inside",4
+48,nan,"Palazzo Farsetti, p. III","nb06_inside, nb06_inside",2
+49,Vacante,Palazzo Loredan,"nb06_inside, nb06_inside, nb06_inside, nb06_inside",4
+49,vacante,"Palazzo Loredan, p. I","nb06_inside, nb06_inside",2
+49,nan,S. Eufemia 372,"nb06_inside, nb06_inside",2
+60,Tenente Bonato Alberto,Campo San Zaccaria,"nb06_inside, nb06_inside",2
+64,Vianello cav. Pietro,Campo S. Bartolomeo 5376 - Tel. 25-004,"nb06_inside, nb06_inside",2
+65,N. N.,"Palazzo Giovanelli, Santa Fosca 2292","nb06_inside, nb06_inside",2
+68,Umberto Nicolazzi,VENEZIA • Via XXII Marzo,"nb06_inside, nb07_unm",2
+72,Brunetti avv. Antonio,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+72,Uggè Albino,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+72,Dell'Amore Gino Giordano,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,La Volpe Giulio,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside, nb06_inside, nb06_inside",4
+73,Bortolini Alberto,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,Candida Luigi,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,Cudini Giuseppe,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,Pasin Alberto,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,Santarelli Antonio,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,Mittner Ladislao,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+73,Ricci Leonardo,"Palazzi Foscari, Giustinian e Rio Nuovo, Anagrafi: 3226, 3232 e 3881","nb06_inside, nb06_inside",2
+74,Samona dr. ing. Giuseppe,San Trovaso,"nb06_inside, nb06_inside",2
+75,nan,"San Stae, Palazzo Tron","nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside",5
+75,nan,"San Stae, Palazzo Tron, S. Giustina 2821-C","nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside, nb06_inside",13
+86,Bressan Mons. Ettore,TRIBUNALE DIOCESANO E METROPOLITANO,"nb06_inside, nb07_manual, nb07_manual",3
+154,nan,Calle Stagneri,"nb06_inside, nb06_outside, nb06_outside, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb07_unm",18
+212,Cantiere Fioratti,"S. Moisé, 2053","nb06_inside, nb06_inside",2
+392,Fiorin Giovanni,S. Bartolomeo 5833,"nb06_inside, nb06_inside",2
+421,Michelin Clementina,Calle Larga S. Marco,"nb06_inside, nb06_inside",2
+451,nan,S. Moisè 1478,"nb06_inside, nb06_centroid, nb06_centroid",3
+474,Trevisan Giovanni,"S. Polo, Pescheria","nb06_inside, nb06_centroid",2
+49,nan,Via Caneve 9,"nb06_outside, nb07_unm",2
+177,Ermini Vittore,Via Elettricità,"nb06_outside, nb06_outside",2
+192,SAN GIORGIO Società Ind. per Az. Genova,"Corso del Popolo, 1","nb06_outside, nb06_outside, nb06_outside",3
+229,Abbaini rag. Adriano,"Agenzia del Lido, Gran Viale S. Maria Elisabetta, 35-37","nb06_outside, nb06_outside",2
+252,Zara Giuseppe,Via Torre Belfredo 36,"nb06_outside, nb06_outside",2
+268,Rosa Riccardo,Via Rosa 1,"nb06_outside, nb06_outside",2
+272,Cadel Ernesto,via Miranese 20,"nb06_outside, nb06_outside",2
+289,Olivetti Ing. C. & C. S. p. A. Filiale di Venezia,"Bacino Orseolo, 1218","nb06_outside, nb06_outside",2
+306,Zacchiello Giuseppe,Piazza 27 Ottobre,"nb06_outside, nb06_outside",2
+311,Saccà Edoardo,Via Carducci 78,"nb06_outside, nb06_outside",2
+315,S.A.L.I.R.,fdm. Manin 78,"nb06_outside, nb06_outside",2
+338,Basassto Luigi,S. M. Elisabetta 34,"nb06_outside, nb07_unm",2
+346,Belvedere,"Via Caneve, 3","nb06_outside, nb06_centroid",2
+375,Costantini Erminio,Burano Via Pizzo 2,"nb06_outside, nb06_outside",2
+453,Scarpa Carlo,"Lido, Via Lipari n. 4","nb06_outside, nb06_outside",2
+455,Semenzato Antonio,Via Miranese 68,"nb06_outside, nb06_outside",2
+472,Tommasini Raffaele,Mestre-Via Mestrina 10,"nb06_outside, nb06_outside",2
+476,Valentini Giuseppe,Ca' Vio Cavallino num. 16-B,"nb06_outside, nb06_outside",2
+49,nan,Via Durando 1,"nb06_outside, nb06_centroid, nb06_centroid, nb06_centroid, nb07_unm",5
+164,Poggi Ferruccio,Dorsoduro 3525,"nb06_outside, nb06_outside",2
+184,Rossi Amedeo,Via F.lli Bandie- ra 34,"nb06_outside, nb06_outside",2
+355,Bovo Gustavo,Burano Terranova 99,"nb06_outside, nb06_outside",2
+45,Cortesi prof. Tancredi,S. Marco,"nb06_centroid, nb07_unm",2
+45,Tursi prof. Angiolo,S. Marco,"nb06_centroid, nb07_unm",2
+45,Pancino dr. Giuseppe,S. Marco,"nb06_centroid, nb07_unm",2
+49,Vacante,S. Pietro in Volta,"nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid",4
+85,nan,Mestre,"nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid",6
+154,nan,"S. Marco, cl. della Verona","nb06_centroid, nb06_centroid",2
+154,nan,Campo SS. Giov. e Paolo,"nb06_centroid, nb06_centroid, nb06_centroid",3
+154,nan,Campo S. Polo,"nb06_centroid, nb06_centroid",2
+154,nan,Ponte S. Giov. Grisost.,"nb06_centroid, nb06_centroid",2
+154,nan,Calle lunga S. M. Form.,"nb06_centroid, nb06_centroid, nb06_centroid",3
+154,nan,Via Garibaldi,"nb06_centroid, nb06_centroid, nb06_centroid, nb06_centroid",4
+194,Ditta,"Murano Soc. a r. l., Fabbrica: Tolentini, fdm. Rio Nuovo, 3493","nb06_centroid, nb06_centroid",2
+204,nan,Campo S. Canciano 6045,"nb06_centroid, nb06_centroid",2
+228,Banca Nazionale del Lavoro,Rialto - Campo Beccarie,"nb06_centroid, nb07_unm",2
+252,Premiato Mobilificio Casa dell’Artigianato cav. Bruno Gasparini,Via D. Manin 39,"nb06_centroid, nb06_centroid",2
+258,nan,"Venezia, S. Molse, 1417","nb06_centroid, nb06_centroid",2
+298,Haas e Figli (Soc. An. succ. di Filippo Haas),"Campo S. Moisé, 1481","nb06_centroid, nb06_centroid",2
+423,Molin Luigi,"Porto Marghera, Via Mezzacapo 2","nb06_centroid, nb06_centroid",2
+447,Rossi Mario,Castello 6640,"nb06_centroid, nb07_interp",2
+453,Scarpa Giuseppe,Castello 3151,"nb06_centroid, nb07_nciv",2
+261,Pepoli Ferdinando,S. Polo 1853,"nb07_nciv, nb07_nciv",2
+483,Zambon Gino,Cannaregio 2975 A,"nb07_nciv, nb07_nciv",2
+140,Faroni Ant.,Cannaregio 3051,"nb07_nciv, nb07_interp, nb07_manual",3
+199,Superarco,Cannaregio 4726,"nb07_nciv, nb07_interp, nb07_manual",3
+454,Scolari Diot'ennr,Cannaregio 461,"nb07_nciv, nb07_interp, nb07_manual",3
+456,Shernan d. venato,S. Marco 4202,"nb07_nciv, nb07_interp",2
+373,Console Quglieno,Via M. Sabotino 8,"nb07_nciv, nb07_interp, nb07_manual",3
+124,Coen Terzo,S. Marco 1294,"nb07_interp, nb07_interp, nb07_interp",3
+125,Da Ponte Giuseppe,Castello 5575,"nb07_interp, nb07_interp",2
+211,Tonini Galdino,S. Marco 4539-A,"nb07_interp, nb07_interp",2
+42,Dott. Domenico Dal Cortivo,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+42,Rag. Paolo Vasquez,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+43,Dott. Teofilo Uni,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+43,Beltrame Dr. Gregorio,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+43,Siragusa Dr. Ciro,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+43,Frascella Avv. Giuseppe,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+43,Sabbadin Rag. Giordano,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+44,Medico Provinciale,"Palazzo del Governo - S. Maurizio, fondamenta Zaguri 2662","nb07_manual, nb07_manual",2
+66,Accorsi Aldo,S. Luca - Calle Bembo,"nb07_manual, nb07_manual",2
+66,Gaggio Riccardo,S. Luca - Calle Bembo,"nb07_manual, nb07_manual",2
+66,Lunetti Giulio,S. Luca - Calle Bembo,"nb07_manual, nb07_manual",2
+66,Pelizzari Luigi,S. Luca - Calle Bembo,"nb07_manual, nb07_manual",2
+66,Testolini dr. Adelchi,S. Luca - Calle Bembo,"nb07_manual, nb07_manual",2
+86,Spanio mons. dr. Giuseppe,TRIBUNALE DIOCESANO E METROPOLITANO,"nb07_manual, nb07_manual, nb07_manual",3
+86,Gusso Mons. Giovanni,TRIBUNALE DIOCESANO E METROPOLITANO,"nb07_manual, nb07_manual",2
+97,Rossi dr. Giuseppe Ferruccio,Palazzo ex Reale,"nb07_manual, nb07_manual",2
+97,Marconi dr. Mario,Palazzo ex Reale,"nb07_manual, nb07_manual",2
+97,Marconatti avv. Guglielmo,Palazzo ex Reale,"nb07_manual, nb07_manual",2
+97,Campi Giovanni,Palazzo ex Reale,"nb07_manual, nb07_manual",2
+288,Cerleio Giovanni,"S. Filippo e Giacomo, 4275","nb07_manual, nb07_unm",2
+347,Bernardi Giacinto,SS. Filippo e Giacomo 4482,"nb07_manual, nb07_unm",2
+368,Cerillo Giovanni,"S. Filippo e Giacomo, 4275","nb07_manual, nb07_unm",2
+408,Lancerotto Al Lupo Coranto,S.S. Filippo e Giacomo 4513,"nb07_manual, nb07_unm",2
+408,Lancerotto Eugenio,S.S. Filippo e Giacomo 4513,"nb07_manual, nb07_unm",2
+409,Lanzi,SS. Filippo e Giacomo 4523,"nb07_manual, nb07_unm",2
+416,Marcon dr. Alessadro,San Angelo 3916,"nb07_manual, nb07_unm",2
+428,Nusdorfer dr. Roberto,San Angelo 3580,"nb07_manual, nb07_unm",2
+428,Ocoioni geom. Marcello,San Angelo 3580,"nb07_manual, nb07_unm",2
+430,Padovan Alice,San Angelo 3625,"nb07_manual, nb07_unm",2
+441,Radio Iasizza,SS. Filippo e Giacomo 4523,"nb07_manual, nb07_manual, nb07_unm",3
+441,Radio Marelli,SS. Filippo e Giacomo 4523,"nb07_manual, nb07_manual, nb07_unm",3
+450,SANFEN Società,SS. Filippo e Giacomo 4428,"nb07_manual, nb07_unm",2
+484,Zangari Giuseppe,S. Filippo e Giacomo 4506,"nb07_manual, nb07_unm",2
+59,Denaro cav. uff. Alfio (temp.),Com.te in 2.a,"nb07_unm, nb07_unm",2
+61,Boccalate Augusto,nan,"nb07_unm, nb07_unm",2
+71,nan,"Edm. Misericordia 2591, Via A. Appiani 19, Via Baldissera 5, Via Lazio 9, Via Palestro 17, Via Flaminia 79","nb07_unm, nb07_unm, nb07_unm",3
+71,nan,Via Palestro 14,"nb07_unm, nb07_unm, nb07_unm",3
+71,nan,Via del Mare 19,"nb07_unm, nb07_unm",2
+71,nan,Via XX Settembre 23,"nb07_unm, nb07_unm, nb07_unm",3
+71,nan,Via Case Rotte 5,"nb07_unm, nb07_unm, nb07_unm, nb07_unm",4
+75,nan,Scuola Media «S. Giovanni Laterano »,"nb07_unm, nb07_unm, nb07_unm",3
+92,Tosi don Benedetto,SS. MARIA ASSUNTA,"nb07_unm, nb07_unm",2
+92,Vianello don Vittorio,SS. MARIA ASSUNTA,"nb07_unm, nb07_unm",2
+95,Case filiali,Casa di cura a San Cassiano,"nb07_unm, nb07_unm",2
+95,Istituto dell'Infanzia Abbandonata,Isola della Giudecca,"nb07_unm, nb07_unm",2
+95,Suore Maestre di S. Dorotea,Castello,"nb07_unm, nb07_unm",2
+95,nan,Istituto S. M. dei Pisti. Bim Bartore e Penin-tenti: Casa padale della Giudecca,"nb07_unm, nb07_unm",2
+97,Colonnello Giovanni Lorenzon,Piazza S. Marco - Palazzo ex Reale,"nb07_unm, nb07_unm",2
+217,Ferraboschi Silvio,"Via Marsigli 7, Milano","nb07_unm, nb07_unm, nb07_unm",3
+321,Industrie di Murano,nan,"nb07_unm, nb07_unm, nb07_unm, nb07_unm, nb07_unm, nb07_unm, nb07_unm",7
+369,Chiozzotto dr. Umberto,Via Rizzardi 35,"nb07_unm, nb07_unm",2
+396,Fulin Pietro,Calle Botteri,"nb07_unm, nb07_unm",2
+401,Giancomoico e ¥ascaleri,"S. Marco, ,iazzzo ex Frigoni","nb07_unm, nb07_unm",2
+407,Istituto Nazionale di Previdenza e Credito delle Comunicazioni,Corte dell’Albero,"nb07_unm, nb07_unm",2
+481,Visentin dr. Giuseppe,Campi Guerra 525,"nb07_unm, nb07_unm",2

@@ -1,0 +1,7 @@
+metric,mean,median
+char_accuracy,87.5142857142857,95.37
+bow_similarity,67.45857142857143,74.045
+semantic_precision,65.02357142857143,65.275
+semantic_recall,63.06928571428572,64.485
+semantic_f1,63.480714285714285,67.625
+row_count_similarity,92.71,97.85

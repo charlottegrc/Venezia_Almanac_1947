@@ -1,0 +1,69 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Tommasi Maria,S. Vio 853,,Macchine calcolatrici,energia elettrica di trazione e telefoniche,237,True
+Vittadello Alessandro,S. Marco 4594-A,,Macchine calcolatrici,energia elettrica di trazione e telefoniche,237,True
+Zanetti Moreto,S. Marco 714,,Macchine calcolatrici,energia elettrica di trazione e telefoniche,237,True
+Zecchini Claudio,S. Marco 4185-A,Marghera,Macchine calcolatrici,energia elettrica di trazione e telefoniche,237,False
+Zen Romano,S. Polo 1034,,Macchine calcolatrici,energia elettrica di trazione e telefoniche,237,True
+Soc. An. Linificio e Canapificio Nazionale,S. Polo 1034,,Linifici,S. Provolo,237,True
+Regini F.lli,"S. Lio, Ponte S. Antonio",Marghera,Linoleum,Dermodili e Tele Cerate,237,False
+Anonima Distilleria e Cantine Riunite «Viterium» Bizzarri e C.,"Lido, via Loredan n. 4",Marghera,Liqouri,",",237,False
+Biondi L.,S. Marco 996,,Liqouri,",",237,True
+Carino Alessandro,Castello 5110,,Liqouri,",",237,True
+Chiocchetta Primo,Dorsoduro 2588,,Liqouri,",",237,True
+Colonna Andrea,Cannaregio 5329,,Liqouri,",",237,True
+Dalla Venezia Giovanni,Cann. 1506,,Liqouri,",",237,True
+Distilleria Marschion e Liquori Romano Vanhay,Castello 6041,,Liqouri,",",237,True
+Gaspirini rag. Romeo,S. Croce 2149,,Liqouri,",",237,True
+Gianolla e C.,Giudecca 204,,Liqouri,",",237,True
+Lacchin G.,Castello 5889,,Liqouri,",",237,True
+Lamberti e Stagliano,"Lido, via Doge Micheli 10",Marghera,Liqouri,",",237,False
+Luxardo Girolamo,S. Croce 846,,Liqouri,",",237,True
+Martire Umberto,Cannaregio 2432,,Liqouri,",",237,True
+Meazza Ines in D’Indini,Cann. 3685-B,,Liqouri,",",237,True
+Munarin rag. Guido,Cannaregio 6131,Marghera,Liqouri,",",237,False
+Peggiato Umberto di Federico,"S. Simeone, 734",,"Vini, Liquori, Alimentari, Rappresentanze e Depositi",Tel. 25-061,237,True
+Perozzo Attilio,S. Polo 736,,Liqouri,",",237,True
+Riolfo Arnaldo e Vio Emilio,S. Croce 782,,Liqouri,",",237,True
+Rizzo Osvaldo (ditta),Castello 4919,,Liqouri,",",237,True
+Soc. An. Tenente Valb'una,Castello 4424,,Liqouri,",",237,True
+S. A. Pilla,fdm. Mula 1554,,Liqouri,", | Fratelli e C.",237,True
+Soc. An. A. Pizzolotto,"Giudecca, S. Biagio",Marghera,Liqouri,",",237,False
+Spanò A. Oneto,Dorsoduro 2426,,Liqouri,",",237,True
+Vimercati Fratelli,S. Croce 469,,Liqouri,",",237,True
+Zane Emilio,S. Polo 1462,,Liqouri,",",237,True
+Baker A.A. e C.,"S. Polo 1462, Castello 6480",,Liqouri (dettaglio),", | Soc. An.",237,True
+Coletta Annibale,S. Marco 880,Marghera,Liqouri (dettaglio),",",237,False
+Crivellari Giuseppina,Castello 4717,,Liqouri (dettaglio),",",237,True
+Doga Pietro,"Mestre, P. Umberto I",Marghera,Liqouri (dettaglio),",",237,False
+Toecchiato Mario,"Mestre, via Torre Belluno 90",Marghera,Liqouri (dettaglio),",",237,False
+Vital Soc. a.r.l.,Lido via P. Eriuzzo 5-A,Marghera,Liqouri (dettaglio),",",237,False
+Alimentari Carburanti affini A.L.C.A.,Lido via P. Eriuzzo 5-A,Marghera,Lubrificanti,",",237,False
+Caldera Enzo,"Mestre, Via Piave 17",Marghera,Lubrificanti,",",237,False
+Consorzio Motoscerechiccio Alto Adriatico,Giudecca 48,,Lubrificanti,",",237,True
+Fulanetto Ettore,"Mestre, Via Marghera 164-A",Marghera,Lubrificanti,",",237,False
+Investimenti Marittimi,S. Marco 3555,,Lubrificanti,", | Soc. a. r. l.",237,True
+Maccagni Antonio,"P. Marghera, Via Durando 7",Marghera,Lubrificanti,",",237,False
+Manut Soc. An. Italiana,S. Marco 2315,,Lubrificanti,",",237,True
+Perassoni Armando,"Marghera, Via delle Macchine",Marghera,Lubrificanti,",",237,False
+Raffineria di Olii Minerali,S. Marco 2465,,Lubrificanti,", | Soc. per Az. ROMESA",237,True
+Soc. An. Gas di Murano,"Murano, Campo Cimitero 2",Marghera,Lubrificanti,",",237,False
+Soc. A. Gestione Autoriemesse,S. Marco 181-A,,Lubrificanti,",",237,True
+Soc. An. Lubrificanti,S. Marco 181-A,,Lubrificanti,", | Ernesto Reinach",237,True
+Tagliabue Giuseppe,S. Marco 181-A,,Lubrificanti,P. Marghera,237,True
+Vacuum Oil Company,S. Marco 181-A,"S. Marco, Via XXII Marzo, Palazzo della Borsa",Lubrificanti,", | s. a. i.",237,False
+Farinato Armando,Dorsoduro 3000,,Lucido de scarpe (fabbriche),",",237,True
+Rinaldo Luigi,Cannaregio 2607,,Lucido de scarpe (fabbriche),",",237,True
+Salpanavi Soc. per Az.,Dorsoduro 351,,Macchine e accessori,",",237,True
+Commerciale Agricola Industriale,S. Marco 4232,,Macchine agricole,",",237,True
+Cooperativa Agricola fra Coltivatori Diretti,S. Marco 4232,Treporti,Macchine agricole,",",237,False
+Brusegan Alfredo,"Mestre, Calle dei Sale",Marghera,Macchine agricole,",",237,False
+Ferro Letizia,"Treporti, v. Saccagnana 181",Marghera,Macchine agricole,",",237,False
+Francesconi Carlino,"Mestre, Via Cappuccina 40",Marghera,Macchine agricole,",",237,False
+Freddi Leonardo,"Via S. Donà, 11 Mestre",Marghera,Macchine agricole,",",237,False
+Saccà Edoardo,"Mestre, v. Carducci 9",Marghera,Macchine agricole,",",237,False
+S. A. Lubrificanti Ernesto Reinach,"Mestre, v. Carducci 9",Marghera,Macchine agricole,Porto Marghera,237,False
+Toppo Adriano,Castello 2884,Marghera,"Addizionatori, Calcolatrici, Macchine Contabili, Agricole, Utennelli, Enologiche, da Scrivere, etc.",Tel. 23-488,237,False
+Carastiato Zenith,S. Marco 777,Marghera,Macchine calcolatrici,",",237,False
+Dusev,"Via 22 Marzo, 2288",Marghera,Macchine calcolatrici,",",237,False
+Griffini rag. Rinaldo,S. Marco 2402,,Macchine calcolatrici,",",237,True
+Dinon Mario,Venezia - Castello - Salizzada dei Greci 3306,,Macchine calcolatrici,Antica Rinomata Pasticceria Confetteria - Liquori Vini,237,True

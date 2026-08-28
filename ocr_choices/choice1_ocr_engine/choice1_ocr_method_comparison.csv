@@ -1,0 +1,7 @@
+page,method,char_acc,word_acc,line_acc
+49,tesseract,93.94,59.59,0.0
+49,gemini,94.72,63.6,0.0
+49,gpt,98.51,90.06,0.0
+60,tesseract,95.02,63.08,2.15
+60,gemini,96.44,73.54,0.0
+60,gpt,95.49,66.5,0.0

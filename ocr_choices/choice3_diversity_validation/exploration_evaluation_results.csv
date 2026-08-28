@@ -1,0 +1,43 @@
+Page,Run,Type,Char Acc,Word Acc,BoW Acc,Semantic Precision,Semantic Recall,Semantic F1,Row Count Similarity,Run-to-Run Similarity,Schema Mode
+page_4,page_4_ocr_1,OCR,91.09,14.44,71.58,,,,,,
+page_4,page_4_semantic_1,Semantic,,,,0.0,0.0,0,50.0,,flex
+page_10,page_10_ocr_1,OCR,41.22,4.82,21.43,,,,,,
+page_10,page_10_semantic_1,Semantic,,,,90.32,90.32,90.32,100.0,,flex
+page_14,page_14_ocr_1,OCR,68.95,0.79,38.08,,,,,,
+page_14,page_14_semantic_1,Semantic,,,,98.04,98.04,98.04,100.0,,flex
+page_36,page_36_ocr_1,OCR,98.56,17.42,89.87,,,,,,
+page_36,page_36_semantic_1,Semantic,,,,96.67,96.67,96.67,100.0,,flex
+page_42,page_42_ocr_1,OCR,58.95,3.31,73.88,,,,,,
+page_42,page_42_ocr_2,OCR,96.6,3.09,79.61,,,,,,
+page_42,page_42_semantic_1,Semantic,,,,92.86,100.0,96.3,92.86,,flex
+page_42,page_42_semantic_2,Semantic,,,,50.0,53.85,51.85,92.86,,flex
+page_42,page_42_semantic_1 vs page_42_semantic_2,Run Comparison,,,,,,,,0.0,flex
+page_45,page_45_ocr_1,OCR,93.01,0.31,59.75,,,,,,
+page_45,page_45_ocr_2,OCR,94.34,0.31,61.75,,,,,,
+page_45,page_45_semantic_1,Semantic,,,,0.0,0.0,0,97.62,,flex
+page_45,page_45_semantic_2,Semantic,,,,100.0,100.0,100.0,100.0,,flex
+page_45,page_45_semantic_1 vs page_45_semantic_2,Run Comparison,,,,,,,,26.19,flex
+page_58,page_58_ocr_1,OCR,42.09,1.66,58.8,,,,,,
+page_58,page_58_ocr_2,OCR,96.67,5.35,79.33,,,,,,
+page_58,page_58_semantic_1,Semantic,,,,71.43,67.57,69.44,94.59,,flex
+page_58,page_58_semantic_2,Semantic,,,,100.0,100.0,100.0,100.0,,flex
+page_58,page_58_semantic_1 vs page_58_semantic_2,Run Comparison,,,,,,,,64.86,flex
+page_60,page_60_ocr_1,OCR,30.41,0.48,81.32,,,,,,
+page_60,page_60_semantic_1,Semantic,,,,92.21,94.67,93.42,97.4,,flex
+page_63,page_63_ocr_1,OCR,99.18,0.85,94.24,,,,,,
+page_63,page_63_semantic_1,Semantic,,,,83.33,83.33,83.33,100.0,,flex
+page_86,page_86_ocr_1,OCR,97.93,10.47,82.95,,,,,,
+page_86,page_86_semantic_1,Semantic,,,,29.31,28.81,29.06,98.31,,flex
+page_87,page_87_ocr_1,OCR,95.31,1.1,90.76,,,,,,
+page_87,page_87_semantic_1,Semantic,,,,100.0,100.0,100.0,100.0,,flex
+page_103,page_103_ocr_1,OCR,97.64,0.75,87.46,,,,,,
+page_103,page_103_semantic_1,Semantic,,,,100.0,100.0,100.0,100.0,,flex
+page_110,page_110_ocr_1,OCR,96.11,0.9,75.99,,,,,,
+page_110,page_110_semantic_1,Semantic,,,,98.37,98.37,98.37,100.0,,flex
+page_151,page_151_ocr_1,OCR,98.16,78.45,92.91,,,,,,
+page_151,page_151_ocr_2,OCR,95.14,13.08,70.02,,,,,,
+page_151,page_151_semantic_1,Semantic,,,,93.18,93.18,93.18,100.0,,flex
+page_151,page_151_semantic_2,Semantic,,,,88.1,84.09,86.05,95.45,,flex
+page_151,page_151_semantic_1 vs page_151_semantic_2,Run Comparison,,,,,,,,86.36,flex
+page_167,page_167_ocr_1,OCR,97.15,1.64,95.77,,,,,,
+page_167,page_167_semantic_1,Semantic,,,,95.0,95.0,95.0,100.0,,flex

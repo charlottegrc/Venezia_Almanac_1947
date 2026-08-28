@@ -1,0 +1,101 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Bergamin Giovanni,D. Duro 883,,Bar,",",155,True
+Bergamin Vittorio,D. Duro 1419,,Bar,",",155,True
+Bettiolo Maria,Castello 4924,,Bar,",",155,True
+Bettolo Bortolo,S. Croce 278,,Bar,",",155,True
+Bonifacio Angelo,Murano fonda Manin 17,Mestre,Bar,",",155,False
+Bonifacio Michele,Castello 4237 A,,Bar,",",155,True
+Bordini Ermenegildo,S. Marco 671,,Bar,",",155,True
+Bortoluzzi Silvano,Cannaregio 1949,,Bar,",",155,True
+Bosello Omedo,S. Marco 5125,,Bar,",",155,True
+Cargnina Antonietta in Bacheletta,S. Marcos 169,,Bar,",",155,True
+Calligari Palmira,Castello 5689,,Bar,",",155,True
+Canal Giuseppe,S. Marco 2068,,Bar,",",155,True
+Caracci Beniamino,S. Croce 3527,,Bar,",",155,True
+Carceri Concetta,Cannaregio 2348,,Bar,",",155,True
+Carretta Vittorio,Dorsoduro 19,,Bar,",",155,True
+Cavalloti Giuseppe,Castello 5786,,Bar,",",155,True
+Cazzetta Agostino,Cannaregio 1979,,Bar,",",155,True
+Cellere Ines,Cannaregio 321,,Bar,",",155,True
+Cendron Alessandrina,Cannaregio 6066,,Bar,",",155,True
+Centofante Giovanni,S. Polo 733,,Bar,",",155,True
+Certo Pietro,"Lido, Gran Viale 57",Mestre,Bar,CATEGORY_NAME,155,False
+Chialina e C.,S. Croce 713,Mestre,Bar,",",155,False
+Chizzolini Giacomo,"Lido, s. m. Elisabetta 16",Mestre,Bar,CATEGORY_NAME,155,False
+Cipriani Giuseppe,s. Marco 1323,,Bar,", | Bar Arrigo",155,True
+Bar Ciro,S. Marco, Via XXII Marzo,Bar,",",155,False
+Cisotto Giuseppe,Castello 8823,Mestre,Bar,",",155,False
+Crozoli Maria,Dorsoduro 2769,,Bar,",",155,True
+Cucetta Costante,Bar Nostro S. Marco 5741,,Bar,CATEGORY_NAME,155,True
+Dal Col Cesare,S. Marco 1035,,Bar,",",155,True
+Dalla Francesca Damiani Maria,Canu. 5561,Mestre,Bar,",",155,False
+Dalla Torre Luigi,Castello 5355,,Bar,",",155,True
+Dall'Oglio Giani Raffaele,"S. Marco 4482, Cannaregio 1818",,Bar,CATEGORY_NAME,155,True
+Dal Mas Arcangelo,Cannaregio 150 A,,Bar,",",155,True
+Dal Mas Guglielmo,Castello 4830,,Bar,",",155,True
+Dal Mas Pietro,S. Marco 367 b,,Bar,",",155,True
+Dal Mut Mary,S. Marco 479,,Bar,",",155,True
+Da Tos Ettore,S. Marco 5453,,Bar,",",155,True
+Da Via Maria,Cannaregio 325,,Bar,",",155,True
+De Ceno Pietro Romano,Cannaregio 116,,Bar,",",155,True
+Dell'Andrea Pietro,Dorsoduro 2919,,Bar,",",155,True
+Dell'Aurore Ruggero,Cannaregio 2780,,Bar,",",155,True
+Del Zenero Romolo,Castello 3604,,Bar,",",155,True
+Del Zotto Luigia,S. Marco 2354,,Bar,",",155,True
+De' Marchi Simeone,S. Polo 55,,Bar,",",155,True
+Doni Silvano,Castello 4552,,Bar,",",155,True
+Fabris Giovanni,S. Croce 1525,,Bar,",",155,True
+Ferrari Plinio,S. Marco 4558,,Bar,",",155,True
+Fersuoch Angelo,Castello 6779,,Bar,",",155,True
+Finato e C.,S. Marco 1165,,Bar,",",155,True
+Fioravanzi Marino,S. Marco 490,,Bar,",",155,True
+Fiocin Teresa,S. Marco 4024,,Bar,",",155,True
+Fontanella Antonio,"Mestre, Via Piave 72",Mestre,Bar,CATEGORY_NAME,155,False
+Fort Luigi,S. Marco 5370,,Bar,",",155,True
+Fullin Nicola,S. Polo 61,,Bar,",",155,True
+Gardo Angelo,Cannaregio 3822 A,,Bar,",",155,True
+Gatto Arturo,S. Marco 5538,,Bar,",",155,True
+Goretti Vincenzo,S. Marco 8401,Mestre,Bar,",",155,False
+Harry's Bar di Cipriani Giuseppe,"S. Marco, calle Vallaresso, 1323",,Telef. 53-819,CATEGORY_NAME,155,True
+Inquanato Tiziano,S. Marco 4819,,Bar,",",155,True
+Labrio Giovanni,S. Polo 1070,,Bar,",",155,True
+La Gatta Lisidene,Canu. 1305,Mestre,Bar,",",155,False
+Lazzarin Giosia,Castello 4119,,Bar,",",155,True
+Lazzaris Emilio,Dorsoduro 3110 B,,Bar,",",155,True
+Lotto Costante,S. Marco 4117,,Bar,",",155,True
+Maccari Maria,S. Polo 2229,,Bar,",",155,True
+Manferri Vittorio,Cannaregio 5041,,Bar,",",155,True
+Manzoni Ernesto,Cannaregio 5041,int. Teatro Malibran,Bar,CATEGORY_NAME,155,False
+Mario Gloria,"Dorsoduro, San Pantalon 3710.16",Mestre,"locale ideale per il buongustaio, Salone per banchetti e feste danzanti","Bar Ristorante ""Saan Pantalon""",155,False
+Marino Rosa in Vianello,Lido Gran Viale 47,Mestre,Bar,CATEGORY_NAME,155,False
+Martin Gioachino,Giudecca 460,,Bar,",",155,True
+Mastini Angelo (eredi),Cannaregio 4310,,Bar,",",155,True
+Moran'di Bruno,S. Marco 5362,,Bar,",",155,True
+Morindi M. A.,S. Marco 5029,Mestre,Bar,",",155,False
+Nicoletti Pietro,S. Marco 1076,,Bar,",",155,True
+Nicoletti Tino,Dorsoduro 3764,,Bar,",",155,True
+Nocente Annibale,Dorsoduro 1169 A,,Bar,",",155,True
+Osvaldini Lina,S. Marco 992,,Bar,",",155,True
+Pagai Dante,S. Marco 3630,,Bar,",",155,True
+Papais Vittorio,Cannaregio 1065,,Bar,",",155,True
+Parenti Giuseppina,S. Croce 187,,Bar,",",155,True
+Pasini Ruggiero,Cannaregio 5868 A,,Bar,",",155,True
+Pastega Teresa in Rigon,Cannaregio 3843,,Bar,",",155,True
+Pellegrini Angelo,Castello 4685,,Bar,",",155,True
+Pellegrini Teresa,Castello 4988,,Bar,",",155,True
+Penzo Luigia,S. Marco 3803,,Bar,",",155,True
+Perutto Angela,Cannaregio 3723,,Bar,",",155,True
+Possenti L.,Cannaregio 3723,,Bar,Stazione Ferroviaria,155,True
+Rampazzo Ampelio,S. Croce 745,,Bar,",",155,True
+Ravagnan Nicola,S. Croce 745,,Bar,CATEGORY_NAME,155,True
+Rinaldi Elisa,S. Croce 745,int. Teatro Rossini,Bar,CATEGORY_NAME,155,False
+Rinzardini F.lli,S. Polo 1415,,Bar,",",155,True
+Rizzo Andrea,Lido Gran Viale,Mestre,Bar,CATEGORY_NAME,155,False
+Rizzo Attilio,S. Marco 5176,,Bar,",",155,True
+Rosa Salva Ermenegildo,S. Marco 905,,Bar,",",155,True
+Rosa Salva F.lli,S. Marco 4589,,Bar,",",155,True
+Roveda Antonio,S. Marco 4542,Mestre,Bar,",",155,False
+Roverato Augusta,Castello 4616,,Bar,",",155,True
+Santi Giovanna,S. Polo 67,,Bar,",",155,True
+Santi G e C., S. Marco 5040,,gestione caffè," bar all'Angelo, ",155,True
+Scarpa Mario,Castello 3183,Mestre,Bar,",",155,False

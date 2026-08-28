@@ -1,0 +1,17 @@
+Page,Run,Precision,Recall,F1
+page_4,page_4_semantic_1,0.0,0.0,0.0
+page_10,page_10_semantic_1,90.32,90.32,90.32
+page_14,page_14_semantic_1,98.04,98.04,98.04
+page_36,page_36_semantic_1,96.67,96.67,96.67
+page_42,page_42_semantic_1.csv,92.86,100.0,96.3
+page_42,page_42_semantic_8.csv,50.0,53.85,51.85
+page_45,page_45_semantic_1.csv,0.0,0.0,0.0
+page_45,page_45_semantic_2.csv,100.0,100.0,100.0
+page_58,page_58_semantic_1,71.43,67.57,69.44
+page_58,page_58_semantic_2,100.0,100.0,100.0
+page_63,page_63_semantic_1,83.33,83.33,83.33
+page_87,page_87_semantic_1,100.0,100.0,100.0
+page_103,page_103_semantic_1,100.0,100.0,100.0
+page_151,page_151_semantic_1,93.18,93.18,93.18
+page_151,page_151_semantic_2,88.1,84.09,86.05
+page_167,page_167_semantic_1,95.0,95.0,95.0

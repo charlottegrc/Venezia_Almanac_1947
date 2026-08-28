@@ -1,0 +1,52 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+SALLE ROMEO,Via Garibaldi,Mestre,Cinema,Posteggio Noleggio Riparazioni,185,False
+Foldo Guido,Via Garibaldi,Dese,Cinema,Favaro Veneto,185,False
+Trevisan Angelo,Via Cappuccina 143,Mestre,Cinema,Posteggio Noleggio Riparazioni,185,False
+Valentini Giuseppe,Ca' Vio Cavaliino 16B,Murano,Cinema,Posteggio Noleggio Riparazioni,185,False
+Vigato Antonio,Via Cappuccina 69,Mestre,Cinema,Posteggio Noleggio Riparazioni,185,False
+Zanessi Mario,Piazza 27 Ott. 33,Mestre,Cinema,Posteggio Noleggio Riparazioni,185,False
+Zanirato Domenico,Piazza 27 Ott. 33,Favaro Veneto Centro,Cinema,Posteggio Noleggio Riparazioni,185,False
+Zanirato Rino,Piazza 27 Ott. 33,Favaro Veneto Piazza Municipio,Cinema,Posteggio Noleggio Riparazioni,185,False
+Furlan cav. Giovanni,Piazza 27 Ott. 33,Murano,Cinema,"gestione Cinema via Goloto, R. Go. Maghera",185,False
+Sala Favln,Piazza 27 Ott. 33,Murano,Cinema,gestione Favln Umberta Burano,185,False
+Teatro Malibran,Piazza 27 Ott. 33,Murano,Cinema,gestione I.C.S.A.,185,False
+Teatro Toniolo,Piazza 27 Ott. 33,Mestre,Cinema,Furlan Giovanni,185,False
+Agenzia Cinematografica Triveneta S. A,Calle Loredan 4147,S. Luca,Cinema,Posteggio Noleggio Riparazioni,185,False
+Ente Nazionale Industrie Cinematografiche E.N.I.C.,San Simone Piccolo 745 A,Murano,Cinema,Posteggio Noleggio Riparazioni,185,False
+Direzione Generale,Ruga Orefici 1,Murano,Cinema,Posteggio Noleggio Riparazioni,185,False
+Larius Films,"Ruga Orefici 1, San Marco 2554",,Cinema,Scc. a. r. l.,185,True
+Nazionale socheor per az. prod. e distribuzione pel. cinem.,S. Marco fdm. Dal 376,,Cinema,Posteggio Noleggio Riparazioni,185,True
+Olimpia Film,S. Marco fdm. Dal 376, Soc. a. r. l.,San Marco 2683,", | Societa Italiana Cinematografica",185,False
+Societa pez Esercizio spettacoli,S. Marco 2012,,Cinema,Posteggio Noleggio Riparazioni,185,True
+"Varieta Industria Spettacoli ""V.1.S.""",San Polo 1206,,Cinema,Posteggio Noleggio Riparazioni,185,True
+Cinema Accademia,San Polo 1206,,Cinema,"gestione I.C.S.A., Accademia",185,True
+Cinema Concordia,San Polo 1206,Pisani Frezzeria,Cinema,Posteggio Noleggio Riparazioni,185,False
+Cinema Garibaldi,Via Garibaldi,Murano,Cinema,di Magnarin Giuseppe,185,False
+Cinema Imperial,San Polo,Murano,Cinema,gestione dr. Gaston-Mdrchi,185,False
+Cinema Italia,Cannaregio 4205,,Cinema,gestione I.C.S.A.,185,True
+Cinema Massimo,San Salvador,Murano,Cinema,gestione I.C.S.A.,185,False
+Cinema Moderno,Santa Margherita,Murano,Cinema,gestione Gaetano Domenichhi,185,False
+Cinema Nazionale,Santa Margherita,Murano,Cinema,Lista di Spagna,185,False
+Cinema Olimpia,Santa Margherita,Murano,Cinema,gestione E.N.I.C. | S. Gallo,185,False
+Cinema Progresso,S. Sofia 4205,Murano,Cinema,gestione S. An. «.G.F.C-A.»,185,False
+Cinema S. Marco,S. Sofia 4205,Murano,Cinema,gestione I.G.S.A.,185,False
+Cinema S. Margherita,S. Sofia 4205,Murano,Cinema,gestione Magnarin Giuseppe | S. Margherita,185,False
+Cinema Savoia,calle della Pieta,Murano,Cinema,gestione S. A. S. H. M.,185,False
+Cinema Teatro Rossini,S. Marco 616,,Cinema,"gestione S. A., I, C. S. A.",185,True
+Cinema Tirana,San Marco 616,,Cinema,gestione S. P. E. S.,185,True
+Cinema Excelsior,San Marco 616,,Cinema,di Furlan Giovanni,185,True
+GESTIONES cINEAA TEATRI - MESTRE,San Marco 616,,Cinema,FURLAN CAV. GIOVANNI,185,True
+Cinema Giudecca,San Marco 616,Giudecca,Cinema,gestione Solferini Olgn in Becher,185,False
+Cinema Marconi,piazza Umberto 1,Mestre,Cinema,gestione G. Furlan,185,False
+Cinema Piave F. M.,piazza Umberto 1,Murano,Cinema,gestione Fain | Murano,185,False
+Cinema Piave,Piazza Umberto 1. 18,Mestre,Cinema,gestione Furlan Giovanni,185,False
+Cinema Terrazza,Piazza Umberto 1. 18,Lido,Cinema,gestione Locatelli cav. Dante,185,False
+Furlan Armando,Piazza Umberto 1. 18,Mestre,Cinema,gestione (\in. Piave | VI Piave,185,False
+Cinematografia,Piazza Umberto 1. 18,Murano,Cinema,Posteggio Noleggio Riparazioni,185,False
+(cinemeoeanica),"Malaconton, 3S63",Murano,Cinematografia,"Agenzia d» Venezia, Radiocinematogreùa a.r.l.",185,False
+Mazzown,Rio Terra Assassini 3685,S. Marco,Cinghie di Cuoio,per trasmissione,185,False
+Regini F.ill,Rio Terra Assassini 3685,,Cinghie di Cuoio,"Cinghie di Cuoio, Cinghie per trasmissioni, Cuoio Gomma, e pelo camello, S. Lio, Ponte S. Antonio | G Paul",185,True
+Mazznzooc Cav. Giuseppe,"Fond. Cannaregio, 970",Murano,Cinture di salvataggio,"Premialo Sugherificio Veneto, Sata, Amm. Palazzo Surian",185,False
+C.I.C Casa Importazione,Castello 4283,Murano,Coloniali,caffe Monteorcho,185,False
+Compagnia Veneziana delle Spezie,Via XIII Marto n. 2228,,Coloniali,"Soc. in aceap. semep. ng, Alessandro Barnabo",185,True
+duse,Via XIII Artie n. 2288,Murano,"Officina Riparazioni, ""CHANICA\""""",Posteggio Noleggio Riparazioni,185,False

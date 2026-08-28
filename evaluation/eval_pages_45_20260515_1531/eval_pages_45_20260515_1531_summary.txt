@@ -1,0 +1,9 @@
+Pages evaluated: 1
+Propagation failures: 1
+
+=== Pages needing attention ===
+
+=== Pages with warnings ===
+  page_45.jpg (page_45.jpg_semantic_1.csv): -> WARNING: 25 rows (47%) missing both Address and Location on page_45.jpg
+
+=== Missing files ===

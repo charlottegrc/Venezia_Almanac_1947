@@ -1,0 +1,48 @@
+file,address,method,status
+all_pages_20260721_1901_unmatched_sestiere.csv,Via M. Polo 15,no_match,failed
+all_pages_20260721_1901_geocoded.csv,Via Motto Grappa 4,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,Via M. Bragadin 6,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,Via F.lli Banidera 69,nominatim_retry,geocoded
+nominatim_20260721_1924_matched_provincia_centroid.csv,Via M. Polo 15,no_match,failed
+all_pages_20260721_1901_unmatched_sestiere.csv,Via M. Polo 15,no_match,failed
+matched_outside_venice_centroid.csv,Via M. Polo 15,no_match,failed
+all_pages_20260721_1901_unmatched_sestiere.csv,"Mestre, Via Rosa, 22",nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+nominatim_20260721_1924_matched_provincia_centroid.csv,"Mestre, Via Rosa, 22",nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,"Mestre, Via Rosa, 22",nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+matched_outside_venice_centroid.csv,"Mestre, Via Rosa, 22",nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv, Via Lepanto VII-18-B,nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+nominatim_20260721_1924_matched_provincia_centroid.csv, Via Lepanto VII-18-B,nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv, Via Lepanto VII-18-B,nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+matched_outside_venice_centroid.csv, Via Lepanto VII-18-B,nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to nominatim_20260722_1042_matched_nominatim_inside.csv)
+nominatim_20260722_1042_nominatim_unmatched_inside.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to nominatim_20260722_1042_matched_nominatim_inside.csv)
+all_pages_20260721_1901_unmatched_sestiere.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+nciv_check_unmatched.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to nciv_check_matched.csv)
+unmatched_after_interpolation.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to nciv_interpolated_matched.csv)
+unmatched_after_manual.csv,Via M. Sabotino 8,nominatim_retry,geocoded (moved to matched_manual.csv)
+all_pages_20260721_1901_geocoded.csv,"Venice, Ca' Foscari",nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,San Vio Palazzo Poligone,nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,"Mestre, Via Poerio numero 60",nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+all_pages_20260721_1901_ambiguous.csv,Via Mouta San Michele 4,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,Via G. Bruno numero 16,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,Via Mouta San Michele 4,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,Via Cippo 15,no_match,failed
+nominatim_20260721_1924_matched_provincia_centroid.csv,"Mestre, Via Poerio numero 60",nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,"Mestre, Via Poerio numero 60",nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+matched_outside_venice_centroid.csv,"Mestre, Via Poerio numero 60",nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,Uff. Giudiziario della Pretura di Mestre,nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+nominatim_20260721_1924_matched_provincia_centroid.csv,Uff. Giudiziario della Pretura di Mestre,nominatim_retry,geocoded
+all_pages_20260721_1901_unmatched_sestiere.csv,Uff. Giudiziario della Pretura di Mestre,nominatim_retry,geocoded (moved to all_pages_20260721_1901_geocoded.csv)
+matched_outside_venice_centroid.csv,Uff. Giudiziario della Pretura di Mestre,nominatim_retry,geocoded
+all_pages_20260721_1901_ambiguous.csv, Via Paolucci 54.,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv, Via Paolucci 54.,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,"Mestre, Via Ospedale 12",nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,Via Cipr 7. 3,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,"Mestre, Via Girolamo 126",nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv, Via Galupp 19,nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,"Mestre, Via G. Gozzi 10",nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,San Marco numero 2954,manual_coords,geocoded
+all_pages_20260721_1901_geocoded.csv,"Mestre, Via Fiume 73",nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv,"Mestre, Via Rosa B. 10",nominatim_retry,geocoded
+all_pages_20260721_1901_geocoded.csv, Via Lamen 1,no_match,failed

@@ -1,0 +1,1544 @@
+canonical_label,frequency,cluster_id,category_name
+Venetian specialties,98,0,Food & beverages
+dairies,84,0,Food & beverages
+food products,66,0,Food & beverages
+chemical products,65,0,"Construction, carpentry, chemicals, fuel & raw materials"
+perfumery,51,0,"Textiles, clothing, footwear, haberdashery & perfumery"
+Various representations,43,0,Food & beverages
+Boxes,36,0,Food & beverages
+Notions,36,0,Food & beverages
+Dairy,36,0,Food & beverages
+Edible oils,29,0,Food & beverages
+Toys,28,0,Food & beverages
+Flowers and plants,25,0,Food & beverages
+Pearls,22,0,Food & beverages
+liquors,20,0,Food & beverages
+messengers,20,0,Food & beverages
+Food representative,18,0,Food & beverages
+Perfumery,17,0,"Textiles, clothing, footwear, haberdashery & perfumery"
+dried fruit,16,0,Food & beverages
+fried foods,16,0,Food & beverages
+coffee roasting,16,0,Food & beverages
+Coffee,16,0,Food & beverages
+flowers,15,0,Food & beverages
+ice,15,0,Food & beverages
+citrus fruits,15,0,Food & beverages
+wines,15,0,Food & beverages
+mineral oils,13,0,"Construction, carpentry, chemicals, fuel & raw materials"
+inns,13,0,Food & beverages
+raincoats,12,0,Food & beverages
+Oil,12,0,"Construction, carpentry, chemicals, fuel & raw materials"
+sweets,12,0,Food & beverages
+Garbage,11,0,
+lubricants,10,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Liquid fuels,9,0,"Construction, carpentry, chemicals, fuel & raw materials"
+umbrellas,9,0,Food & beverages
+Chemical representative,8,0,"Construction, carpentry, chemicals, fuel & raw materials"
+fruit,8,0,Food & beverages
+drugs,8,0,Food & beverages
+Plant fibers,7,0,Food & beverages
+Perfumes,7,0,"Textiles, clothing, footwear, haberdashery & perfumery"
+musical instruments,7,0,Food & beverages
+edible oils,7,0,Food & beverages
+Vegetables,7,0,Food & beverages
+canned fish,7,0,Food & beverages
+fuel oils,6,0,"Construction, carpentry, chemicals, fuel & raw materials"
+food representative,6,0,Food & beverages
+ice houses,6,0,Food & beverages
+Rotisserie,6,0,Food & beverages
+Candles,5,0,Food & beverages
+Eggs,5,0,Food & beverages
+Wine,5,0,Food & beverages
+Minerals,5,0,Food & beverages
+Disinfection,5,0,Food & beverages
+toys,5,0,Food & beverages
+Cold cuts,5,0,Food & beverages
+Mattresses,5,0,Food & beverages
+fruits and vegetables,5,0,Food & beverages
+Natural gas,5,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Terraces,4,0,Food & beverages
+Cork,4,0,Food & beverages
+Grains,4,0,Food & beverages
+Cosmetics,4,0,Food & beverages
+liquor,4,0,Food & beverages
+Soaps,4,0,Food & beverages
+Oilseeds,4,0,Food & beverages
+Liquors,4,0,Food & beverages
+Sugar,4,0,Food & beverages
+Syrups,4,0,Food & beverages
+Musical instruments,4,0,Food & beverages
+fuels and oils,4,0,"Construction, carpentry, chemicals, fuel & raw materials"
+fuels,4,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Carbonated water,4,0,Food & beverages
+tar,4,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Poultry,4,0,Food & beverages
+Fertilizers,4,0,Food & beverages
+mineral water,3,0,Food & beverages
+soft drinks,3,0,Food & beverages
+arms and ammunition,3,0,Food & beverages
+baking flavors,3,0,Food & beverages
+cereals,3,0,Food & beverages
+flags,3,0,Food & beverages
+fishing,3,0,Food & beverages
+detergents,3,0,Food & beverages
+Seafood,3,0,Food & beverages
+threshing,3,0,Food & beverages
+Tires,3,0,Food & beverages
+Oils,3,0,"Construction, carpentry, chemicals, fuel & raw materials"
+rotisserie,3,0,Food & beverages
+scales,3,0,Food & beverages
+novelties,3,0,Food & beverages
+Fish and seafood,3,0,Food & beverages
+beer,2,0,Food & beverages
+perfume representative,2,0,"Textiles, clothing, footwear, haberdashery & perfumery"
+Vinegar,2,0,Food & beverages
+Jams,2,0,Food & beverages
+Fruit and vegetable drying,2,0,Food & beverages
+Canned fruits and vegetables,2,0,Food & beverages
+Sulfur,2,0,Food & beverages
+Zincography,2,0,Food & beverages
+Coffee roasting,2,0,Food & beverages
+Coatings,2,0,Food & beverages
+wineries,2,0,Food & beverages
+coffee substitutes,2,0,Food & beverages
+Gas,2,0,"Construction, carpentry, chemicals, fuel & raw materials"
+fried food,2,0,Food & beverages
+eggs,2,0,Food & beverages
+dairy products,2,0,Food & beverages
+dairy,2,0,Food & beverages
+cutlery,2,0,Food & beverages
+caviar,2,0,Food & beverages
+pianos,2,0,Food & beverages
+Bottiglie,2,0,Food & beverages
+Brushes and combs,2,0,Food & beverages
+bitumen,2,0,"Construction, carpentry, chemicals, fuel & raw materials"
+meats,2,0,Food & beverages
+Salumi,2,0,Food & beverages
+Fiori e Piante,2,0,Food & beverages
+Sails and flags,2,0,Food & beverages
+Pesticides,2,0,Food & beverages
+Petroleum products,2,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Fertilizers and fungicides,2,0,Food & beverages
+liquid fuels,2,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Seeds,2,0,Food & beverages
+fruit and vegetable drying,1,0,Food & beverages
+watches,1,0,Food & beverages
+preserved fish and meat,1,0,Food & beverages
+solid and liquid fuels,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+mill,1,0,Food & beverages
+milk,1,0,Food & beverages
+minerals,1,0,Food & beverages
+fishing and public domain,1,0,Food & beverages
+refrigerators,1,0,Food & beverages
+flowers and plants,1,0,Food & beverages
+wine and oil,1,0,Food & beverages
+salami,1,0,Food & beverages
+hides,1,0,Food & beverages
+oils,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+olive oil equipment,1,0,Food & beverages
+intestines,1,0,Food & beverages
+inks,1,0,Food & beverages
+insecticides,1,0,Food & beverages
+herbal medicine,1,0,Food & beverages
+neon signs,1,0,Food & beverages
+spa,1,0,Food & beverages
+pesticides,1,0,Food & beverages
+pearls,1,0,Food & beverages
+petroleum,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+spirits,1,0,Food & beverages
+petroleum products,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Venetian cuisine,1,0,Food & beverages
+Gravel,1,0,Food & beverages
+Gasoline,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Horse Meat,1,0,Food & beverages
+Horse meat,1,0,Food & beverages
+Fish and Shellfish,1,0,Food & beverages
+Food assistance,1,0,Food & beverages
+Fossil fuels,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Fruits and Vegetables,1,0,Food & beverages
+Malt,1,0,Food & beverages
+Medicinal herbs,1,0,Food & beverages
+Men's Sardine,1,0,Food & beverages
+Insecticide,1,0,Food & beverages
+Knives and Sharpeners,1,0,Food & beverages
+Legumes,1,0,Food & beverages
+Light Signals,1,0,Food & beverages
+Chemical products,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Denatured Alcohol,1,0,Food & beverages
+Divers,1,0,Food & beverages
+Coffee Management,1,0,Food & beverages
+Coffee Services,1,0,Food & beverages
+Cold Cuts,1,0,Food & beverages
+Coloring products,1,0,Food & beverages
+Cooked meats and Offal,1,0,Food & beverages
+Cutlery,1,0,Food & beverages
+Wine and spirits,1,0,Food & beverages
+Yeast,1,0,Food & beverages
+Toxic Gases,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+cork,1,0,Food & beverages
+detergents and soaps,1,0,Food & beverages
+coffee,1,0,Food & beverages
+cheese and butter,1,0,Food & beverages
+Pianos,1,0,Food & beverages
+Preserved Foods,1,0,Food & beverages
+Preserved meats,1,0,Food & beverages
+Perfume,1,0,"Textiles, clothing, footwear, haberdashery & perfumery"
+Mills and Pasta,1,0,Food & beverages
+Mineral Water,1,0,Food & beverages
+Musical Instruments,1,0,Food & beverages
+Olives,1,0,Food & beverages
+Panels,1,0,Food & beverages
+Paraffin,1,0,"Construction, carpentry, chemicals, fuel & raw materials"
+Pastry and Liquor,1,0,Food & beverages
+Radio,1,0,Food & beverages
+Thermometers,1,0,Food & beverages
+Signs,1,0,Food & beverages
+Smoking Articles,1,0,Food & beverages
+Soap,1,0,Food & beverages
+Soft Drinks,1,0,Food & beverages
+Theaters,1,0,Food & beverages
+Recoveries,1,0,Food & beverages
+Rhodium,1,0,Food & beverages
+Semiotics,1,0,Food & beverages
+shipping company,364,1,"Transport, shipping & maritime trades"
+shipyard,75,1,"Transport, shipping & maritime trades"
+Shipping and transport,29,1,"Transport, shipping & maritime trades"
+Travel agency,28,1,"Transport, shipping & maritime trades"
+Boat rental,28,1,"Transport, shipping & maritime trades"
+shipping agency,25,1,"Transport, shipping & maritime trades"
+Shipping company,20,1,"Transport, shipping & maritime trades"
+naval recovery,19,1,"Transport, shipping & maritime trades"
+Maritime transport,18,1,"Transport, shipping & maritime trades"
+Transport services,17,1,"Transport, shipping & maritime trades"
+boat rental,11,1,"Transport, shipping & maritime trades"
+Shipping,10,1,"Transport, shipping & maritime trades"
+maritime structures,9,1,"Transport, shipping & maritime trades"
+Transport,8,1,"Transport, shipping & maritime trades"
+Transportation services,6,1,"Transport, shipping & maritime trades"
+State railways,6,1,"Transport, shipping & maritime trades"
+Shipping agency,6,1,"Transport, shipping & maritime trades"
+transportation,6,1,"Transport, shipping & maritime trades"
+Funeral services,5,1,"Transport, shipping & maritime trades"
+Porters,5,1,"Transport, shipping & maritime trades"
+Maritime brokers,5,1,"Transport, shipping & maritime trades"
+Towing services,4,1,"Transport, shipping & maritime trades"
+Shipping Agency,4,1,"Transport, shipping & maritime trades"
+River transport,3,1,"Transport, shipping & maritime trades"
+River navigation,3,1,"Transport, shipping & maritime trades"
+travel agency,3,1,"Transport, shipping & maritime trades"
+Maritime recovery,3,1,"Transport, shipping & maritime trades"
+tugboats,2,1,"Transport, shipping & maritime trades"
+Lagoon navigation,2,1,"Transport, shipping & maritime trades"
+Luggage services,2,1,"Transport, shipping & maritime trades"
+transportation service,2,1,"Transport, shipping & maritime trades"
+Trasporti,2,1,"Transport, shipping & maritime trades"
+Transport agency,2,1,"Transport, shipping & maritime trades"
+automotive transport,2,1,"Transport, shipping & maritime trades"
+Boat Rental,2,1,"Transport, shipping & maritime trades"
+rentals,2,1,"Transport, shipping & maritime trades"
+shipowners,2,1,"Transport, shipping & maritime trades"
+shipbuilding and repair,2,1,"Transport, shipping & maritime trades"
+maritime enterprises,2,1,"Transport, shipping & maritime trades"
+Port works,2,1,"Transport, shipping & maritime trades"
+Shipping Company,2,1,"Transport, shipping & maritime trades"
+port construction,1,1,"Transport, shipping & maritime trades"
+shipbuilding,1,1,"Transport, shipping & maritime trades"
+funeral services,1,1,"Transport, shipping & maritime trades"
+porters,1,1,"Transport, shipping & maritime trades"
+postal transport,1,1,"Transport, shipping & maritime trades"
+shipping agency management,1,1,"Transport, shipping & maritime trades"
+motorcycle rental,1,1,"Transport, shipping & maritime trades"
+moving agency,1,1,"Transport, shipping & maritime trades"
+transport company,1,1,"Transport, shipping & maritime trades"
+transport and shipping,1,1,"Transport, shipping & maritime trades"
+trade/brokerage,1,1,"Transport, shipping & maritime trades"
+transportation and salvage,1,1,"Transport, shipping & maritime trades"
+transportation trade,1,1,"Transport, shipping & maritime trades"
+transportation station,1,1,"Transport, shipping & maritime trades"
+horse transport,1,1,"Transport, shipping & maritime trades"
+shipping and transport,1,1,"Transport, shipping & maritime trades"
+transportation hub,1,1,"Transport, shipping & maritime trades"
+transportation and shipping,1,1,"Transport, shipping & maritime trades"
+industrial port,1,1,"Transport, shipping & maritime trades"
+services,1,1,"Transport, shipping & maritime trades"
+naval towing,1,1,"Transport, shipping & maritime trades"
+storage facility,1,1,"Transport, shipping & maritime trades"
+maritime broker,1,1,"Transport, shipping & maritime trades"
+maritime supplies,1,1,"Transport, shipping & maritime trades"
+maritime recovery,1,1,"Transport, shipping & maritime trades"
+luggage service,1,1,"Transport, shipping & maritime trades"
+Hotel Purchase,1,1,"Transport, shipping & maritime trades"
+Funeral Services,1,1,"Transport, shipping & maritime trades"
+Maritime Authority,1,1,"Transport, shipping & maritime trades"
+Maritime Supplies,1,1,"Transport, shipping & maritime trades"
+Maritime Transport,1,1,"Transport, shipping & maritime trades"
+Maritime supplier,1,1,"Transport, shipping & maritime trades"
+Industrial Transport Services,1,1,"Transport, shipping & maritime trades"
+International Transport Cooperative,1,1,"Transport, shipping & maritime trades"
+Car Rental,1,1,"Transport, shipping & maritime trades"
+Car Rental Company,1,1,"Transport, shipping & maritime trades"
+Car Rental and Towing,1,1,"Transport, shipping & maritime trades"
+Car Rentals,1,1,"Transport, shipping & maritime trades"
+Advertising Services,1,1,"Transport, shipping & maritime trades"
+Air Transport,1,1,"Transport, shipping & maritime trades"
+Apartment Rentals,1,1,"Transport, shipping & maritime trades"
+Train Station,1,1,"Transport, shipping & maritime trades"
+Train station,1,1,"Transport, shipping & maritime trades"
+Transport Agency,1,1,"Transport, shipping & maritime trades"
+Transport and Tourism,1,1,"Transport, shipping & maritime trades"
+Transportation,1,1,"Transport, shipping & maritime trades"
+Transportation organization,1,1,"Transport, shipping & maritime trades"
+Travel Agency,1,1,"Transport, shipping & maritime trades"
+Travel Goods,1,1,"Transport, shipping & maritime trades"
+boat supplies,1,1,"Transport, shipping & maritime trades"
+car rental,1,1,"Transport, shipping & maritime trades"
+Port Services,1,1,"Transport, shipping & maritime trades"
+Postal Transport,1,1,"Transport, shipping & maritime trades"
+Public porters,1,1,"Transport, shipping & maritime trades"
+Moving Agency,1,1,"Transport, shipping & maritime trades"
+Shipyards,1,1,"Transport, shipping & maritime trades"
+Sports Facility Services,1,1,"Transport, shipping & maritime trades"
+Shipyard,1,1,"Transport, shipping & maritime trades"
+Ship painting,1,1,"Transport, shipping & maritime trades"
+Railway Services,1,1,"Transport, shipping & maritime trades"
+Railway records,1,1,"Transport, shipping & maritime trades"
+Sailing Federation,1,1,"Transport, shipping & maritime trades"
+Service,1,1,"Transport, shipping & maritime trades"
+Ship demolition,1,1,"Transport, shipping & maritime trades"
+Electricians and plumbers,36,2,"Electrical, mechanical, industrial & automotive trades"
+Electricity,22,2,"Electrical, mechanical, industrial & automotive trades"
+radio equipment,21,2,"Electrical, mechanical, industrial & automotive trades"
+electrical materials,19,2,"Electrical, mechanical, industrial & automotive trades"
+electrical and plumbing,19,2,"Electrical, mechanical, industrial & automotive trades"
+Machinery,17,2,"Electrical, mechanical, industrial & automotive trades"
+Engineering,13,2,"Electrical, mechanical, industrial & automotive trades"
+blacksmith and mechanic,13,2,"Electrical, mechanical, industrial & automotive trades"
+Industrial piping,12,2,"Electrical, mechanical, industrial & automotive trades"
+Motorcycles,9,2,"Electrical, mechanical, industrial & automotive trades"
+heating and plumbing,8,2,"Electrical, mechanical, industrial & automotive trades"
+electrician and plumber,8,2,"Electrical, mechanical, industrial & automotive trades"
+Utilities,7,2,"Electrical, mechanical, industrial & automotive trades"
+technical articles,7,2,"Electrical, mechanical, industrial & automotive trades"
+engineering,6,2,"Electrical, mechanical, industrial & automotive trades"
+Tools,6,2,"Electrical, mechanical, industrial & automotive trades"
+mechanical workshop,6,2,"Electrical, mechanical, industrial & automotive trades"
+automatic electrical equipment,6,2,"Electrical, mechanical, industrial & automotive trades"
+calculating machines,6,2,"Electrical, mechanical, industrial & automotive trades"
+electromechanical workshops,6,2,"Electrical, mechanical, industrial & automotive trades"
+Radio equipment,5,2,"Electrical, mechanical, industrial & automotive trades"
+radio repair,5,2,"Electrical, mechanical, industrial & automotive trades"
+Refrigeration,4,2,"Electrical, mechanical, industrial & automotive trades"
+Accounting machines,4,2,"Electrical, mechanical, industrial & automotive trades"
+Mechanical workshops,4,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical articles,3,2,"Electrical, mechanical, industrial & automotive trades"
+machinery representative,3,2,"Electrical, mechanical, industrial & automotive trades"
+Radio equipment sales,3,2,"Electrical, mechanical, industrial & automotive trades"
+utilities,3,2,"Electrical, mechanical, industrial & automotive trades"
+electrician,3,2,"Electrical, mechanical, industrial & automotive trades"
+Civil Engineering,3,2,"Electrical, mechanical, industrial & automotive trades"
+Marine engines,3,2,"Electrical, mechanical, industrial & automotive trades"
+heating systems,2,2,"Electrical, mechanical, industrial & automotive trades"
+Workshop,2,2,"Electrical, mechanical, industrial & automotive trades"
+Machine tools,2,2,"Electrical, mechanical, industrial & automotive trades"
+civil engineering,2,2,"Electrical, mechanical, industrial & automotive trades"
+electrical goods,2,2,"Electrical, mechanical, industrial & automotive trades"
+electrical engineering,2,2,"Electrical, mechanical, industrial & automotive trades"
+Agricultural machinery,2,2,"Electrical, mechanical, industrial & automotive trades"
+Auto and cycle representatives,2,2,"Electrical, mechanical, industrial & automotive trades"
+Boat and engine repairs,2,2,"Electrical, mechanical, industrial & automotive trades"
+waterworks,2,2,"Electrical, mechanical, industrial & automotive trades"
+Batteries,2,2,"Electrical, mechanical, industrial & automotive trades"
+Mechanical Workshop,2,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical engineering,2,2,"Electrical, mechanical, industrial & automotive trades"
+machinery,2,2,"Electrical, mechanical, industrial & automotive trades"
+Piano tuners,2,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical systems,2,2,"Electrical, mechanical, industrial & automotive trades"
+Electrodes,2,2,"Electrical, mechanical, industrial & automotive trades"
+telecommunications,2,2,"Electrical, mechanical, industrial & automotive trades"
+telephone installations,2,2,"Electrical, mechanical, industrial & automotive trades"
+electromechanical workshop,2,2,"Electrical, mechanical, industrial & automotive trades"
+Plumbing and sanitation,2,2,"Electrical, mechanical, industrial & automotive trades"
+Fire extinguishers,2,2,"Electrical, mechanical, industrial & automotive trades"
+Air conditioning,2,2,"Electrical, mechanical, industrial & automotive trades"
+bicycles and motorcycles,1,2,"Electrical, mechanical, industrial & automotive trades"
+mechanical construction,1,2,"Electrical, mechanical, industrial & automotive trades"
+naval engineering,1,2,"Electrical, mechanical, industrial & automotive trades"
+plumbing and electrical,1,2,"Electrical, mechanical, industrial & automotive trades"
+municipal works,1,2,"Electrical, mechanical, industrial & automotive trades"
+electronics,1,2,"Electrical, mechanical, industrial & automotive trades"
+electronics repair,1,2,"Electrical, mechanical, industrial & automotive trades"
+electroplating,1,2,"Electrical, mechanical, industrial & automotive trades"
+engineering profession,1,2,"Electrical, mechanical, industrial & automotive trades"
+refrigeration systems,1,2,"Electrical, mechanical, industrial & automotive trades"
+lighting equipment,1,2,"Electrical, mechanical, industrial & automotive trades"
+industrial machinery,1,2,"Electrical, mechanical, industrial & automotive trades"
+industrial piping,1,2,"Electrical, mechanical, industrial & automotive trades"
+technical supplies representatives,1,2,"Electrical, mechanical, industrial & automotive trades"
+industrial services,1,2,"Electrical, mechanical, industrial & automotive trades"
+maintenance,1,2,"Electrical, mechanical, industrial & automotive trades"
+machinist,1,2,"Electrical, mechanical, industrial & automotive trades"
+gas generators,1,2,"Electrical, mechanical, industrial & automotive trades"
+piano tuners,1,2,"Electrical, mechanical, industrial & automotive trades"
+electromechanical,1,2,"Electrical, mechanical, industrial & automotive trades"
+Heating,1,2,"Electrical, mechanical, industrial & automotive trades"
+Heating Systems,1,2,"Electrical, mechanical, industrial & automotive trades"
+Heating services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Home appliances,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrogalvanics,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electronics,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electroplating Services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Engineering services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Mechanical Engineering,1,2,"Electrical, mechanical, industrial & automotive trades"
+Locksmith Services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Machinery Representative,1,2,"Electrical, mechanical, industrial & automotive trades"
+Machinery Tools,1,2,"Electrical, mechanical, industrial & automotive trades"
+Machinery representative,1,2,"Electrical, mechanical, industrial & automotive trades"
+Manufacturing Workshop,1,2,"Electrical, mechanical, industrial & automotive trades"
+Mechanical Supplies,1,2,"Electrical, mechanical, industrial & automotive trades"
+Mechanical workshop,1,2,"Electrical, mechanical, industrial & automotive trades"
+Industrial Works,1,2,"Electrical, mechanical, industrial & automotive trades"
+Industrial services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electromechanical Workshop,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrochemistry,1,2,"Electrical, mechanical, industrial & automotive trades"
+electricity,1,2,"Electrical, mechanical, industrial & automotive trades"
+Battery Charging,1,2,"Electrical, mechanical, industrial & automotive trades"
+Bicycle and Motorcycle,1,2,"Electrical, mechanical, industrial & automotive trades"
+Bicycles and motorcycles,1,2,"Electrical, mechanical, industrial & automotive trades"
+Civil engineering,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electroautomatic systems,1,2,"Electrical, mechanical, industrial & automotive trades"
+Air Compressors,1,2,"Electrical, mechanical, industrial & automotive trades"
+Auto Accessories,1,2,"Electrical, mechanical, industrial & automotive trades"
+Auto repair,1,2,"Electrical, mechanical, industrial & automotive trades"
+Automatic Telephone Systems,1,2,"Electrical, mechanical, industrial & automotive trades"
+Automobiles,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electric Water Heaters,1,2,"Electrical, mechanical, industrial & automotive trades"
+Diesel Engines,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electric Drills,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electric and hydraulic company,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Construction,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Engineering,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Equipment,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Materials,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Shop,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical Supplier,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical and gas services,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical and plumbing,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrical repairs,1,2,"Electrical, mechanical, industrial & automotive trades"
+Electrician,1,2,"Electrical, mechanical, industrial & automotive trades"
+Control panels,1,2,"Electrical, mechanical, industrial & automotive trades"
+accounting machines,1,2,"Electrical, mechanical, industrial & automotive trades"
+Vacuum Cleaners,1,2,"Electrical, mechanical, industrial & automotive trades"
+auto body repair,1,2,"Electrical, mechanical, industrial & automotive trades"
+auto repair,1,2,"Electrical, mechanical, industrial & automotive trades"
+automation,1,2,"Electrical, mechanical, industrial & automotive trades"
+automotive repair,1,2,"Electrical, mechanical, industrial & automotive trades"
+electrical and plumbing installations,1,2,"Electrical, mechanical, industrial & automotive trades"
+electrical company,1,2,"Electrical, mechanical, industrial & automotive trades"
+electrical construction,1,2,"Electrical, mechanical, industrial & automotive trades"
+electrical installations,1,2,"Electrical, mechanical, industrial & automotive trades"
+electrician/plumber,1,2,"Electrical, mechanical, industrial & automotive trades"
+electricians and plumbers,1,2,"Electrical, mechanical, industrial & automotive trades"
+Tools and Hardware,1,2,"Electrical, mechanical, industrial & automotive trades"
+Plumbing and heating,1,2,"Electrical, mechanical, industrial & automotive trades"
+Precision Mechanics,1,2,"Electrical, mechanical, industrial & automotive trades"
+Motor Wrapping,1,2,"Electrical, mechanical, industrial & automotive trades"
+Motorcycle Workshop,1,2,"Electrical, mechanical, industrial & automotive trades"
+Motors,1,2,"Electrical, mechanical, industrial & automotive trades"
+Musical Instrument,1,2,"Electrical, mechanical, industrial & automotive trades"
+Radio broadcasting,1,2,"Electrical, mechanical, industrial & automotive trades"
+Radio repairs,1,2,"Electrical, mechanical, industrial & automotive trades"
+Technical Articles,1,2,"Electrical, mechanical, industrial & automotive trades"
+Technical Consulting,1,2,"Electrical, mechanical, industrial & automotive trades"
+Technical repairs,1,2,"Electrical, mechanical, industrial & automotive trades"
+Telecommunications,1,2,"Electrical, mechanical, industrial & automotive trades"
+Telephones,1,2,"Electrical, mechanical, industrial & automotive trades"
+Shipyard and Mechanical Workshops,1,2,"Electrical, mechanical, industrial & automotive trades"
+Radio technician,1,2,"Electrical, mechanical, industrial & automotive trades"
+Railway Maintenance,1,2,"Electrical, mechanical, industrial & automotive trades"
+HVAC services,1,2,"Electrical, mechanical, industrial & automotive trades"
+construction trade,127,3,"Construction, carpentry, chemicals, fuel & raw materials"
+carpentry,68,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction materials,58,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Carpenter,48,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and wood,38,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction trade,32,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Iron and metal works,25,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and lignite,23,3,"Construction, carpentry, chemicals, fuel & raw materials"
+coal and wood,23,3,"Construction, carpentry, chemicals, fuel & raw materials"
+hardware and paint,21,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Carpentry,15,3,"Construction, carpentry, chemicals, fuel & raw materials"
+hardware and metals,15,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Furniture,14,3,"Construction, carpentry, chemicals, fuel & raw materials"
+construction materials,14,3,"Construction, carpentry, chemicals, fuel & raw materials"
+cutlery and sharpening,13,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Used furniture,11,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Lime and brickworks,10,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Hardware and paints,10,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Solid fuels,10,3,"Construction, carpentry, chemicals, fuel & raw materials"
+coal,9,3,"Construction, carpentry, chemicals, fuel & raw materials"
+tinsmiths,8,3,"Construction, carpentry, chemicals, fuel & raw materials"
+used iron and metals,8,3,"Construction, carpentry, chemicals, fuel & raw materials"
+construction companies,7,3,"Construction, carpentry, chemicals, fuel & raw materials"
+coal and wood retailer,7,3,"Construction, carpentry, chemicals, fuel & raw materials"
+mechanical foundries,6,3,"Construction, carpentry, chemicals, fuel & raw materials"
+refractory materials,6,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction Materials,5,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Waterproofing,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+construction contracts,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal handling,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Hardware and metals,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+blacksmith,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+furniture,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+carpenter,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+used furniture,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Scrap metals,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+construction company,4,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Raw and processed metals,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Refractory materials,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+metalworkers,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+metal industry,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Wooden ships,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Sheets (metal),3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction Trade,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Cast iron,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Furniture manufacturing,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Materials,3,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Iron furniture,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Wood for cellulose,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and Firewood,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+timber and construction poles,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Steel,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Concrete ships,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction Company,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Luxury and common furniture,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and Wood,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Thermal and acoustic insulation,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+coal wood,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+coal and wood (retail),2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+foundry,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+flooring,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Agricultural materials,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+wooden packaging,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Aluminum Industry,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+cutler and sharpener,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+cement,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Building Materials,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+calcium carbide,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+building materials,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+furniture manufacturing,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+plumber and tinsmith,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coverings and coatings,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Metal workshops,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+metalworker,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Plywood,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Mining companies,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction and timber trade,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+masonry,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Sawmills,2,3,"Construction, carpentry, chemicals, fuel & raw materials"
+furniture storage,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+metal foundry,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+welding materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+mechanical foundry,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+woodwork and trade,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+wood products,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+wood processing,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+wood for cellulose,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+mining research,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+fabric representatives,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+woodworking factory,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+railway construction,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+metal goods,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+flooring and wall coverings,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+flooring and coverings,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+metalworking shop,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+lime and brickworks,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+stucco,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+iron and metals,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+timber and poles,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+solid fuels,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+used metals,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+steel,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+lumber,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Gravel Factory,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Firewood and Charcoal,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Firewood and coal,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Flooring and Coatings,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Frame,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Furnishings,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Furniture Manufacturer,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Marble processing,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Mechanical Foundry,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Metallurgical Industry,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Metalworker,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Metalworking,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Lime and Bricks,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Blacksmith and Mechanic,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Brick Industry,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Brick and Tile,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Brickworks,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Building Construction,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Cabinet makers,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Cement Pipes,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Chemicals and Materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Civil and Industrial Construction,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Aluminum,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and Firewood Trade,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and Wood Wholesale,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal and wood wholesale,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal or Firewood,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Coal representative,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Concrete Products,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction Supplies,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction Warehouse,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction and contracts,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Construction contractor,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Mill,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Wooden Packaging,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Wrought Iron,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+aluminum,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Milling,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+construction secretary,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+drying facilities,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+coal and timber,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+carpenter and builder,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Timber and Packaging,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Timber,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Plastic Materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Processed Metals,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Mining and agriculture,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Mining research,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Nickel Plating,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Paints and Coatings,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Steel Materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Steel Pipes,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Store Furnishings,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Technical Materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Shipbuilding Industry,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Railway Materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Resin Materials,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Road Paving,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Scrap metal,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+wrought iron,1,3,"Construction, carpentry, chemicals, fuel & raw materials"
+Painter,59,4,"Decorative arts, antiques & artisan crafts"
+artistic objects,40,4,"Decorative arts, antiques & artisan crafts"
+Watchmaking,32,4,"Decorative arts, antiques & artisan crafts"
+Decorators and painters,28,4,"Decorative arts, antiques & artisan crafts"
+Antiques and fine arts,23,4,"Decorative arts, antiques & artisan crafts"
+Decorator and painter,18,4,"Decorative arts, antiques & artisan crafts"
+Paints and colors,16,4,"Decorative arts, antiques & artisan crafts"
+art objects,15,4,"Decorative arts, antiques & artisan crafts"
+art reproductions,14,4,"Decorative arts, antiques & artisan crafts"
+Venetian specialists,13,4,"Decorative arts, antiques & artisan crafts"
+Jewelry,13,4,"Decorative arts, antiques & artisan crafts"
+Glass,12,4,"Decorative arts, antiques & artisan crafts"
+Marble,11,4,"Decorative arts, antiques & artisan crafts"
+Glassware,11,4,"Decorative arts, antiques & artisan crafts"
+art teacher,10,4,"Decorative arts, antiques & artisan crafts"
+Artistic glass,10,4,"Decorative arts, antiques & artisan crafts"
+watchmaking,9,4,"Decorative arts, antiques & artisan crafts"
+glass,9,4,"Decorative arts, antiques & artisan crafts"
+jewelry,8,4,"Decorative arts, antiques & artisan crafts"
+Ceramics,8,4,"Decorative arts, antiques & artisan crafts"
+artistic furniture,7,4,"Decorative arts, antiques & artisan crafts"
+engravers and chiselers,6,4,"Decorative arts, antiques & artisan crafts"
+beads and pearls,6,4,"Decorative arts, antiques & artisan crafts"
+antiques,5,4,"Decorative arts, antiques & artisan crafts"
+antiques and fine arts,5,4,"Decorative arts, antiques & artisan crafts"
+Mosaics,5,4,"Decorative arts, antiques & artisan crafts"
+glassworks,5,4,"Decorative arts, antiques & artisan crafts"
+Silverware,5,4,"Decorative arts, antiques & artisan crafts"
+Art objects,5,4,"Decorative arts, antiques & artisan crafts"
+paint and varnish,3,4,"Decorative arts, antiques & artisan crafts"
+silver plating,3,4,"Decorative arts, antiques & artisan crafts"
+marble,3,4,"Decorative arts, antiques & artisan crafts"
+Painting services,3,4,"Decorative arts, antiques & artisan crafts"
+Painter decorator,3,4,"Decorative arts, antiques & artisan crafts"
+Glass flowers,3,4,"Decorative arts, antiques & artisan crafts"
+candle making,3,4,"Decorative arts, antiques & artisan crafts"
+Artificial stone,3,4,"Decorative arts, antiques & artisan crafts"
+Artificial flowers,3,4,"Decorative arts, antiques & artisan crafts"
+Stained glass,3,4,"Decorative arts, antiques & artisan crafts"
+Enamels,3,4,"Decorative arts, antiques & artisan crafts"
+paints and varnishes,3,4,"Decorative arts, antiques & artisan crafts"
+sculptor,3,4,"Decorative arts, antiques & artisan crafts"
+Glassworks,3,4,"Decorative arts, antiques & artisan crafts"
+Decorators,3,4,"Decorative arts, antiques & artisan crafts"
+Venetian mirrors,2,4,"Decorative arts, antiques & artisan crafts"
+Watercolors and photography,2,4,"Decorative arts, antiques & artisan crafts"
+Window frames,2,4,"Decorative arts, antiques & artisan crafts"
+Lead objects,2,4,"Decorative arts, antiques & artisan crafts"
+Underwater paints,2,4,"Decorative arts, antiques & artisan crafts"
+ceramics and porcelain,2,4,"Decorative arts, antiques & artisan crafts"
+Artistic gift items,2,4,"Decorative arts, antiques & artisan crafts"
+artistic glass,2,4,"Decorative arts, antiques & artisan crafts"
+"goldsmithing, jewelry",2,4,"Decorative arts, antiques & artisan crafts"
+pottery,2,4,"Decorative arts, antiques & artisan crafts"
+Neutral glass,2,4,"Decorative arts, antiques & artisan crafts"
+luxury gift items,2,4,"Decorative arts, antiques & artisan crafts"
+Glassblowing,2,4,"Decorative arts, antiques & artisan crafts"
+Murano glass,1,4,"Decorative arts, antiques & artisan crafts"
+silverware and gilding,1,4,"Decorative arts, antiques & artisan crafts"
+precious objects,1,4,"Decorative arts, antiques & artisan crafts"
+fine arts,1,4,"Decorative arts, antiques & artisan crafts"
+engraver,1,4,"Decorative arts, antiques & artisan crafts"
+mosaic artist,1,4,"Decorative arts, antiques & artisan crafts"
+glass beads,1,4,"Decorative arts, antiques & artisan crafts"
+painter decorator,1,4,"Decorative arts, antiques & artisan crafts"
+paintings,1,4,"Decorative arts, antiques & artisan crafts"
+glass products,1,4,"Decorative arts, antiques & artisan crafts"
+glassware,1,4,"Decorative arts, antiques & artisan crafts"
+glassware representative,1,4,"Decorative arts, antiques & artisan crafts"
+glassware representatives,1,4,"Decorative arts, antiques & artisan crafts"
+glassworking,1,4,"Decorative arts, antiques & artisan crafts"
+marine tombstones,1,4,"Decorative arts, antiques & artisan crafts"
+marine paints,1,4,"Decorative arts, antiques & artisan crafts"
+goldsmith,1,4,"Decorative arts, antiques & artisan crafts"
+glass manufacturing,1,4,"Decorative arts, antiques & artisan crafts"
+glass and chandeliers,1,4,"Decorative arts, antiques & artisan crafts"
+glass and mirror trade,1,4,"Decorative arts, antiques & artisan crafts"
+ship painting and varnishing,1,4,"Decorative arts, antiques & artisan crafts"
+stained glass,1,4,"Decorative arts, antiques & artisan crafts"
+Gilding,1,4,"Decorative arts, antiques & artisan crafts"
+Glass Factory,1,4,"Decorative arts, antiques & artisan crafts"
+Glass Production,1,4,"Decorative arts, antiques & artisan crafts"
+Glass and Chandeliers,1,4,"Decorative arts, antiques & artisan crafts"
+Glass and chandelier beads,1,4,"Decorative arts, antiques & artisan crafts"
+Glass manufacturing,1,4,"Decorative arts, antiques & artisan crafts"
+Glass products,1,4,"Decorative arts, antiques & artisan crafts"
+Glassmaking,1,4,"Decorative arts, antiques & artisan crafts"
+Goldsmith,1,4,"Decorative arts, antiques & artisan crafts"
+Gift Items,1,4,"Decorative arts, antiques & artisan crafts"
+Engraving,1,4,"Decorative arts, antiques & artisan crafts"
+Fine Arts,1,4,"Decorative arts, antiques & artisan crafts"
+Fine Arts Academy,1,4,"Decorative arts, antiques & artisan crafts"
+Frame Workshop,1,4,"Decorative arts, antiques & artisan crafts"
+Imitation Jewelry,1,4,"Decorative arts, antiques & artisan crafts"
+Metalwork,1,4,"Decorative arts, antiques & artisan crafts"
+Industrial painting,1,4,"Decorative arts, antiques & artisan crafts"
+Jewelry Production,1,4,"Decorative arts, antiques & artisan crafts"
+Bronze Works,1,4,"Decorative arts, antiques & artisan crafts"
+Art Restoration,1,4,"Decorative arts, antiques & artisan crafts"
+Antiques,1,4,"Decorative arts, antiques & artisan crafts"
+Antiques and Books,1,4,"Decorative arts, antiques & artisan crafts"
+Art Portraits,1,4,"Decorative arts, antiques & artisan crafts"
+Art Supplies,1,4,"Decorative arts, antiques & artisan crafts"
+Art portraits,1,4,"Decorative arts, antiques & artisan crafts"
+Artificial Flowers,1,4,"Decorative arts, antiques & artisan crafts"
+Artistic Furniture,1,4,"Decorative arts, antiques & artisan crafts"
+Artistic Glass,1,4,"Decorative arts, antiques & artisan crafts"
+Artistic Glassworks,1,4,"Decorative arts, antiques & artisan crafts"
+Artistic Objects,1,4,"Decorative arts, antiques & artisan crafts"
+Artistic Portraits,1,4,"Decorative arts, antiques & artisan crafts"
+Artistic ceramics,1,4,"Decorative arts, antiques & artisan crafts"
+Dental prosthetics,1,4,"Decorative arts, antiques & artisan crafts"
+Costume Jewelry,1,4,"Decorative arts, antiques & artisan crafts"
+antique and art office,1,4,"Decorative arts, antiques & artisan crafts"
+art gallery,1,4,"Decorative arts, antiques & artisan crafts"
+art reproduction,1,4,"Decorative arts, antiques & artisan crafts"
+artistic,1,4,"Decorative arts, antiques & artisan crafts"
+artistic craftsmanship,1,4,"Decorative arts, antiques & artisan crafts"
+artistic mills and carpets,1,4,"Decorative arts, antiques & artisan crafts"
+artistic portraits,1,4,"Decorative arts, antiques & artisan crafts"
+Vehicle Gems,1,4,"Decorative arts, antiques & artisan crafts"
+Venetian Art,1,4,"Decorative arts, antiques & artisan crafts"
+costume jewelry,1,4,"Decorative arts, antiques & artisan crafts"
+decorative painters,1,4,"Decorative arts, antiques & artisan crafts"
+decorator and painter,1,4,"Decorative arts, antiques & artisan crafts"
+bronze,1,4,"Decorative arts, antiques & artisan crafts"
+ceramic articles,1,4,"Decorative arts, antiques & artisan crafts"
+ceramics,1,4,"Decorative arts, antiques & artisan crafts"
+ceramics and mosaics,1,4,"Decorative arts, antiques & artisan crafts"
+Porcelain,1,4,"Decorative arts, antiques & artisan crafts"
+Portrait Artists,1,4,"Decorative arts, antiques & artisan crafts"
+Precious Objects,1,4,"Decorative arts, antiques & artisan crafts"
+Paints and Varnishes,1,4,"Decorative arts, antiques & artisan crafts"
+Silverware and Watches,1,4,"Decorative arts, antiques & artisan crafts"
+Sanitary Glass,1,4,"Decorative arts, antiques & artisan crafts"
+Scientific and Pharmaceutical Glass,1,4,"Decorative arts, antiques & artisan crafts"
+grocery,166,5,"Wholesale, agricultural & general commerce trades"
+grocery (retail),71,5,"Wholesale, agricultural & general commerce trades"
+household goods,46,5,"Wholesale, agricultural & general commerce trades"
+wholesale fruits and vegetables,39,5,"Wholesale, agricultural & general commerce trades"
+Commercial,38,5,"Wholesale, agricultural & general commerce trades"
+Wine wholesalers,35,5,"Wholesale, agricultural & general commerce trades"
+Groceries,33,5,"Wholesale, agricultural & general commerce trades"
+Household goods,27,5,"Wholesale, agricultural & general commerce trades"
+Used goods,24,5,"Wholesale, agricultural & general commerce trades"
+various packaging,19,5,"Wholesale, agricultural & general commerce trades"
+Grocery,17,5,"Wholesale, agricultural & general commerce trades"
+Pharmacies,17,5,"Wholesale, agricultural & general commerce trades"
+agriculture,14,5,"Wholesale, agricultural & general commerce trades"
+Pharmaceuticals,12,5,"Wholesale, agricultural & general commerce trades"
+Manufacturing,12,5,"Wholesale, agricultural & general commerce trades"
+wine wholesaler,12,5,"Wholesale, agricultural & general commerce trades"
+Purchasing society,11,5,"Wholesale, agricultural & general commerce trades"
+Real estate and agriculture,9,5,"Wholesale, agricultural & general commerce trades"
+Wholesale fruits and vegetables,9,5,"Wholesale, agricultural & general commerce trades"
+purchasing and management,7,5,"Wholesale, agricultural & general commerce trades"
+Industrial company,6,5,"Wholesale, agricultural & general commerce trades"
+Fur trade,6,5,"Wholesale, agricultural & general commerce trades"
+ship suppliers,5,5,"Wholesale, agricultural & general commerce trades"
+manufacturing,5,5,"Wholesale, agricultural & general commerce trades"
+wholesale grocery,5,5,"Wholesale, agricultural & general commerce trades"
+import/export,4,5,"Wholesale, agricultural & general commerce trades"
+Agriculture,4,5,"Wholesale, agricultural & general commerce trades"
+hygiene products,4,5,"Wholesale, agricultural & general commerce trades"
+Agricultural company,4,5,"Wholesale, agricultural & general commerce trades"
+coffee importers,4,5,"Wholesale, agricultural & general commerce trades"
+Wine trade,4,5,"Wholesale, agricultural & general commerce trades"
+supplies,3,5,"Wholesale, agricultural & general commerce trades"
+medical supplies,3,5,"Wholesale, agricultural & general commerce trades"
+wholesaler,3,5,"Wholesale, agricultural & general commerce trades"
+factory,3,5,"Wholesale, agricultural & general commerce trades"
+groceries,3,5,"Wholesale, agricultural & general commerce trades"
+Wholesale fish,3,5,"Wholesale, agricultural & general commerce trades"
+Waste management,3,5,"Wholesale, agricultural & general commerce trades"
+Food cooperative,3,5,"Wholesale, agricultural & general commerce trades"
+Household items,3,5,"Wholesale, agricultural & general commerce trades"
+Medical products,3,5,"Wholesale, agricultural & general commerce trades"
+Funeral supplies,3,5,"Wholesale, agricultural & general commerce trades"
+Agricultural products,2,5,"Wholesale, agricultural & general commerce trades"
+Commerce,2,5,"Wholesale, agricultural & general commerce trades"
+Industry,2,5,"Wholesale, agricultural & general commerce trades"
+Fuel Supply,2,5,"Wholesale, agricultural & general commerce trades"
+Wholesale cured meats,2,5,"Wholesale, agricultural & general commerce trades"
+pharmaceutical trade,2,5,"Wholesale, agricultural & general commerce trades"
+Supplies for various entities,2,5,"Wholesale, agricultural & general commerce trades"
+Luxury Goods,2,5,"Wholesale, agricultural & general commerce trades"
+ice sales,2,5,"Wholesale, agricultural & general commerce trades"
+pasta production,2,5,"Wholesale, agricultural & general commerce trades"
+commerce,2,5,"Wholesale, agricultural & general commerce trades"
+coal (importers and producers),2,5,"Wholesale, agricultural & general commerce trades"
+food retailers,2,5,"Wholesale, agricultural & general commerce trades"
+fruit and vegetable wholesaler,2,5,"Wholesale, agricultural & general commerce trades"
+Aquaculture,2,5,"Wholesale, agricultural & general commerce trades"
+fish wholesaler,2,5,"Wholesale, agricultural & general commerce trades"
+wholesale food,2,5,"Wholesale, agricultural & general commerce trades"
+Beverage Manufacturer,2,5,"Wholesale, agricultural & general commerce trades"
+Drug processing,2,5,"Wholesale, agricultural & general commerce trades"
+Purchase,2,5,"Wholesale, agricultural & general commerce trades"
+Naval and industrial supplies,2,5,"Wholesale, agricultural & general commerce trades"
+oil company,2,5,"Wholesale, agricultural & general commerce trades"
+Dairy wholesaler,2,5,"Wholesale, agricultural & general commerce trades"
+Retail,2,5,"Wholesale, agricultural & general commerce trades"
+optical trade,2,5,"Wholesale, agricultural & general commerce trades"
+Exports,2,5,"Wholesale, agricultural & general commerce trades"
+Maritime suppliers,2,5,"Wholesale, agricultural & general commerce trades"
+Import/export fruits and vegetables,1,5,"Wholesale, agricultural & general commerce trades"
+fuel company,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale groceries,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale fruits,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale cereals,1,5,"Wholesale, agricultural & general commerce trades"
+fuel supplier,1,5,"Wholesale, agricultural & general commerce trades"
+soft drink industry,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale produce,1,5,"Wholesale, agricultural & general commerce trades"
+factories,1,5,"Wholesale, agricultural & general commerce trades"
+factory and warehouse,1,5,"Wholesale, agricultural & general commerce trades"
+military supply,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale sweets,1,5,"Wholesale, agricultural & general commerce trades"
+shipping supplier,1,5,"Wholesale, agricultural & general commerce trades"
+food preservation industry,1,5,"Wholesale, agricultural & general commerce trades"
+wine and liquor wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale wood and coal,1,5,"Wholesale, agricultural & general commerce trades"
+food wholesaler,1,5,"Wholesale, agricultural & general commerce trades"
+wholesale wines,1,5,"Wholesale, agricultural & general commerce trades"
+food distributor,1,5,"Wholesale, agricultural & general commerce trades"
+food distribution,1,5,"Wholesale, agricultural & general commerce trades"
+miscellaneous goods,1,5,"Wholesale, agricultural & general commerce trades"
+trading company,1,5,"Wholesale, agricultural & general commerce trades"
+industrial products,1,5,"Wholesale, agricultural & general commerce trades"
+trading,1,5,"Wholesale, agricultural & general commerce trades"
+packaging supplies,1,5,"Wholesale, agricultural & general commerce trades"
+industrial supplies,1,5,"Wholesale, agricultural & general commerce trades"
+paper wholesaler,1,5,"Wholesale, agricultural & general commerce trades"
+packaging industry,1,5,"Wholesale, agricultural & general commerce trades"
+naval supplies,1,5,"Wholesale, agricultural & general commerce trades"
+gas industry,1,5,"Wholesale, agricultural & general commerce trades"
+grocery and dairy,1,5,"Wholesale, agricultural & general commerce trades"
+grocery wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+liquor manufacturer,1,5,"Wholesale, agricultural & general commerce trades"
+perfumes manufacturer,1,5,"Wholesale, agricultural & general commerce trades"
+pharmaceuticals,1,5,"Wholesale, agricultural & general commerce trades"
+grain wholesaler,1,5,"Wholesale, agricultural & general commerce trades"
+pharmaceutical products,1,5,"Wholesale, agricultural & general commerce trades"
+livestock dealer,1,5,"Wholesale, agricultural & general commerce trades"
+Grocery Wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+Grocery Retail,1,5,"Wholesale, agricultural & general commerce trades"
+Household Goods,1,5,"Wholesale, agricultural & general commerce trades"
+Gas industry,1,5,"Wholesale, agricultural & general commerce trades"
+Firewood wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+Fishing Supplies,1,5,"Wholesale, agricultural & general commerce trades"
+Fishing supplies,1,5,"Wholesale, agricultural & general commerce trades"
+Food Exchange,1,5,"Wholesale, agricultural & general commerce trades"
+Food Wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+Fuel Wholesale,1,5,"Wholesale, agricultural & general commerce trades"
+Housewares representative,1,5,"Wholesale, agricultural & general commerce trades"
+Hygiene products,1,5,"Wholesale, agricultural & general commerce trades"
+Manufacturing company,1,5,"Wholesale, agricultural & general commerce trades"
+Import/Export,1,5,"Wholesale, agricultural & general commerce trades"
+Medical Supplies,1,5,"Wholesale, agricultural & general commerce trades"
+Import/Export Trade,1,5,"Wholesale, agricultural & general commerce trades"
+Importation,1,5,"Wholesale, agricultural & general commerce trades"
+Industrial,1,5,"Wholesale, agricultural & general commerce trades"
+Industrial Supplies,1,5,"Wholesale, agricultural & general commerce trades"
+Industrial products,1,5,"Wholesale, agricultural & general commerce trades"
+Bathroom Products,1,5,"Wholesale, agricultural & general commerce trades"
+Agricultural Trade,1,5,"Wholesale, agricultural & general commerce trades"
+Animal Feed,1,5,"Wholesale, agricultural & general commerce trades"
+Drug trade,1,5,"Wholesale, agricultural & general commerce trades"
+Edible Oils Trade,1,5,"Wholesale, agricultural & general commerce trades"
+Dairy production,1,5,"Wholesale, agricultural & general commerce trades"
+Colonial Goods,1,5,"Wholesale, agricultural & general commerce trades"
+Commercial Information,1,5,"Wholesale, agricultural & general commerce trades"
+Consumption Taxes,1,5,"Wholesale, agricultural & general commerce trades"
+Wine Trade,1,5,"Wholesale, agricultural & general commerce trades"
+agricultural equipment,1,5,"Wholesale, agricultural & general commerce trades"
+Wholesale groceries,1,5,"Wholesale, agricultural & general commerce trades"
+animal feed,1,5,"Wholesale, agricultural & general commerce trades"
+arms trade,1,5,"Wholesale, agricultural & general commerce trades"
+Wholesaler,1,5,"Wholesale, agricultural & general commerce trades"
+Wholesale Grains and Oils,1,5,"Wholesale, agricultural & general commerce trades"
+Warehouse,1,5,"Wholesale, agricultural & general commerce trades"
+Warehousing,1,5,"Wholesale, agricultural & general commerce trades"
+Waste Management,1,5,"Wholesale, agricultural & general commerce trades"
+commerce and processing,1,5,"Wholesale, agricultural & general commerce trades"
+complete supplies,1,5,"Wholesale, agricultural & general commerce trades"
+cork processing,1,5,"Wholesale, agricultural & general commerce trades"
+dairy wholesaler,1,5,"Wholesale, agricultural & general commerce trades"
+economical kitchens,1,5,"Wholesale, agricultural & general commerce trades"
+coffee industry,1,5,"Wholesale, agricultural & general commerce trades"
+coal importers and producers,1,5,"Wholesale, agricultural & general commerce trades"
+automotive trade,1,5,"Wholesale, agricultural & general commerce trades"
+beverage factory,1,5,"Wholesale, agricultural & general commerce trades"
+bottling industry,1,5,"Wholesale, agricultural & general commerce trades"
+chemical products representatives,1,5,"Wholesale, agricultural & general commerce trades"
+chemical trade,1,5,"Wholesale, agricultural & general commerce trades"
+cleaning products,1,5,"Wholesale, agricultural & general commerce trades"
+Production distribution,1,5,"Wholesale, agricultural & general commerce trades"
+Perfume manufacturing,1,5,"Wholesale, agricultural & general commerce trades"
+Pearls Trade,1,5,"Wholesale, agricultural & general commerce trades"
+Naval Supplies,1,5,"Wholesale, agricultural & general commerce trades"
+Sugar Factories,1,5,"Wholesale, agricultural & general commerce trades"
+Sugar factory,1,5,"Wholesale, agricultural & general commerce trades"
+Retail trade,1,5,"Wholesale, agricultural & general commerce trades"
+Rice production,1,5,"Wholesale, agricultural & general commerce trades"
+Rope Manufacturing,1,5,"Wholesale, agricultural & general commerce trades"
+Rubber Goods,1,5,"Wholesale, agricultural & general commerce trades"
+religious institution/clergy,112,6,Religious institutions & clergy
+medical profession,97,6,"Legal, financial & administrative professions"
+Lawyer,86,6,"Legal, financial & administrative professions"
+government/civic institution,71,6,Institutions & companies
+real estate,65,6,Institutions & companies
+Real estate,39,6,Institutions & companies
+insurance,33,6,Institutions & companies
+Real estate companies,32,6,Institutions & companies
+Pharmacist,27,6,"Legal, financial & administrative professions"
+Labor,26,6,Institutions & companies
+Nursing homes,25,6,Institutions & companies
+Insurance company,24,6,Institutions & companies
+Surveyor,24,6,"Legal, financial & administrative professions"
+legal profession,24,6,"Legal, financial & administrative professions"
+midwifery,21,6,"Legal, financial & administrative professions"
+architect,21,6,"Legal, financial & administrative professions"
+Credit institutions,20,6,Institutions & companies
+bank,19,6,Institutions & companies
+accountant,18,6,"Legal, financial & administrative professions"
+Sales representative,17,6,"Legal, financial & administrative professions"
+Accountant,17,6,"Legal, financial & administrative professions"
+Municipal councilor,17,6,"Legal, financial & administrative professions"
+Boarding houses,17,6,Institutions & companies
+expert,15,6,"Legal, financial & administrative professions"
+hotel,15,6,Institutions & companies
+company,15,6,Institutions & companies
+Pharmacy,14,6,Institutions & companies
+clergy,12,6,Religious institutions & clergy
+Boarding house,12,6,Institutions & companies
+Government Institution,10,6,Institutions & companies
+Bank,9,6,Institutions & companies
+religious institution,8,6,Religious institutions & clergy
+institutions,8,6,Institutions & companies
+inn,8,6,Institutions & companies
+dentist,8,6,"Legal, financial & administrative professions"
+Religious institution,7,6,Religious institutions & clergy
+broker,7,6,"Legal, financial & administrative professions"
+Religious Institution,7,6,Religious institutions & clergy
+Government/civic institution,7,6,Institutions & companies
+Midwifery,7,6,"Legal, financial & administrative professions"
+general medicine,7,6,"Legal, financial & administrative professions"
+Neighborhood,7,6,
+Notary,6,6,"Legal, financial & administrative professions"
+mediators,6,6,"Legal, financial & administrative professions"
+Medical profession,6,6,"Legal, financial & administrative professions"
+agencies and businesses,6,6,Institutions & companies
+General medicine,6,6,"Legal, financial & administrative professions"
+government office,6,6,Institutions & companies
+Real Estate,4,6,Institutions & companies
+Teacher,4,6,"Legal, financial & administrative professions"
+cooperative,4,6,Institutions & companies
+Representative,4,6,"Legal, financial & administrative professions"
+education,4,6,Institutions & companies
+Medical Profession,4,6,"Legal, financial & administrative professions"
+government institution,4,6,Institutions & companies
+Architect,4,6,"Legal, financial & administrative professions"
+Director,3,6,"Legal, financial & administrative professions"
+secretary,3,6,"Legal, financial & administrative professions"
+Business,3,6,Institutions & companies
+surgeon,3,6,"Legal, financial & administrative professions"
+President,3,6,"Legal, financial & administrative professions"
+academic profession,3,6,"Legal, financial & administrative professions"
+banking institution,3,6,Institutions & companies
+vicar,3,6,Religious institutions & clergy
+university,3,6,Institutions & companies
+surveyor,3,6,"Legal, financial & administrative professions"
+judge,3,6,"Legal, financial & administrative professions"
+Civil and criminal court,3,6,Institutions & companies
+Chimney sweeps,3,6,"Legal, financial & administrative professions"
+Castle,3,6,
+Inspector,3,6,"Legal, financial & administrative professions"
+Expert,3,6,"Legal, financial & administrative professions"
+Medicine,3,6,"Legal, financial & administrative professions"
+radio,3,6,
+Government/Civic Institution,3,6,Institutions & companies
+Government Position,3,6,"Legal, financial & administrative professions"
+real estate company,3,6,Institutions & companies
+pharmacy,2,6,Institutions & companies
+Investigation services,2,6,Institutions & companies
+pharmacist,2,6,"Legal, financial & administrative professions"
+Urban sanitation,2,6,Institutions & companies
+labor association,2,6,Institutions & companies
+historical site,2,6,
+Typing schools,2,6,Institutions & companies
+Legal Profession,2,6,"Legal, financial & administrative professions"
+Business agency,2,6,Institutions & companies
+representatives,2,6,"Legal, financial & administrative professions"
+chemical profession,2,6,"Legal, financial & administrative professions"
+Government,2,6,Institutions & companies
+educational institution,2,6,Institutions & companies
+rector,2,6,"Legal, financial & administrative professions"
+dental profession,2,6,"Legal, financial & administrative professions"
+assistance,2,6,Institutions & companies
+general practitioner,2,6,"Legal, financial & administrative professions"
+banking,2,6,Institutions & companies
+advertising agency,2,6,Institutions & companies
+accounting,2,6,"Legal, financial & administrative professions"
+veterinary,2,6,"Legal, financial & administrative professions"
+Hotel,2,6,Institutions & companies
+bridge,2,6,
+University,2,6,Institutions & companies
+military rank,2,6,"Legal, financial & administrative professions"
+optician,2,6,"Legal, financial & administrative professions"
+Religious institution/clergy,2,6,Religious institutions & clergy
+shoe representative,2,6,"Legal, financial & administrative professions"
+Educational institution,2,6,Institutions & companies
+Oculista,2,6,"Legal, financial & administrative professions"
+Educational Institution,2,6,Institutions & companies
+medical institution,2,6,Institutions & companies
+prefecture office,1,6,Institutions & companies
+watchmaker,1,6,"Legal, financial & administrative professions"
+warehouse office,1,6,Institutions & companies
+national interest bank,1,6,Institutions & companies
+veterinary profession,1,6,"Legal, financial & administrative professions"
+veterans association,1,6,Institutions & companies
+national bank secretary,1,6,"Legal, financial & administrative professions"
+mining company,1,6,Institutions & companies
+railway police,1,6,Institutions & companies
+real estate agency,1,6,Institutions & companies
+executive,1,6,"Legal, financial & administrative professions"
+military service,1,6,
+military command,1,6,Institutions & companies
+foreign office,1,6,Institutions & companies
+property owners association,1,6,Institutions & companies
+provincial administration,1,6,Institutions & companies
+midwife,1,6,"Legal, financial & administrative professions"
+pilots,1,6,"Legal, financial & administrative professions"
+hunting,1,6,
+legal sponsor,1,6,"Legal, financial & administrative professions"
+sales representative,1,6,"Legal, financial & administrative professions"
+industrial association,1,6,Institutions & companies
+hotel management,1,6,Institutions & companies
+horse racing,1,6,
+hospital,1,6,Institutions & companies
+parish priest,1,6,Religious institutions & clergy
+gaming houses,1,6,Institutions & companies
+service manager,1,6,"Legal, financial & administrative professions"
+labor organization,1,6,Institutions & companies
+school,1,6,Institutions & companies
+industrial representative,1,6,"Legal, financial & administrative professions"
+insurance company,1,6,Institutions & companies
+specialist,1,6,"Legal, financial & administrative professions"
+representative,1,6,"Legal, financial & administrative professions"
+general representation,1,6,
+usher,1,6,"Legal, financial & administrative professions"
+physical culture institute,1,6,Institutions & companies
+government inspector,1,6,"Legal, financial & administrative professions"
+sports association,1,6,Institutions & companies
+sports club,1,6,Institutions & companies
+typing school,1,6,Institutions & companies
+pediatrician,1,6,"Legal, financial & administrative professions"
+university institution,1,6,Institutions & companies
+government/military institution,1,6,Institutions & companies
+nursing home,1,6,Institutions & companies
+lottery office,1,6,Institutions & companies
+location,1,6,
+university library,1,6,Institutions & companies
+tax inspectorate,1,6,Institutions & companies
+Government Agency,1,6,Institutions & companies
+Home Goods Representative,1,6,"Legal, financial & administrative professions"
+Hotel Management,1,6,Institutions & companies
+Hotel management,1,6,Institutions & companies
+Entertainment industry,1,6,Institutions & companies
+Firefighter,1,6,"Legal, financial & administrative professions"
+Medical Institution,1,6,Institutions & companies
+Medical institution,1,6,Institutions & companies
+Mercer,1,6,"Textiles, clothing, footwear, haberdashery & perfumery"
+Insurance Agency,1,6,Institutions & companies
+Insurance Representative,1,6,"Legal, financial & administrative professions"
+Insurance association,1,6,Institutions & companies
+Investigation agency,1,6,Institutions & companies
+Laboratory,1,6,Institutions & companies
+Library,1,6,Institutions & companies
+Bank Position,1,6,"Legal, financial & administrative professions"
+Civic advisor,1,6,"Legal, financial & administrative professions"
+Clergy,1,6,Religious institutions & clergy
+Actuary,1,6,"Legal, financial & administrative professions"
+Architecture Institute,1,6,Institutions & companies
+Architecture Professor,1,6,"Legal, financial & administrative professions"
+Automobile Club,1,6,Institutions & companies
+Coal Representatives,1,6,"Legal, financial & administrative professions"
+Dentist,1,6,"Legal, financial & administrative professions"
+Detective,1,6,"Legal, financial & administrative professions"
+Director of Police Station,1,6,"Legal, financial & administrative professions"
+"Ear, nose, throat specialist",1,6,"Legal, financial & administrative professions"
+Education,1,6,Institutions & companies
+Educational Shows,1,6,Institutions & companies
+Decorator,1,6,"Legal, financial & administrative professions"
+Dealer,1,6,"Legal, financial & administrative professions"
+Commercial agency,1,6,Institutions & companies
+Company,1,6,Institutions & companies
+Corporation,1,6,Institutions & companies
+Counselor,1,6,"Legal, financial & administrative professions"
+Court of Mestre,1,6,Institutions & companies
+Military command,1,6,Institutions & companies
+Military district,1,6,Institutions & companies
+administrative officer,1,6,"Legal, financial & administrative professions"
+actress,1,6,"Legal, financial & administrative professions"
+animal care,1,6,"Legal, financial & administrative professions"
+archivist,1,6,"Legal, financial & administrative professions"
+association,1,6,Institutions & companies
+University Institution,1,6,Institutions & companies
+University Secretary,1,6,"Legal, financial & administrative professions"
+Urban district,1,6,Institutions & companies
+Accounting inspector,1,6,"Legal, financial & administrative professions"
+Vice Commissioner,1,6,"Legal, financial & administrative professions"
+Water Magistrate,1,6,Institutions & companies
+Water authority,1,6,Institutions & companies
+commercial director,1,6,"Legal, financial & administrative professions"
+cultural association,1,6,Institutions & companies
+customs laboratory,1,6,Institutions & companies
+customs office,1,6,Institutions & companies
+decorator,1,6,"Legal, financial & administrative professions"
+dermatologist,1,6,"Legal, financial & administrative professions"
+designer,1,6,"Legal, financial & administrative professions"
+divers,1,6,"Legal, financial & administrative professions"
+driving school,1,6,Institutions & companies
+educator,1,6,"Legal, financial & administrative professions"
+banking director,1,6,"Legal, financial & administrative professions"
+charitable institution,1,6,Institutions & companies
+civic club,1,6,Institutions & companies
+civil engineer,1,6,"Legal, financial & administrative professions"
+civil service,1,6,Institutions & companies
+Pest control,1,6,Institutions & companies
+Pharmaceutical Representation,1,6,"Legal, financial & administrative professions"
+Pilots,1,6,"Legal, financial & administrative professions"
+Police,1,6,Institutions & companies
+Provincial Government,1,6,Institutions & companies
+Public Housing Institute,1,6,Institutions & companies
+Public works,1,6,Institutions & companies
+Museum,1,6,Institutions & companies
+Occupational safety institute,1,6,Institutions & companies
+Offices,1,6,Institutions & companies
+Pawn Agency,1,6,Institutions & companies
+Surgeon,1,6,"Legal, financial & administrative professions"
+Telephone Directory,1,6,Institutions & companies
+Theatre Administration,1,6,Institutions & companies
+Real Estate Company,1,6,Institutions & companies
+Rector,1,6,"Legal, financial & administrative professions"
+Shepherd,1,6,"Legal, financial & administrative professions"
+Insurance agency,1,6,
+typewriters,144,7,
+office furniture,80,7,"Office equipment, stationery, printing, publishing & photography"
+office supplies,76,7,"Office equipment, stationery, printing, publishing & photography"
+typewriters and calculators,66,7,
+Printing,43,7,"Office equipment, stationery, printing, publishing & photography"
+photography,39,7,"Office equipment, stationery, printing, publishing & photography"
+Paper,32,7,"Office equipment, stationery, printing, publishing & photography"
+stationery,31,7,"Office equipment, stationery, printing, publishing & photography"
+Newspapers,20,7,"Office equipment, stationery, printing, publishing & photography"
+Printing establishment,17,7,"Office equipment, stationery, printing, publishing & photography"
+Office supplies,17,7,"Office equipment, stationery, printing, publishing & photography"
+Stationery,17,7,"Office equipment, stationery, printing, publishing & photography"
+Publishing house,16,7,"Office equipment, stationery, printing, publishing & photography"
+paper,16,7,"Office equipment, stationery, printing, publishing & photography"
+optics engineering photography,15,7,"Office equipment, stationery, printing, publishing & photography"
+cinema,14,7,"Office equipment, stationery, printing, publishing & photography"
+Cinema,14,7,"Office equipment, stationery, printing, publishing & photography"
+signs and advertising,12,7,"Office equipment, stationery, printing, publishing & photography"
+photographic articles,12,7,"Office equipment, stationery, printing, publishing & photography"
+newspaper sales,11,7,"Office equipment, stationery, printing, publishing & photography"
+bookbinding,9,7,"Office equipment, stationery, printing, publishing & photography"
+picture frames,8,7,"Office equipment, stationery, printing, publishing & photography"
+gramophones and records,8,7,"Office equipment, stationery, printing, publishing & photography"
+photographic materials,6,7,"Office equipment, stationery, printing, publishing & photography"
+Photographer,6,7,"Office equipment, stationery, printing, publishing & photography"
+Paper products,6,7,"Office equipment, stationery, printing, publishing & photography"
+newspapers,5,7,"Office equipment, stationery, printing, publishing & photography"
+Recycling,5,7,"Office equipment, stationery, printing, publishing & photography"
+Optics,5,7,"Office equipment, stationery, printing, publishing & photography"
+postcards,4,7,"Office equipment, stationery, printing, publishing & photography"
+office machines,4,7,"Office equipment, stationery, printing, publishing & photography"
+paper mills,4,7,"Office equipment, stationery, printing, publishing & photography"
+Photography supplies,4,7,"Office equipment, stationery, printing, publishing & photography"
+Bookbinding,4,7,"Office equipment, stationery, printing, publishing & photography"
+photographer,4,7,"Office equipment, stationery, printing, publishing & photography"
+Publishing,4,7,"Office equipment, stationery, printing, publishing & photography"
+packaging,3,7,"Office equipment, stationery, printing, publishing & photography"
+graphic arts,3,7,"Office equipment, stationery, printing, publishing & photography"
+Rubber stamps,3,7,"Office equipment, stationery, printing, publishing & photography"
+packaging paper,3,7,"Office equipment, stationery, printing, publishing & photography"
+photographic items,3,7,"Office equipment, stationery, printing, publishing & photography"
+Cinematographic machines,2,7,"Office equipment, stationery, printing, publishing & photography"
+paper industry,2,7,"Office equipment, stationery, printing, publishing & photography"
+paper representative,2,7,"Office equipment, stationery, printing, publishing & photography"
+paper trade,2,7,"Office equipment, stationery, printing, publishing & photography"
+cinematographic equipment,2,7,"Office equipment, stationery, printing, publishing & photography"
+optics,2,7,"Office equipment, stationery, printing, publishing & photography"
+Paper bags,2,7,"Office equipment, stationery, printing, publishing & photography"
+Photography,2,7,"Office equipment, stationery, printing, publishing & photography"
+Philately,2,7,"Office equipment, stationery, printing, publishing & photography"
+newsstand,2,7,"Office equipment, stationery, printing, publishing & photography"
+Photo reportage,2,7,"Office equipment, stationery, printing, publishing & photography"
+playing cards,1,7,"Office equipment, stationery, printing, publishing & photography"
+wallpaper and related,1,7,"Office equipment, stationery, printing, publishing & photography"
+printing and stationery,1,7,"Office equipment, stationery, printing, publishing & photography"
+printing,1,7,"Office equipment, stationery, printing, publishing & photography"
+publishing industry,1,7,"Office equipment, stationery, printing, publishing & photography"
+publishing company,1,7,"Office equipment, stationery, printing, publishing & photography"
+optics and photography,1,7,"Office equipment, stationery, printing, publishing & photography"
+household articles,1,7,"Office equipment, stationery, printing, publishing & photography"
+paper (wholesale),1,7,"Office equipment, stationery, printing, publishing & photography"
+paper products,1,7,"Office equipment, stationery, printing, publishing & photography"
+rubber stamps,1,7,"Office equipment, stationery, printing, publishing & photography"
+newspaper retailer,1,7,"Office equipment, stationery, printing, publishing & photography"
+philately,1,7,"Office equipment, stationery, printing, publishing & photography"
+photography equipment,1,7,"Office equipment, stationery, printing, publishing & photography"
+office equipment,1,7,"Office equipment, stationery, printing, publishing & photography"
+Film Materials,1,7,"Office equipment, stationery, printing, publishing & photography"
+Funeral Articles,1,7,"Office equipment, stationery, printing, publishing & photography"
+Cinema and film rental,1,7,"Office equipment, stationery, printing, publishing & photography"
+Copy Services,1,7,"Office equipment, stationery, printing, publishing & photography"
+antique books,1,7,"Office equipment, stationery, printing, publishing & photography"
+Typewriters,1,7,
+Wallpaper and related,1,7,"Office equipment, stationery, printing, publishing & photography"
+bathroom articles,1,7,"Office equipment, stationery, printing, publishing & photography"
+Photography Industry,1,7,"Office equipment, stationery, printing, publishing & photography"
+Photography Services,1,7,"Office equipment, stationery, printing, publishing & photography"
+Photography Supplies,1,7,"Office equipment, stationery, printing, publishing & photography"
+Photography studio,1,7,"Office equipment, stationery, printing, publishing & photography"
+Playing cards,1,7,"Office equipment, stationery, printing, publishing & photography"
+Postal Service,1,7,"Office equipment, stationery, printing, publishing & photography"
+Publishing House,1,7,"Office equipment, stationery, printing, publishing & photography"
+Pen,1,7,"Office equipment, stationery, printing, publishing & photography"
+Newspaper Distribution,1,7,"Office equipment, stationery, printing, publishing & photography"
+Office Equipment,1,7,"Office equipment, stationery, printing, publishing & photography"
+Paper Trade,1,7,"Office equipment, stationery, printing, publishing & photography"
+Paper and Rags for Paper Mills,1,7,"Office equipment, stationery, printing, publishing & photography"
+Stamps,1,7,"Office equipment, stationery, printing, publishing & photography"
+Stationery Store,1,7,"Office equipment, stationery, printing, publishing & photography"
+Stationery and Paper Products,1,7,"Office equipment, stationery, printing, publishing & photography"
+Rubber Stamps,1,7,"Office equipment, stationery, printing, publishing & photography"
+Film equipment sales,1,7,"Office equipment, stationery, printing, publishing & photography"
+trattorias,177,8,"Hospitality, dining & retail shops"
+butcher,118,8,"Hospitality, dining & retail shops"
+bar,113,8,"Hospitality, dining & retail shops"
+trattoria,101,8,"Hospitality, dining & retail shops"
+café,85,8,"Hospitality, dining & retail shops"
+tavern,76,8,"Hospitality, dining & retail shops"
+wine merchant,70,8,"Hospitality, dining & retail shops"
+taverns,63,8,"Hospitality, dining & retail shops"
+barber,62,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+barbers,62,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+hardware store,58,8,"Electrical, mechanical, industrial & automotive trades"
+tobacco shop,50,8,"Hospitality, dining & retail shops"
+Delicatessen,45,8,"Hospitality, dining & retail shops"
+jewelry store,44,8,"Decorative arts, antiques & artisan crafts"
+paint store,44,8,"Construction, carpentry, chemicals, fuel & raw materials"
+bakery,42,8,"Hospitality, dining & retail shops"
+Bakery,37,8,"Hospitality, dining & retail shops"
+Tobacco shop,32,8,"Hospitality, dining & retail shops"
+Liquor store,28,8,"Hospitality, dining & retail shops"
+Hairdressers,28,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+restaurant,26,8,"Hospitality, dining & retail shops"
+pastry shop,23,8,"Hospitality, dining & retail shops"
+artisan business,21,8,"Hospitality, dining & retail shops"
+Coffee shops,17,8,"Hospitality, dining & retail shops"
+Restaurant,14,8,"Hospitality, dining & retail shops"
+pasta makers,13,8,"Hospitality, dining & retail shops"
+ice cream shop,12,8,"Hospitality, dining & retail shops"
+Hardware store,12,8,"Hospitality, dining & retail shops"
+bookstores,12,8,"Hospitality, dining & retail shops"
+hat shops,12,8,"Hospitality, dining & retail shops"
+Fishmonger,11,8,"Hospitality, dining & retail shops"
+Umbrella shop,11,8,"Hospitality, dining & retail shops"
+Women's hairdresser,11,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+Butcher,10,8,"Hospitality, dining & retail shops"
+liquor store,10,8,"Hospitality, dining & retail shops"
+Restaurants,10,8,"Hospitality, dining & retail shops"
+furniture store,9,8,"Construction, carpentry, chemicals, fuel & raw materials"
+hotel and restaurant,9,8,"Hospitality, dining & retail shops"
+hotels,9,8,"Hospitality, dining & retail shops"
+grocery store,8,8,"Hospitality, dining & retail shops"
+bookstore,7,8,"Hospitality, dining & retail shops"
+pastry shops,7,8,"Hospitality, dining & retail shops"
+Café,6,8,"Hospitality, dining & retail shops"
+bazaar,5,8,"Hospitality, dining & retail shops"
+Breweries,5,8,"Hospitality, dining & retail shops"
+café and pastry,5,8,"Hospitality, dining & retail shops"
+brewery,5,8,"Hospitality, dining & retail shops"
+Grocer,4,8,"Hospitality, dining & retail shops"
+Grocery Store,4,8,"Hospitality, dining & retail shops"
+Retail Store,3,8,"Hospitality, dining & retail shops"
+Perfume shop,3,8,"Hospitality, dining & retail shops"
+Pastry shop,3,8,"Hospitality, dining & retail shops"
+Coffee shop,3,8,"Hospitality, dining & retail shops"
+Bookstore,3,8,"Hospitality, dining & retail shops"
+confectionery,3,8,"Hospitality, dining & retail shops"
+Coffee Shop,3,8,"Hospitality, dining & retail shops"
+hairdresser,3,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+Notions store,3,8,"Hospitality, dining & retail shops"
+hat shop,2,8,"Hospitality, dining & retail shops"
+Confectionery,2,8,"Hospitality, dining & retail shops"
+Liquors (retail),2,8,"Hospitality, dining & retail shops"
+Florist,2,8,"Hospitality, dining & retail shops"
+Butchery,2,8,"Hospitality, dining & retail shops"
+coffee shop,2,8,"Hospitality, dining & retail shops"
+fishmonger,2,8,"Hospitality, dining & retail shops"
+Ice cream shop,2,8,"Hospitality, dining & retail shops"
+gift shop,2,8,"Hospitality, dining & retail shops"
+café-pastry shop,2,8,"Hospitality, dining & retail shops"
+butcher shop,2,8,"Hospitality, dining & retail shops"
+furniture (stores),2,8,"Construction, carpentry, chemicals, fuel & raw materials"
+Beauty institutes,2,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoe factory,2,8,"Hospitality, dining & retail shops"
+Mercerie,2,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+fruit vendor,1,8,"Hospitality, dining & retail shops"
+furniture store and stationery,1,8,"Hospitality, dining & retail shops"
+fried food vendor,1,8,"Hospitality, dining & retail shops"
+merchants' association,1,8,"Hospitality, dining & retail shops"
+repair shop,1,8,"Hospitality, dining & retail shops"
+merchant,1,8,"Hospitality, dining & retail shops"
+merchants,1,8,"Hospitality, dining & retail shops"
+farm,1,8,"Hospitality, dining & retail shops"
+fish market,1,8,"Hospitality, dining & retail shops"
+furniture supplier,1,8,"Hospitality, dining & retail shops"
+women's hairdresser,1,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+floristry,1,8,"Hospitality, dining & retail shops"
+wine shop,1,8,"Hospitality, dining & retail shops"
+pastry,1,8,"Hospitality, dining & retail shops"
+hotel-restaurant,1,8,"Hospitality, dining & retail shops"
+pastry chef,1,8,"Hospitality, dining & retail shops"
+jewelry retail,1,8,"Hospitality, dining & retail shops"
+knife maker,1,8,"Hospitality, dining & retail shops"
+paints retailer,1,8,"Hospitality, dining & retail shops"
+inn/hostel,1,8,"Hospitality, dining & retail shops"
+leather goods store,1,8,"Hospitality, dining & retail shops"
+grocer,1,8,"Hospitality, dining & retail shops"
+restaurant/café,1,8,"Hospitality, dining & retail shops"
+Grocery and pastry,1,8,"Hospitality, dining & retail shops"
+Hardware Store,1,8,"Hospitality, dining & retail shops"
+Hotel-Restaurant,1,8,"Hospitality, dining & retail shops"
+Farm,1,8,"Hospitality, dining & retail shops"
+Furniture Store,1,8,"Hospitality, dining & retail shops"
+Lighting Shop,1,8,"Hospitality, dining & retail shops"
+Inn,1,8,"Hospitality, dining & retail shops"
+Innkeeper,1,8,"Hospitality, dining & retail shops"
+Café services,1,8,"Hospitality, dining & retail shops"
+Barber | Fishmonger,1,8,"Hospitality, dining & retail shops"
+Bazar,1,8,"Hospitality, dining & retail shops"
+Butchery services,1,8,"Hospitality, dining & retail shops"
+"Bar, Café",1,8,"Hospitality, dining & retail shops"
+Bank Cashier,1,8,"Hospitality, dining & retail shops"
+"Bakery, pasta shop",1,8,"Hospitality, dining & retail shops"
+University bookstore,1,8,"Hospitality, dining & retail shops"
+Trattoria,1,8,"Hospitality, dining & retail shops"
+Vegetarian restaurants,1,8,"Hospitality, dining & retail shops"
+beauty salon,1,8,"Textiles, clothing, footwear, haberdashery & perfumery"
+boatyard,1,8,"Hospitality, dining & retail shops"
+cabinet maker,1,8,"Hospitality, dining & retail shops"
+carpet store,1,8,"Hospitality, dining & retail shops"
+cashier,1,8,"Hospitality, dining & retail shops"
+Osteria,1,8,"Hospitality, dining & retail shops"
+Packaging shop,1,8,"Hospitality, dining & retail shops"
+Pastry Shop,1,8,"Hospitality, dining & retail shops"
+Repair Shop,1,8,"Hospitality, dining & retail shops"
+Restaurant and hotel,1,8,"Hospitality, dining & retail shops"
+Catering service,1,8,"Hospitality, dining & retail shops"
+men's shirts,238,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+men's clothing,105,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+tailor,80,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Footwear,65,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+seamstresses,63,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Fabrics,54,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+lingerie and knitwear,49,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather and footwear manufacturing,40,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Men's tailor,37,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoe manufacturing,28,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Fabrics and yarns,25,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+knitwear,21,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+clothing,20,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Women's tailoring,20,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+laundries,20,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Millinery,19,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+haberdashery,19,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Tailoring,19,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Tailor,16,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+upholsterers,15,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+fashion,14,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+laundry and ironing,13,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+linens,12,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+rubber goods,11,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Upholsterer,11,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+lace and embroidery,11,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+men's tailor,10,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Ready-made clothing,10,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+children's clothing,9,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Hosiery,9,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather goods,9,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+fabrics,8,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Leather goods,8,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+women's tailoring,8,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+sanitary articles,7,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+fabrics and textiles,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textile representative,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Silk trade,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Yarn textiles,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textiles,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+sewing machines,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Carpets,6,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Secondhand goods,5,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Furrier,5,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Venetian hat factory,5,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+millinery,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Notions and yarns,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Rags,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+textile representative,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Slippers,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Luggage and leather goods,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Sacks and bags,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+silk mills,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoemaker,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Dry cleaning,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+laundry services,4,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Men's tailoring,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+linen and related,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+stockings,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+luggage,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Ropes and twines,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Bridal accessories,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+furrier,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Wholesale yarns,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather and hides,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Shoe and hat repairs,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Shoe factory,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Silk textiles,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+hosiery,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+hemp and linen,3,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+upholstery,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Wool and hair,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+upholsterer,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Notions and Yarns,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Linen products,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Shoemaker,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Clothing,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textiles and wool,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textiles and fabrics,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+"goods, yarns, and related",2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+dry cleaning,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Furnishing Fabrics,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Shoe polish (manufacturers),2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoe polish,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather trade,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+sporting goods,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Printed fabrics,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather belts,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+laundry service,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoe and hair repairs,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Women's Clothing,2,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+fur and textiles,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+silk treatment commerce,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+silk mill,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+silk and wool,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+printed fabrics,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+second-hand goods,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+milliner,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+fashion and leather goods,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+fashion and tailoring,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoe and boot supply,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+wool and silk goods,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+wool and silk,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+footwear,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+shoes,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+women's fashion,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+saddlery,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+lingerie,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+laundry,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+textiles,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+tailored clothing,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+knitwear shop,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+textile industry,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+laundress,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+leather representative,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+timber and haberdashery,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+gloves and embroidery,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+lace making,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+uniforms,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+sewing goods,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Hand Embroidery,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Fabric Storage,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Lingerie,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Men's Tailoring,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Men's shirts,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Linen industry,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Linen and Knitwear,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Knitwear Shop,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Knitwear store,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Lace and Embroidery,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Laundry,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Leather Goods,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Carpets and decorations,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Children's Clothing,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Clothing Repairs,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Clothing Retail,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Cordage,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Cotton Products,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Curtains and Carpets,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Women's Fashion,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Women's Fur and Tailoring,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Women's Linens,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Women's clothing,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Yarn,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Wholesale Knitwear,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Uniforms,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Upholstery,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Wedding Attire,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+dressmaker,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+carpets,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+clothing manufacturing,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+clothing trade,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textile Manufacturing,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textile manufacturing,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Textiles and Lace,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Sewing Machines,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"
+Sewing machines,1,9,"Textiles, clothing, footwear, haberdashery & perfumery"

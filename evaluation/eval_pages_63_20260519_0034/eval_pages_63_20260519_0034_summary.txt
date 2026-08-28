@@ -1,0 +1,16 @@
+Pages evaluated: 1
+
+=== Pages needing attention (real structural errors) ===
+  None
+
+=== Pages with warnings (manual review) ===
+
+=== Missing files ===
+  None
+
+=== Ground truth pages evaluated: 1 ===
+  page_63.jpg: best F1=98.28 | char_acc=91.81
+
+=== SUMMARY TABLE STATS ===
+Total pages in table: 1
+  OK: 1

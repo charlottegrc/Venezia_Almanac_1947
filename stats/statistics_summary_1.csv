@@ -1,0 +1,10 @@
+section,fill_Name,fill_Address,fill_Location,fill_Category,fill_Profession,fill_Additional Info
+cover_ads,0.97,0.82,0.03,0.88,0.19,0.94
+government,0.93,0.96,0.55,1.0,0.92,0.94
+index,1.0,0.77,0.86,1.0,0.86,1.0
+indice_generale,1.0,1.0,0.68,1.0,0.97,1.0
+industria,0.99,1.0,0.53,1.0,,0.99
+other,0.94,0.77,0.61,0.98,1.0,0.87
+professionisti,1.0,1.0,0.56,,0.95,0.95
+provincia,0.99,0.14,,,,
+religious,0.99,0.98,0.85,,0.95,1.0

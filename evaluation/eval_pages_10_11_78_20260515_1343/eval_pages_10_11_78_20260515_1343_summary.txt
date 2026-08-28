@@ -1,0 +1,2 @@
+Pages evaluated: 3
+Propagation failures: 3

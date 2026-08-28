@@ -1,0 +1,19 @@
+Page,Run,Rows,Empty Rows,Truncated Names,Issues,Layout,Ad Type,Warnings,char_accuracy,word_accuracy,bow_similarity,row_count_similarity,semantic_precision,semantic_recall,semantic_f1,Column Differences,Failure Reasons
+page_10.jpg,page_10.jpg_semantic_1.csv,31.0,0.0,0.0,,COMPLEX_LAYOUT,NO_AD,1.0,,,,,,,,,
+page_10.jpg,page_10.jpg_semantic_2.csv,31.0,0.0,0.0,,SIMPLE_LAYOUT,NO_AD,0.0,,,,,,,,,
+page_10.jpg,page_10.jpg_semantic_1.csv,31.0,0.0,0.0,,COMPLEX_LAYOUT,NO_AD,1.0,,,,,,,,,
+page_10.jpg,compare_1_2,,,,,,,,,,,,,,,,
+page_10.jpg,compare_2_3,,,,,,,,,,,,,,,,
+page_10.jpg,PAGE_SUMMARY,,,,,,,,,,,,,,,,"COMPLEX_LAYOUT, PROPAGATION_ERROR, LOG_WARNINGS"
+page_11.jpg,page_11.jpg_semantic_1.csv,2.0,0.0,0.0,,COMPLEX_LAYOUT,FULL_AD,0.0,,,,,,,,,
+page_11.jpg,page_11.jpg_semantic_2.csv,2.0,0.0,0.0,,COMPLEX_LAYOUT,FULL_AD,0.0,,,,,,,,,
+page_11.jpg,page_11.jpg_semantic_1.csv,2.0,0.0,0.0,,COMPLEX_LAYOUT,FULL_AD,0.0,,,,,,,,,
+page_11.jpg,compare_1_2,,,,,,,,,,,,,,,,
+page_11.jpg,compare_2_3,,,,,,,,,,,,,,,,
+page_11.jpg,PAGE_SUMMARY,,,,,,,,,,,,,,,,"COMPLEX_LAYOUT, AD_INTERFERENCE"
+page_78.jpg,page_78.jpg_semantic_1.csv,17.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,1.0,,,,,,,,,
+page_78.jpg,page_78.jpg_semantic_1.csv,17.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,1.0,,,,,,,,,
+page_78.jpg,page_78.jpg_semantic_2.csv,25.0,0.0,0.0,,COMPLEX_LAYOUT,PARTIAL_AD,1.0,,,,,,,,,
+page_78.jpg,compare_1_2,,,,,,,,,,,,,,,,
+page_78.jpg,compare_2_3,,,,,,,,,,,,,,,,
+page_78.jpg,PAGE_SUMMARY,,,,,,,,,,,,,,,,"COMPLEX_LAYOUT, AD_INTERFERENCE, PROPAGATION_ERROR, LOG_WARNINGS"

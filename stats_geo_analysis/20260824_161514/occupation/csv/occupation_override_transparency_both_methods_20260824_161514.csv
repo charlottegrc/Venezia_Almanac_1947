@@ -1,0 +1,3 @@
+method,n_cluster_defaults,n_overrides_defined,n_overrides_reassign,n_overrides_exclude,n_values_reassigned,rows_reassigned,n_values_excluded_by_override,rows_excluded_by_override
+Direct (k=10),10,492,469,23,463,3503,23,112
+Tokenised (k=10),10,439,439,0,431,3075,0,0

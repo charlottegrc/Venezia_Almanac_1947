@@ -1,0 +1,173 @@
+category,action,value,count
+bare_number,blank,2288,896
+bare_number,blank, 18,14
+bare_number,blank,3259,14
+bare_number,blank, 63,13
+bare_number,blank, 1239,7
+bare_number,blank, 137,7
+bare_number,blank, 25,7
+bare_number,blank, 40,7
+bare_number,blank, 738,7
+bare_number,blank,6,7
+bare_number,blank,39,6
+bare_number,blank, 5787,5
+bare_number,blank,38,5
+bare_number,blank, 1323,4
+bare_number,blank, 16,4
+bare_number,blank, 429,4
+bare_number,blank, 68,4
+bare_number,blank,1879,4
+bare_number,blank,6242,4
+bare_number,blank, 2023,3
+bare_number,blank, 4424,3
+bare_number,blank, 5211,3
+bare_number,blank,2232,3
+bare_number,blank,527,3
+bare_number,blank, 1068,2
+bare_number,blank, 1428,2
+bare_number,blank, 2806,2
+bare_number,blank, 62,2
+bare_number,blank, 9,2
+bare_number,blank, 985,2
+bare_number,blank,1103,2
+bare_number,blank,5396,2
+bare_number,blank,5999,2
+bare_outside_place,blank,Murano,274
+bare_outside_place,blank,Mestre,158
+bare_outside_place,blank,MESTRE,71
+bare_outside_place,blank,Lido,37
+bare_outside_place,blank,Marghera,36
+bare_outside_place,blank,Chirignago,24
+bare_outside_place,blank,Favaro Veneto,19
+bare_outside_place,blank,Carpenedo,18
+bare_outside_place,blank,Porto Marghera,16
+bare_outside_place,blank, Mestre,14
+bare_outside_place,blank,BURANO,10
+bare_outside_place,blank,PELLESTRINA,10
+bare_outside_place,blank,Burano,7
+bare_outside_place,blank, MURANO,4
+bare_outside_place,blank,PORTO MARGHERA,4
+bare_outside_place,blank, Marghera,2
+bare_outside_place,blank,Favaro,2
+bare_outside_place,blank,"Mestre,",2
+bare_outside_place,blank,Pellestrina,2
+founding_date_it,blank,FONDATA NEL 1877,2
+known_ad_deferred,deferred,Macchine per scrivere - Calcolatrici - Duplicatori,315
+known_ad_deferred,deferred,MACCHINE PER SCRIVERE - DUPLICATORI - ACCESSORI,47
+known_ad_slogan,blank,Founded: 1877,680
+known_ad_slogan,blank,Guida Commerciale di Venezia e Provincia,372
+phone_number_suffix,keep_cleaned,"Agente principale di Venezia: Soc. Rappresentanze Corferal, S. Moisè, 2053 - Tel. 26-696; 22-220",5
+phone_number_suffix,keep_cleaned,"Fabbrica vetri diffusori d'ogni colore tipo, Bacchette, Tubli, Vetri per termometri industriali e da febbre, Stabilimenti: Fond. S. Giovanni dei Battuti, 45, Tel. 29-194 e Fond. Cavor, ur, 17",5
+phone_number_suffix,keep_cleaned,"Grossisti e Dettaglianti Carboni e Legna, Negozio di vendita, Tel. 23-758, Ufficio, Castello, 5750, Tel. 23-758",5
+phone_number_suffix,keep_cleaned,"Manufatti in cemento, Tel. 50·873, Stabil: Marghera, tel. 50.874.",5
+phone_number_suffix,keep_cleaned,"Impresa Edile, Costruzioni In Cemento, Tel. 22·701",2
+phone_number_suffix,keep_cleaned,"Strumenti per la misura, la regolazione e la registrazione delle temperature, Agente: Luigi Jasgher - Venezia, Castello, S. Lio 5685, Tel. 26-884",2
+phone_tel,blank,Tel: 24-296,24
+phone_tel,blank,Tel. 22-125,5
+phone_tel,blank,Tel. 22-707,5
+phone_tel,blank,Tel. 22-985,5
+phone_tel,blank,Tel. 23-392,5
+phone_tel,blank,Tel. 23-911,5
+phone_tel,blank,Tel. 24·215,5
+phone_tel,blank,Tel. 33-043,5
+phone_tel,blank,Tel. 73-196,5
+phone_tel,blank,Tel. 73-394,5
+phone_tel,blank,Tel 50-865,4
+phone_tel,blank,Tel. 50-725,4
+phone_tel,blank,Tel. 22-335,3
+phone_tel,blank, Tel. 25-263,2
+phone_tel,blank,Tel. 20-917. Cass. post. 250,2
+phone_tel,blank,Tel. 23.980,2
+phone_tel,blank,Tel. 26-000 urbano Tel. 26-004 Intercomunale.,2
+street_address,address_candidate,Cannaregio 461,208
+street_address,address_candidate,Castello numero 6249,107
+street_address,address_candidate,Santa Croce 1991,8
+street_address,address_candidate,"Via Rosa, 22",8
+street_address,address_candidate, Cannaregio 3051,7
+street_address,address_candidate,Calle dei Fabbri 4696,7
+street_address,address_candidate,Calle dei Fabbri 926,7
+street_address,address_candidate,Cannaregio 4726,7
+street_address,address_candidate,Via M. Sabotino 8,7
+street_address,address_candidate, Via Ospedale 63,6
+street_address,address_candidate, Via Lepanto VII-18-B,5
+street_address,address_candidate,Cannaregio 5044,5
+street_address,address_candidate,San Marco 181 A,5
+street_address,address_candidate,"San Marco, 1955",5
+street_address,address_candidate,Via Cappucina numero 48,5
+street_address,address_candidate,Via Cengio 6,5
+street_address,address_candidate,Via M. Polo 15,5
+street_address,address_candidate,Via Poerio numero 50,5
+street_address,address_candidate,Via Scutari 16,5
+street_address,address_candidate,"Via Scutari, numero 16",5
+street_address,address_candidate,Castello 2158,4
+street_address,address_candidate,Castello 6168,4
+street_address,address_candidate,Dorsoduro 1051,4
+street_address,address_candidate,Via E. Toti 9,4
+street_address,address_candidate,Via Palenzo 15,4
+street_address,address_candidate, Calle della Bissa 5475,3
+street_address,address_candidate, Via Malamocco 47,3
+street_address,address_candidate, Via Paolucci 54.,3
+street_address,address_candidate, Via San Donà 142-B,3
+street_address,address_candidate,Calle dei Fabbri 4685-B,3
+street_address,address_candidate,Cannaregio 3689,3
+street_address,address_candidate,Cannaregio 5401,3
+street_address,address_candidate,Cannaregio 5620,3
+street_address,address_candidate,Castello 2982,3
+street_address,address_candidate,Castello 4698,3
+street_address,address_candidate,Castello 6052,3
+street_address,address_candidate,Castello 6396,3
+street_address,address_candidate,San Marco 3870,3
+street_address,address_candidate,San Marco 4706,3
+street_address,address_candidate,Via Barovier 12,3
+street_address,address_candidate,Via Marghera 105,3
+street_address,address_candidate,Via Miranese 5,3
+street_address,address_candidate,Via Mouta San Michele 4,3
+street_address,address_candidate,Via Negroponte 16,3
+street_address,address_candidate,Via Piave 86,3
+street_address,address_candidate, Giudecca 21,2
+street_address,address_candidate, San Marco 4382,2
+street_address,address_candidate, Via Costa 10,2
+street_address,address_candidate, Via G. Gozzi 10,2
+street_address,address_candidate, Via Galupp 19,2
+street_address,address_candidate, Via Lamen 1,2
+street_address,address_candidate, Via Ospale le 12,2
+street_address,address_candidate, Via Rosa B. 10,2
+street_address,address_candidate,Calle del Carbon 4177,2
+street_address,address_candidate,Cannaregio 2325,2
+street_address,address_candidate,Cannaregio 5040,2
+street_address,address_candidate,Castello 6231,2
+street_address,address_candidate,D. Duro 2090,2
+street_address,address_candidate,D. Duro 3232,2
+street_address,address_candidate,D. Duro 853-B,2
+street_address,address_candidate,D. Duro 858,2
+street_address,address_candidate,D. Duro numero 866,2
+street_address,address_candidate,Dorsoduro 200.B,2
+street_address,address_candidate,Dorsoduro 855-B,2
+street_address,address_candidate,Dorsoduro 880,2
+street_address,address_candidate,Giudecca 6n,2
+street_address,address_candidate,San Marco 2456,2
+street_address,address_candidate,San Marco 2683,2
+street_address,address_candidate,San Marco 5074,2
+street_address,address_candidate,San Marco numero 2954,2
+street_address,address_candidate,San Marco numero 4855,2
+street_address,address_candidate,San Polo numero 2001,2
+street_address,address_candidate,Via Bellinato 3,2
+street_address,address_candidate,Via Candia 2,2
+street_address,address_candidate,Via Cappuchina 45,2
+street_address,address_candidate,Via Cippo 15,2
+street_address,address_candidate,Via Cipr 7. 3,2
+street_address,address_candidate,Via F.lli Banidera 69,2
+street_address,address_candidate,Via Fiurme 73,2
+street_address,address_candidate,Via G. Bruno numero 16,2
+street_address,address_candidate,Via Girolamo 126,2
+street_address,address_candidate,Via Lorenzo Marcello 7,2
+street_address,address_candidate,Via M. Bragadin 6,2
+street_address,address_candidate,Via M. Bragami din 14,2
+street_address,address_candidate,Via Macello 13,2
+street_address,address_candidate,Via Mazzini 5110,2
+street_address,address_candidate,Via Miranese 61,2
+street_address,address_candidate,Via Motto Grappa 4,2
+street_address,address_candidate,Via P. Orseolo 14,2
+street_address,address_candidate,Via Parenzo 1,2
+street_address,address_candidate,Via Rosa 27,2
+street_address,address_candidate,Via Santi 4,2

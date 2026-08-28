@@ -1,0 +1,78 @@
+Name,Address,Location,Profession,Additional Info,page,location_cleaned
+Orioli cap. Gino,S. Marco 374,,GUÏDA COMMERCIALE DI VENEZIA E PROVINCIA,"sudd. 1,  3,  4,  5.",128,False
+Rainis Cap. Antonio,Cannaregio 5394,,GUÏDA COMMERCIALE DI VENEZIA E PROVINCIA,sudd. 4.,128,False
+Salmini Nicolo,Castello 3675,,GUÏDA COMMERCIALE DI VENEZIA E PROVINCIA,"sudd. 3,  5.",128,False
+Vianello cap. Cesare,"S. Elena, Calle Baìntizza 3",,GUÏDA COMMERCIALE DI VENEZIA E PROVINCIA,"sudd. 4,  5.",128,False
+Vianello dr. Dionisio,Frari 3024,,GUÏDA COMMERCIALE DI VENEZIA E PROVINCIA,"sudd. 1,  2,  3,  4,  5.",128,False
+Bolognesi rag. Sergio,Via Rosa 22,Mestre,Attività varie,Cead. 30.,128,False
+Guesan Leone,D. Duro 879,,Attività varie,sudd. 24.,128,False
+Coen ing. Giorgio Silvio,S. Marco 2568,,Attività varie,"sudd 1,  2,  3,  4.",128,False
+Gamba rag. Giambattista,S. Marco 4551,,Attività varie,"sudd. 28,  29.",128,False
+Gambaro d. Ugo,Via Carducci 35,Mestre,Attività varie,"sudd. 28,  36.",128,False
+Gauder Michele,Cannaregio 1554,,Attività varie,sudd. 28.,128,False
+Majer Antonio,S. Polo 2195,,Attività varie,sudd. 24.,128,False
+Padovan Romano,S. Marco 658,,Attività varie,sudd. 24.,128,False
+Vianello dr. Dionisio,Frari 3024,,Attività varie,"sudd. 28,  29,  36,  37.",128,False
+Zaja rag. Alberto,S. Marco 255,,Attività varie,"sudd. 36,  37.",128,False
+Bolognesi Sergio,Via Rosa,Mestre,Ragioniere,Ragionieri,128,False
+Bonivento Ferruccio,Cannaregio 3935,,Ragioniere,Ragionieri,128,False
+Camuffo Mario,Calle Corona 32,Chioggia,Ragioniere,Ragionieri,128,False
+Goutchi prof. Dott. Guido,Calle Corona 32,,"Revisore Ufficiale dei Conti, Amministratore Giudiziario, Consulenza e Assistenza Tributaria, Economico, Commerciale, Ragioneristica","S. Marco 1269, Telefono 25-738 Studio, Telefono 22.445 Abitazione.",128,False
+Dal Moro Augusto,Calle Corona 32,Portogruaro,Ragioniere,Ragionieri,128,False
+Dei Bei Aurelio,S. Marco 1083,,Ragioniere,Ragionieri,128,False
+De Perini Vincenzo,S. Felice 3971,,Ragioniere,Ragionieri,128,False
+Frescura Mario,S. Luca 4102,,Ragioniere,Ragionieri,128,False
+Gamba Giobatta,S. Luca 4541,,Ragioniere,Ragionieri,128,False
+Gambato Ugo Renzo,Via Carducci 33,Mestre,Ragioniere,Ragionieri,128,False
+Gasparini Romeo,S. Maria Mater Domini 2249,,Ragioniere,Ragionieri,128,False
+Gobetti Luigi,S. Luca 4102,,Ragioniere,Ragionieri,128,False
+Guerriero Aniello,S. Luca 4597,,Ragioniere,Ragionieri,128,False
+Lenarda Pietro,D. Duro 1489,,Ragioniere,Ragionieri,128,False
+Marangoni Domenico,S. Marco 2382 A,,Ragioniere,Ragionieri,128,False
+Marchi Mario,S. Marco 181-A,,Ragioniere,Ragionieri,128,False
+Marcato Bruno,S. Luca 4282,,Ragioniere,Ragionieri,128,False
+Mazzarin Pietro,S. Marco 927,,Ragioniere,Ragionieri,128,False
+Mentasti Pietro,S. Marco 927,,Ragioniere,Ragionieri,128,False
+Pavan Elia,S. Marco 3659,,Ragioniere,Ragionieri,128,False
+Rossi Vincenzo,S. Marco 410,,Ragioniere,Ragionieri,128,False
+Sarpelon Mario,Ss. Apostoli 4989,,Ragioniere,Ragionieri,128,False
+Sartorello Giorgio,P.zza Umberto 73,Mestre,Ragioniere,Ragionieri,128,False
+Schierato Giorgio,S. Marco 4869-A,,Ragioniere,Ragionieri,128,False
+Schittar Aristide,S. Marco 4869-A,,Ragioniere,Ragionieri,128,True
+Trevisan Giovanni,Via Vivit 9,Mestre,Ragioniere,Ragionieri,128,False
+Triemba Enrico,Castello 6039,,Ragioniere,Ragionieri,128,False
+Villaggio Luigi,S. Polo 2184,,Ragioniere,Ragionieri,128,False
+Visconti Francesco,S. Marco 3115,,Ragioniere,Ragionieri,128,False
+Zaja Alberto,S. Marco 4270,,Ragioniere,Ragionieri,128,False
+Alipandini Giuseppe,S. Marco 4270,Annone Veneto,Veterinario,Veterinari,128,False
+Baruffaldi Giovanni,S. Marco 4270,Campagna Lupia,Veterinario,Veterinari,128,False
+Bernardi Carlo,S. Marco 4270,Giudecca,Veterinario,Veterinari,128,False
+Borsati Alessandro,S. Marco 4270,,Veterinario,Veterinari,128,True
+Carletto Fulvio,S. Marco 4270,S. Donà di Piave,Veterinario,Veterinari,128,False
+Carletto Giacomo,S. Marco 4270,S. Donà di Piave,Veterinario,Veterinari,128,False
+Colonna Cornelio,S. Marco 4270,Fossalta di Portogruaro,Veterinario,Veterinari,128,False
+Davanzo Antonio,S. Marco 4270,Fossalta di Piave,Veterinario,Veterinari,128,False
+Davanzo Ugo,S. Marco 4270,Fossalta di Piave,Veterinario,Veterinari,128,False
+De Franceschi Luigi,S. Marco 4270,Mira,Veterinario,Veterinari,128,False
+Dian Vittorio,S. Marco 4270,S. Stino di Livenza,Veterinario,Veterinari,128,False
+Furlani Luigi,S. Marco 4270,Torre di Mosto,Veterinario,Veterinari,128,False
+Furlani Vittorio,S. Marco 4270,S. Stino di Livenza,Veterinario,Veterinari,128,False
+Gava Domenico,S. Marco 4270,Mirano,Veterinario,Veterinari,128,False
+Landini Luigi,S. Marco 4270,,Veterinario,"Venezia, Macello Comunale",128,False
+Manfredini Diodoro,S. Marco 4270,Jesolo,Veterinario,Veterinari,128,False
+Marafon John,S. Marco 4270,Caorle,Veterinario,Veterinari,128,False
+Marafon Modesto,S. Marco 4270,Caorle,Veterinario,Veterinari,128,False
+Pasqualetti Angelo,S. Marco 4270,Campagna Lupia,Veterinario,Veterinari,128,False
+Picchini Luigi,S. Marco 4270,Noale,Veterinario,Veterinari,128,False
+Pusini Giorgio,S. Marco 4270,Stra,Veterinario,Veterinari,128,False
+Rasi Gino,S. Marco 4270,Cavazere,Veterinario,Veterinari,128,False
+Ravaglia Spartaco,S. Marco 4270,Cona,Veterinario,Veterinari,128,False
+Romano Aronne,S. Marco 4270,,Veterinario,"Venezia, Dirett. Macello",128,False
+Separacni Carlo Giuseppe,S. Marco 4270,Mira,Veterinario,Veterinari,128,False
+Tasarzi Manlio,S. Marco 4270,S. Michele al Tagliamento,Veterinario,Veterinari,128,False
+Venzoe Domenico,S. Marco 4270,Griolsera,Veterinario,Veterinari,128,False
+Vezani Fulgenzio,Riv. XX Sett. 26,Mestre,Veterinario,Veterinari,128,False
+Visentini Mario,Riv. XX Sett. 26,Mirano,Veterinario,Veterinari,128,False
+Visentini Giuseppe,"Mestre, Macello Comunale",,Veterinario,Veterinari,128,False
+Vitaliami Ugo,"Mestre, Macello Comunale",S. Michele del Quarto,Veterinario,Veterinari,128,False
+Zoccoli Giuseppe,"Mestre, Macello Comunale",Portogruaro,Veterinario,Veterinari,128,False

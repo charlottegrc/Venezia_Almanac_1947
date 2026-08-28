@@ -1,0 +1,89 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Rea dr. Giuseppe,"S. Francesco delle Vigna, 3149",Burano,Farmacie,"FALEGNAMERIE,",204,False
+,Campo S. Canciano 6045,Burano,Farmacie,"FALEGNAMERIE,",204,False
+,Campo S. Canciano 6045,Burano,Murano,Anostini,204,False
+Baldisserotto dr. Giovanni,Gran Viale Santa Maria Elis.,Lido,Farmacie,"FALEGNAMERIE,",204,False
+Baldisserotto dr. Giovanni,Garibaldi 1778,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Boldi,Giudecca 446,Giudecca,Farmacie,"FALEGNAMERIE,",204,False
+Calzolari,Giudecca 446,,Farmacie,"FALEGNAMERIE,",204,True
+,Campo S. Zulian,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Velluti e Zardo,"Angelo Raffaele, 2384",,Farmacie,"FALEGNAMERIE,",204,True
+,"Angelo Raffaele, 2384",,Comune di S. Elena Gestione Ospedale Civile,"FALEGNAMERIE,",204,True
+,"Angelo Raffaele, 2384",,pt. Sant' Antonino,"FALEGNAMERIE,",204,True
+,"Angelo Raffaele, 2384",,Campo S. Maria Formosa,"FALEGNAMERIE,",204,True
+De Phuri dr. Francesco,"Tolentini fondamento Minotto, 149",Burano,Farmacie,"FALEGNAMERIE,",204,False
+,San Felice 3823-A,,Farmacie,"FALEGNAMERIE,",204,True
+,"cp. S. Cassiano, 1726",,Farmacie,"FALEGNAMERIE,",204,True
+landr. dr. Cesare,"cp. S. Cassiano, 1726",,Farmacie,V. Malamocco,204,True
+Graziati dr. Beniamino,"cp. S. Cassiano, 1726",,Internazionale Zamplroni propr. Vianello,"FALEGNAMERIE,",204,True
+Dr. Umberto,"San Mosè, 1493",Burano,Farmacie,"FALEGNAMERIE,",204,False
+Kratzer,"Ruga Rialto, 482",,Farmacie,"FALEGNAMERIE,",204,True
+Laboratorio chimico Trinchieri Tulio,San Luca 4598,,Farmacie,"FALEGNAMERIE,",204,True
+Lancretto,SS. Filippo e Giacomo 4513,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Lion Mario,Fran'. S. Stin 2498.A,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Locatelli di Tullio Locatelli,cl. dei Fabbri numero 4669,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Maggioni,Carmine 3465,,Farmacie,"FALEGNAMERIE,",204,True
+Mantovani Girolamo,"Calle Larga S. Marco, 412-413",,Farmacie,"FALEGNAMERIE,",204,True
+Milion Angelo,"campo S. Stefano, 2977",,Farmacie,"FALEGNAMERIE,",204,True
+Morelli Orazio,Campo S. Bartolomeo,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Negri Francesco,"Calle Larga ai Barf, 964",Burano,Farmacie,"FALEGNAMERIE,",204,False
+,"Calle Larga ai Barf, 964",Carpenedo,Farmacie,"FALEGNAMERIE,",204,False
+pop. Federighi dr. Fedrigo,SS. Apostoli 4717,,Farmacie,"FALEGNAMERIE,",204,True
+Onorato,SS. Apostoli 4717,,Farmacie,"FALEGNAMERIE,",204,True
+Padovàn Emilio,campo San Angelo,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Pisaniello Prof. Leonaril,Cp. S. Polo 2012,,Farmacie,"FALEGNAMERIE,",204,True
+,Campo SS. Apostoli 4437,,Farmacie,"FALEGNAMERIE,",204,True
+Picon Ferdinando,Campo S. Fosca 2233,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Poskus,Campo S. Fosca 2233,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Lista di Spagna 122,Campo S. Fosca 2233,Burano,Farmacie,"FALEGNAMERIE,",204,False
+,"Campo S. Fosca 2233, 993-994""",Burano,Farmacie,S. Trovoso,204,False
+Selcisizi Geminiano,Vin Garibaldi 1792,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Testa d'Oro dr. Gottardi Francesco,Rialto 5318,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Turko,"Frezzeria, 1676-77",Burano,Farmacie,"FALEGNAMERIE,",204,False
+Vian Tulio,"S. Leonardo, 1339",Burano,Farmacie,"FALEGNAMERIE,",204,False
+Zaini dr.,"campo S. Fantin, 1395",Burano,Farmacie,"FALEGNAMERIE,",204,False
+Zanini dr. Uccio,"campo S. Fantin, 1395",Mestre,Farmacie,"FALEGNAMERIE,",204,False
+,"campo S. Fantin, 1395",Burano,Farmacie,Anconetta,204,False
+Zanon Augusto,fdm. Ormesini 2651,Burano,Farmacie,"FALEGNAMERIE,",204,False
+Velluti e Zardo,"S. Margherita, 3692",Burano,Farmacie,"FALEGNAMERIE,",204,False
+Zecchini,"fdm, Cannaregio 1249",Cannaregio,Farmacie,"FALEGNAMERIE,",204,False
+,"fdm, Cannaregio 1249",,Pellestrina,Zennaro,204,True
+Feltrificio Veneto S. A.,Via de- le Macchine 2,Marghera,Feltri pe carriere,"FALEGNAMERIE,",204,False
+Baldan Silvano,Castello 6206,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Boccanegrc Emilio e Fllo,S. Polo 2604-655,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Boccanegra E. e C.,Castello 5356,Castello,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Bortoletli Antonietta,S. Croce 1002 A,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Brinis Alessandro,Cannaregio 1759,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Brinis Pietro,Dorsoduro 2378,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Brinis Valentino,S. Marco 2968,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Candiani Pietro,Cannaregio 2061,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Cavicchio Gilda,S. Croce 1759,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Citri Luigi,S. Polo 1725,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Citran Luigia,fdm. Manin 50,Murano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Citran Pietro fu Giuseppe,"Salizzada San Anzolin, n. 3488",Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+De Filippi F.lli,"Salizzada San Anzolin, n. 3488",Calle dei Fabbri,Ferramenta e colori,"FALEGNAMERIE,",204,False
+D’Este Francesco,via Galuppi,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Donaggio Amedeo,Castello 1819,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Egol Emma,Porto Marghera v. T. Mani n. 23,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Facchinettl Ines in Cibin,Via Lepanto 6,Lido,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Farnea Antonio,Via Lepanto 6,Burano,Ferramenta e colori,fdm. Ormesini,204,False
+Foccardi Giovanni,Via Garibaldi 1386,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Franceschini Silvio,Cannaregio 5601,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Gandolfo Angela,campo Vitt. Emanuele 17,S. Elena,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Gardin Giovanni,S. Croce 111,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Giovancasi Lazzaro,Piazza Paolucci 5,Marghera,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Gramigna Giuseppe,Cannaregio 1452,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Marchiori Prisca,S. Marco 931,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Mariuto Francesco,Campo S. Lucca,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Menegon Angiolo fu Giov.,Campo S. Provolo 4701 A,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Misisaiglia Umberto,Castello 5029,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Moretti Antonio,Castello 6468,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Narduzzi Mario,Giudecca 500,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Piazza Maddalena,Dorsoduro 2861,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Ragazzi Natale,Castello 3564 A,,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Rasoni Guido,Ponte della Pleta 4154,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Scarpa A. e C.,"Zattere, 48",,Ferramenta e colori,"FALEGNAMERIE,",204,True
+Scoter Pietro,Ponte delle Guglie,Burano,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Trevisol Carlo,Piscina S. Zulian 5556,Burano,Ferramenta," Utensileria,  Articoli casalinghi",204,False
+Zanette Arcangela,Via Negroponto 7,Lido,Ferramenta e colori,"FALEGNAMERIE,",204,False
+Zanini Giuseppe,Via Negroponto 7,Murano,Ferramenta e colori,fdn Venier I,204,False

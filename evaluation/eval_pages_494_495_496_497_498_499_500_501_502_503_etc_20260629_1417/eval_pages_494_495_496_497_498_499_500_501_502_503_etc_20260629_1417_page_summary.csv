@@ -1,0 +1,86 @@
+Page,Runs Found,Rows Min,Rows Max,Row Variation,Schema OK,Prop Flag,Prop Note,Schema Drift,Has GT,Best F1,Best Char Acc,Failure Reasons,Missing,OCR Only Runs,Action
+page_458,2,47,51,4,✗,,,Category,,,,"SCHEMA_MISMATCH, COMPLEX_LAYOUT_WITH_ERRORS, AD_INTERFERENCE_WITH_ERRORS, OCR_FAILURE(runs:1)",,,CHECK SCHEMA
+page_554,2,70,138,68,✗,YES,Provincia column missing entirely from this file,", ANNONE VENETO, Address, ISTITUZIONI DI BENEFICENZA, Name, Orfanotrofio, Provincia, Role_or_Profession, Section",,,,SCHEMA_MISMATCH,,3,CHECK SCHEMA
+page_170,2,1,1,0,✓,YES,1/1 rows (100%) have neither Address nor Location — check if propagation filled these,,,,,OCR_FAILURE(runs:1),,,CHECK PROPAGATION
+page_502,2,197,201,4,✓,YES,197/197 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_503,2,203,208,5,✓,YES,203/203 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_527,2,89,156,67,✓,YES,89/89 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_529,2,163,170,7,✓,YES,170/170 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_533,2,107,109,2,✓,YES,83/107 rows (78%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_534,2,68,81,13,✓,YES,64/68 rows (94%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_538,2,158,181,23,✓,YES,158/158 rows (100%) have empty Provincia field — every row should have a town name,,,,,OCR_FAILURE(runs:1),,1,CHECK PROPAGATION
+page_541,2,84,121,37,✓,YES,84/84 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_542,2,150,158,8,✓,YES,158/158 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_543,2,147,147,0,✓,YES,121/147 rows (82%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_546,2,124,125,1,✓,YES,101/125 rows (81%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_559,2,99,105,6,✓,YES,62/99 rows (63%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_563,2,137,138,1,✓,YES,137/137 rows (100%) have empty Provincia field — every row should have a town name,,,,,,,3,CHECK PROPAGATION
+page_367,2,35,69,34,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK ROW COUNT
+page_495,2,117,129,12,✓,,,,,,,,,3,CHECK ROW COUNT
+page_497,2,102,118,16,✓,,,,,,,,,3,CHECK ROW COUNT
+page_498,2,17,122,105,✓,,,,,,,,,3,CHECK ROW COUNT
+page_500,2,60,186,126,✓,,,,,,,,,3,CHECK ROW COUNT
+page_501,2,45,72,27,✓,,,,,,,,,3,CHECK ROW COUNT
+page_512,2,62,98,36,✓,,,,,,,,,3,CHECK ROW COUNT
+page_513,2,51,132,81,✓,,,,,,,,,3,CHECK ROW COUNT
+page_514,2,136,159,23,✓,,,,,,,,,3,CHECK ROW COUNT
+page_519,2,119,131,12,✓,,,,,,,,,3,CHECK ROW COUNT
+page_521,2,112,126,14,✓,,,,,,,,,3,CHECK ROW COUNT
+page_522,2,97,109,12,✓,,,,,,,,,3,CHECK ROW COUNT
+page_523,2,110,166,56,✓,,,,,,,,,3,CHECK ROW COUNT
+page_525,2,82,127,45,✓,,,,,,,,,3,CHECK ROW COUNT
+page_531,2,13,133,120,✓,,,,,,,,,3,CHECK ROW COUNT
+page_532,2,73,122,49,✓,,,,,,,,,3,CHECK ROW COUNT
+page_536,2,140,157,17,✓,,,,,,,,,3,CHECK ROW COUNT
+page_537,2,122,140,18,✓,,,,,,,,,3,CHECK ROW COUNT
+page_539,2,100,184,84,✓,,,,,,,,,3,CHECK ROW COUNT
+page_545,2,60,98,38,✓,,,,,,,,,3,CHECK ROW COUNT
+page_547,2,79,107,28,✓,,,,,,,,,3,CHECK ROW COUNT
+page_548,2,124,154,30,✓,,,,,,,,,3,CHECK ROW COUNT
+page_551,2,38,100,62,✓,,,,,,,,,3,CHECK ROW COUNT
+page_552,2,31,127,96,✓,,,,,,,,,3,CHECK ROW COUNT
+page_556,2,97,113,16,✓,,,,,,,OCR_FAILURE(runs:5),,3,CHECK ROW COUNT
+page_557,2,101,116,15,✓,,,,,,,,,3,CHECK ROW COUNT
+page_558,2,24,136,112,✓,,,,,,,,,3,CHECK ROW COUNT
+page_561,2,101,139,38,✓,,,,,,,OCR_FAILURE(runs:1),,3,CHECK ROW COUNT
+page_562,2,59,107,48,✓,,,,,,,,,3,CHECK ROW COUNT
+page_564,2,85,128,43,✓,,,,,,,,,3,CHECK ROW COUNT
+page_567,2,77,107,30,✓,,,,,,,,,3,CHECK ROW COUNT
+page_130,1,2,2,0,✓,,,,,,,AD_PAGE_LOW_OUTPUT,,,CHECK FAILURE
+page_161,1,0,0,0,✓,,,,,,,OCR_FAILURE(runs:1),,,CHECK FAILURE
+page_320,2,1,1,0,✓,,,,,,,"AD_PAGE_LOW_OUTPUT, OCR_FAILURE(runs:2)",,,CHECK FAILURE
+page_383,2,72,73,1,✓,,,,,,,"OCR_FAILURE(runs:1,2)",,,CHECK FAILURE
+page_41,2,1,2,1,✓,,,,,,,"OCR_FAILURE(runs:1,2)",,,CHECK FAILURE
+page_511,1,131,131,0,✓,,,,,,,OCR_FAILURE(runs:1),,2,CHECK FAILURE
+page_540,2,111,116,5,✓,,,,,,,OCR_FAILURE(runs:3),,1,CHECK FAILURE
+page_550,2,146,146,0,✓,,,,,,,OCR_FAILURE(runs:3),,1,CHECK FAILURE
+page_494,2,80,82,2,✓,,,,,,,,,3,OK
+page_496,2,139,142,3,✓,,,,,,,,,3,OK
+page_499,2,115,117,2,✓,,,,,,,,,3,OK
+page_504,2,137,138,1,✓,,,,,,,,,3,OK
+page_505,2,103,105,2,✓,,,,,,,,,3,OK
+page_506,2,112,112,0,✓,,,,,,,,,3,OK
+page_507,2,51,52,1,✓,,,,,,,,,3,OK
+page_508,2,55,56,1,✓,,,,,,,,,3,OK
+page_509,2,135,137,2,✓,,,,,,,,,3,OK
+page_510,1,49,49,0,✓,,,,,,,,,1,OK
+page_515,2,21,26,5,✓,,,,,,,,,3,OK
+page_516,2,114,119,5,✓,,,,,,,,,3,OK
+page_517,2,141,142,1,✓,,,,,,,,,3,OK
+page_518,2,122,124,2,✓,,,,,,,,,3,OK
+page_520,2,149,150,1,✓,,,,,,,,,3,OK
+page_524,2,120,123,3,✓,,,,,,,,,3,OK
+page_526,2,114,123,9,✓,,,,,,,,,3,OK
+page_528,2,93,98,5,✓,,,,,,,,,3,OK
+page_530,2,88,92,4,✓,,,,,,,,,3,OK
+page_535,2,186,193,7,✓,,,,,,,,,3,OK
+page_544,2,136,138,2,✓,,,,,,,,,3,OK
+page_549,2,57,62,5,✓,,,,,,,,,3,OK
+page_553,2,103,105,2,✓,,,,,,,,,3,OK
+page_555,2,138,138,0,✓,,,,,,,,,3,OK
+page_560,2,182,183,1,✓,,,,,,,,,3,OK
+page_565,2,101,101,0,✓,,,,,,,,,3,OK
+page_566,2,139,149,10,✓,,,,,,,,,3,OK
+page_568,2,100,100,0,✓,,,,,,,,,3,OK
+page_569,2,94,102,8,✓,,,,,,,,,3,OK
+page_570,2,83,84,1,✓,,,,,,,,,3,OK

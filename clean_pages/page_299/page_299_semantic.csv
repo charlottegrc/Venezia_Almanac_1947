@@ -1,0 +1,45 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Pasinetti Luigi (ditta),S. Polo 3085,,Camicerie da uomo,",",299,True
+Pavoni Vitt.,"Castello, 5251",,Camicerie da uomo,",",299,True
+Penzo Alberto,Castello 2400,,Camicerie da uomo,",",299,True
+Perego Antonio,San Marco 4943-4150,,Camicerie da uomo,",",299,True
+Ponte Pietro,Lido Via Negropone 11,Lido,Camicerie da uomo,",",299,False
+Rossi Adolfo,Dorsoduro 784,,Camicerie da uomo,",",299,True
+Sa-dif Francesco,S. Marco 3192,,Camicerie da uomo,",",299,True
+Semenzaio Silvio,S. Marco 3192,,Via Girolamo 126,",",299,True
+Tres Mario,"S. Marco 3192, Castello 3234",,Camicerie da uomo,",",299,True
+Turatti Angelo,S. Marco 3170,,Camicerie da uomo,",",299,True
+Vianello Giuseppe,"S. Marco 3170, Cannaregio 3904",,Camicerie da uomo,",",299,True
+Casarini e Altissimo,"Murano, Campo San Bernardo 5",Murano,Targhe,",",299,False
+Ruffini Giuseppe,S. Marco Mercerie San Salvador 4987,,Targhe,",",299,True
+Teatro Goldoni,S. Marco Mercerie San Salvador 4987,S. Luca,gestione S. A.,I. C. S. A.,299,False
+Teatro La Fenice,"S. Marco Mercerie San Salvador 4987, 8. Fanfta",,Teatri,",",299,True
+Teatro Malbi-àn,"S. Marco Mercerie San Salvador 4987, 8. Fanfta",cpl. del Milion,Gesitone S. A. «I. C. S. A.»,",",299,False
+Teatro Rossini,"S. Marco Mercerie San Salvador 4987, 8. Fanfta",S. Benedetto,gestione S. A. «I. C. S. A.»,",",299,False
+Teatro Toniolo,"S. Marco Mercerie San Salvador 4987, 8. Fanfta",,gestione Furlan cav. Giovanni,",",299,True
+I.T.A.I. (Bertolotto),8. Polo 2540,,"Impianti Telefoni Automatici Interni, Autorizzata dall'Azienda di Stato",Sede in Milano - Tel. 22-817,299,True
+Società Telefonica delle Venezie (T.E.L.V.E.),8. Polo 2540,San Salvador,Telefoni,",",299,False
+S. A. Impianti Applicazioni Telefoniche ed Affini,S. Marina 6072,Murano,Telefoni,",",299,False
+Grandi Magazzini della Fabbrica Lombarda Biancheria,S. Pantalon 3955,,Telerie,",",299,True
+Soc. An. Linificio e Canapificio Nazionale,S. Pantalon 3955,Campo S. Provolo,Telerie,",",299,False
+Donaggio G. e Figli,Castello 2142,Murano,per vele e bandiere,"vele, bandiere, cordami filati, reti, Telef. 26.683",299,False
+Haas e Figli (Soc. An. succ. di Filippo Haas),"Campo S. Moisé, 1481",Murano,Succe per arredamenti," ""tendaggi e tappeti,  Tel. 24-909,  Filiali a Roma,  Milano,  Torino,  Firenze.""",299,False
+"G.A.E.E."" - Società Applicazioni Elettrotecniche",Dorsoduro 3507,,Termometri,"Strumenti per la misura, la regolazione e la registrazione delle temperature, Agente: Luigi Jagher, Tel. 28-694",299,True
+Boschian Luigi,Dorsoduro 3507,Murano,"Terraglie, Porcellane e affini",",",299,False
+Cassini Gio Batta,"Dorsoduro 3507, Castello 3150",Murano,"Terraglie, Porcellane e affini",",",299,False
+Fuga Ferdinando,Cannaregio 4876,Murano,"Terraglie, Porcellane e affini",",",299,False
+Geraudi Maddalena,"Castello, 3962",Murano,"Terraglie, Porcellane e affini",",",299,False
+Maruzzi Gastone,S. Polo 2901,,"Terraglie, Porcellane e affini",",",299,True
+Novello Gino Suce. C. Camerino,San Marco 5117,,"Terraglie, Porcellane e affini",",",299,True
+Piotto Antonio,"San Marco 5117, Castello 6756",,"Terraglie, Porcellane e affini",",",299,True
+Recco Attilio,"San Marco 5117, Castello 6756",,"Terraglie, Porcellane e affini",Crosera S. Pantalon,299,True
+Salviati Attilio,Castello 1798,,"Terraglie, Porcellane e affini",",",299,True
+Stajano Giuseppe,Mestre Via Adamello 11,Mestre,"Terraglie, Porcellane e affini",",",299,False
+Aron Fortunato,S. Btae 1902,Murano,Terrrazzi,",",299,False
+Avon Vittorio,S. Btae 1902,Murano,Terrrazzi,",",299,False
+Azìn Antonio,Cannaregio 2587,,Terrrazzi,",",299,True
+Battistella Otello,Rialto 323,,Terrrazzi,",",299,True
+Crovato F.lli fu Francesco (Ditta),S. Candiano 5389,Murano,"Costruttori pavimenti, Terrazzo alla veneziana, stile Settecento, Mosaico, Granulati in cemento, Riparazioni in genere"," ""Tel. 24-670""",299,False
+Mainardi Leonardo,S. Croce 811,,Terrrazzi,",",299,True
+Pavan Luigi,Via Garibaldi 64 C,Murano,Terrrazzi,",",299,False
+Revere Giovanni,Cann. 3618,,Terrrazzi,",",299,True

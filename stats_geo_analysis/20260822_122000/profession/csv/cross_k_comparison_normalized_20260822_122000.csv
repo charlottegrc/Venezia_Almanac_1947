@@ -1,0 +1,3 @@
+k,n_distinct_categories,total_unique_values,total_rows,pct_values_categorized,pct_rows_categorized,pct_values_manually_moved,pct_rows_manually_moved,n_excluded_values,excluded_rows
+k=30 (normalized),31,1090,5731.0,93.0,97.9,15.2,43.3,76,123.0
+k=10,13,1090,5745.0,92.2,97.7,37.5,43.3,85,132.0

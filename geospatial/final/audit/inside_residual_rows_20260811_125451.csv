@@ -1,0 +1,42 @@
+file,page_num,Name,Address,reason
+nb06_inside,154,nan,Calle Stagneri,reclassified_outside
+nb06_inside,451,nan,S. Moisè 1478,reclassified_outside
+nb06_inside,474,Trevisan Giovanni,"S. Polo, Pescheria",reclassified_outside
+nb07_nciv,453,Scarpa Giuseppe,Castello 3151,reclassified_outside
+nb07_interp,447,Rossi Mario,Castello 6640,reclassified_outside
+nb07_unm,45,Cortesi prof. Tancredi,S. Marco,reclassified_outside
+nb07_unm,154,nan,Calle Stagneri,reclassified_outside
+nb07_unm,228,Banca Nazionale del Lavoro,Rialto - Campo Beccarie,reclassified_outside
+nb06_inside,75,nan,"Cannaregio 1105, ,",not_found
+nb06_inside,75,Trevisanello Giuseppe,"Via Briati 9, ,",not_found
+nb06_inside,76,Cirilli gr. uff. prof. arch. Guido,"Cannaregio 1105, ,",not_found
+nb06_inside,260,Az. Utilizzaa,Castello 6168,not_found
+nb06_inside,288,Valsecchi Mario,Castello 6168,not_found
+nb06_inside,441,Radio Venezia,Palazzo Vendramin Calergi,not_found
+nb07_nciv,357,Bucinerto,Riva dell'Impero 2134,not_found
+nb07_nciv,373,Contardo Giulio,Castello 3222,not_found
+nb07_nciv,61,Borri cav. Emilio,Campo dei Carmini 2613,not_found
+nb07_nciv,140,Faroni Ant.,Cannaregio 3051,not_found
+nb07_nciv,199,Superarco,Cannaregio 4726,not_found
+nb07_nciv,454,Scolari Diot'ennr,Cannaregio 461,not_found
+nb07_nciv,456,Shernan d. venato,S. Marco 4202,not_found
+nb07_nciv,373,Console Quglieno,Via M. Sabotino 8,not_found
+nb07_interp,456,Serneìeri Diana,San Marco numero 2183,not_found
+nb07_interp,456,Shernan d. venato,S. Marco 4202,not_found
+nb07_interp,61,Marsoni Arturo,Campo dei Carmini 2613,not_found
+nb07_interp,140,Faroni Ant.,Cannaregio 3051,not_found
+nb07_interp,199,Superarco,Cannaregio 4726,not_found
+nb07_interp,454,Scolari Diot'ennr,Cannaregio 461,not_found
+nb07_interp,373,Console Quglieno,Via M. Sabotino 8,not_found
+nb07_manual,456,duse,"Via XXII Marzo, 2288",not_found
+nb07_manual,428,Nusdorfer dr. Roberto,San Angelo 3580,not_found
+nb07_manual,65,Dott. Lino Scabello,Campo dei Carmini 2613,not_found
+nb07_manual,140,Faroni Ant.,Cannaregio 3051,not_found
+nb07_manual,199,Superarco,Cannaregio 4726,not_found
+nb07_manual,454,Scolari Diot'ennr,Cannaregio 461,not_found
+nb07_manual,373,Console Quglieno,Via M. Sabotino 8,not_found
+nb07_unm,467,Spadari Carlotta,S. Marco 33841,not_found
+nb07_unm,65,dr. Alfio Battini,"Genova, Via Boccaccio 45",not_found
+nb07_unm,428,Noro don Luigi,S. Marina 5906,not_found
+nb07_unm,428,Nusdorfer dr. Roberto,San Angelo 3580,not_found
+nb07_unm,455,Segurini d. A.,S. Lorenzo 5062,not_found

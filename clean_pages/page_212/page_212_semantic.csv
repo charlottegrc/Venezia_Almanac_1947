@@ -1,0 +1,35 @@
+Name,Address,Location,Category,Additional Info,page,location_cleaned
+Isabella I. e P. (ditta),Campiello R. Selvatico 5688,Mestre,Ghiacciaie,Fornitori di bordo,212,False
+Lacchin Antonio (ditta),S. Marco 3861,,Ghiacciaie,Fornitori di bordo,212,True
+Longega Francesco (ditta),S. Polo 1901,Mestre,Ghiacciaie,Fornitori di bordo,212,False
+Pitter Carlo,Castello 6569,,Ghiacciaie,Fornitori di bordo,212,True
+Galleria d'arte del Cavallino,Riva Schiavoni 4202,Gallerie d'arte,Ghiacciaie,Category: Gallerie d'arte,212,False
+Galleria d'arte Cesana,"Calle Larga S. Marco, Ponte Consorzi",Gallerie d'arte,Ghiacciaie,Category: Gallerie d'arte,212,False
+Galleria d'arte Ongania,S. Marco, Ascensione,Ghiacciaie,Category: Gallerie d'arte,212,False
+Galleria d'arte Sandri,Campo Manin 4524,Gallerie d'arte,Ghiacciaie,Category: Gallerie d'arte,212,False
+Piccola Galleria,"Calle Larga XXII Marzo, n. 2423",Gallerie d'arte,Ghiacciaie,Category: Gallerie d'arte,212,False
+Cappellotto Mario,"Lido, Gran Viale I-E",Gallerie d'arte,Gas,"liquigaz, vendita",212,False
+Compagnia del Gas,"Lido, Gran Viale I-E",Gallerie d'arte,Gas,Sottoprot. delle Acque,212,False
+S. A. del gas di Murano,"Lido, Gran Viale I-E",Murano,Gas,Category: Gas,212,False
+"Liquigaz” S. A.,Mestre v. Rosa 15,,Produzioni e commercio,Stabilimento Porto MargheraAnonima Metano Gas Autarchici A.M.G.A.,Castello 5313,,,__SECTION__,,,Gas compressi""","Lido, Gran Viale I-E",Gallerie d'arte,Gas,Category: Gas compressi,212,False
+Magliarretta Ruggero,Cannaregio 2940-A,Gallerie d'arte,Gas,Category: Gas,212,False
+Cantiere Fioratti,"S. Moisé, 2053",Gallerie d'arte,Gassogeni,Rappresentanti per il Veneto: Soc. Rappresentanze Generali - Tel. 28-896; 22-220,212,False
+Scarpa Girolamo e C.,"San Marco n. 2462, Mestre, C.so del Popolo 28",Gallerie d'arte,Gas tossici,"Mestre, C.so del Popolo 28 | s. a. r. l.",212,False
+Vanni dott. Antonio,S. Lio Corte Rubbi alla Fava,Gallerie d'arte,Gas tossici,Category: Gas tossici,212,False
+Ca'rer Ugo,Castello 4925,Gallerie d'arte,Gelateria,Lido S. Maria Elisabetta 326,212,False
+Dal Mas Pietro,Castello 4830,Gallerie d'arte,Gelaterie,Category: Gelaterie,212,False
+De Vidi A.,Campo San Stefano 2797,Gallerie d'arte,Gelateria, Caffe,212,False
+Dei Rossi Luigi,Campo San Stefano 2797, Via Cavora,Gelaterie,Murano,212,False
+Dei Rossi Roberto,Murano fdm. Vetrai 52,Gallerie d'arte,Gelaterie,Category: Gelaterie,212,False
+Fontanella Antonio,Mestre Piazza Umberto 69,Gallerie d'arte,Bar," Gelateria, Telefono 50.507, Via Piave 72",212,False
+Fulgazioni Guido Giovanni,S. Marco 120,Gallerie d'arte,Gelaterie,Category: Gelaterie,212,False
+Gelateria Bar «da Nico»,Zattere 919,Gallerie d'arte,Gelaterie,"La Migliore Posizione Estiva ed Invernale, Tel. 25-283",212,False
+Pradel e C.,S. Marco 607-680,Gallerie d'arte,Gelaterie,Category: Gelaterie,212,False
+Mazzarini Giuseppe,Riva degli Schiavoni 4119,Gallerie d'arte,Gelaterie,Category: Gelaterie,212,False
+Maestrello Virginia,"Riva degli Schiavoni 4119, Campo San Bernardo 1",Gallerie d'arte,Gelaterie,Murano,212,False
+Ricciardi Cesare,"Riva degli Schiavoni 4119, Campo San Bernardo 1",Mestre,Caffe grande Italia,Category: Gelaterie,212,False
+Societa Gelateria Giacia,"Riva degli Schiavoni 4119, Campo San Bernardo 1",Gallerie d'arte,Ditta Cecchiotti,Category: Gelaterie,212,False
+Pradel e C.,"Riva degli Schiavoni 4119, Campo San Bernardo 1",Lido,Gelaterie,Category: Gelaterie,212,False
+Novello Giuseppe,Cannaregio 2737,Gallerie d'arte,Gelaterie,Category: Gelaterie,212,False
+Cantiere Fioratti,"S. Moisé, 2053",Gallerie d'arte,Generatori Acetilene brevettati,Rappresentanti per il Veneto: Soc. Rappresentanze Generali - Tel. 28-896; 22-220,212,False
+S.A.F.F.A.,"Venezia, San Giobbe 465",Ghiacciaie,Generatori Acetilene brevettati,"Milano, Ufficio Commerciale di Venezia",212,False

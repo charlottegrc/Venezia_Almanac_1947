@@ -1,0 +1,14 @@
+Pages evaluated: 1
+Propagation failures: 1
+
+=== Pages needing attention ===
+  page_63.jpg: AD_INTERFERENCE_WITH_WARNINGS
+
+=== Pages with warnings ===
+  page_63.jpg (page_63.jpg_semantic_1.csv): -> WARNING: 55 rows (76%) missing both Address and Location on page_63.jpg
+
+=== Missing files ===
+
+=== Propagation flags (manual review needed): 0 ===
+
+=== Ground truth pages evaluated: 0 ===

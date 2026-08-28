@@ -1,0 +1,497 @@
+Log file: /Users/charlottegarcia/Desktop/thesis/Venezia_Almanac_1947/logs/run_5_range_494_570.log
+Running pages 494–570: 77 pages
+PDF has 575 pages. Filter: [494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570]
+Skipping existing: page_494.jpg
+Skipping existing: page_495.jpg
+Skipping existing: page_496.jpg
+Skipping existing: page_497.jpg
+Skipping existing: page_498.jpg
+Skipping existing: page_499.jpg
+Skipping existing: page_500.jpg
+Skipping existing: page_501.jpg
+Skipping existing: page_502.jpg
+Skipping existing: page_503.jpg
+Skipping existing: page_504.jpg
+Skipping existing: page_505.jpg
+Skipping existing: page_506.jpg
+Skipping existing: page_507.jpg
+Skipping existing: page_508.jpg
+Skipping existing: page_509.jpg
+Skipping existing: page_510.jpg
+Skipping existing: page_511.jpg
+Skipping existing: page_512.jpg
+Skipping existing: page_513.jpg
+Skipping existing: page_514.jpg
+Skipping existing: page_515.jpg
+Skipping existing: page_516.jpg
+Skipping existing: page_517.jpg
+Skipping existing: page_518.jpg
+Skipping existing: page_519.jpg
+Skipping existing: page_520.jpg
+Skipping existing: page_521.jpg
+Skipping existing: page_522.jpg
+Skipping existing: page_523.jpg
+Skipping existing: page_524.jpg
+Skipping existing: page_525.jpg
+Skipping existing: page_526.jpg
+Skipping existing: page_527.jpg
+Skipping existing: page_528.jpg
+Skipping existing: page_529.jpg
+Skipping existing: page_530.jpg
+Skipping existing: page_531.jpg
+Skipping existing: page_532.jpg
+Skipping existing: page_533.jpg
+Skipping existing: page_534.jpg
+Skipping existing: page_535.jpg
+Skipping existing: page_536.jpg
+Skipping existing: page_537.jpg
+Skipping existing: page_538.jpg
+Skipping existing: page_539.jpg
+Skipping existing: page_540.jpg
+Skipping existing: page_541.jpg
+Skipping existing: page_542.jpg
+Skipping existing: page_543.jpg
+Skipping existing: page_544.jpg
+Skipping existing: page_545.jpg
+Skipping existing: page_546.jpg
+Skipping existing: page_547.jpg
+Skipping existing: page_548.jpg
+Skipping existing: page_549.jpg
+Skipping existing: page_550.jpg
+Skipping existing: page_551.jpg
+Skipping existing: page_552.jpg
+Skipping existing: page_553.jpg
+Skipping existing: page_554.jpg
+Skipping existing: page_555.jpg
+Skipping existing: page_556.jpg
+Skipping existing: page_557.jpg
+Skipping existing: page_558.jpg
+Skipping existing: page_559.jpg
+Skipping existing: page_560.jpg
+Skipping existing: page_561.jpg
+Skipping existing: page_562.jpg
+Skipping existing: page_563.jpg
+Skipping existing: page_564.jpg
+Skipping existing: page_565.jpg
+Skipping existing: page_566.jpg
+Skipping existing: page_567.jpg
+Skipping existing: page_568.jpg
+Skipping existing: page_569.jpg
+Skipping existing: page_570.jpg
+Page list ready: 77 on Drive, 498 skipped/missing.
+pages_to_run: ['page_494.jpg', 'page_495.jpg', 'page_496.jpg', 'page_497.jpg', 'page_498.jpg', 'page_499.jpg', 'page_500.jpg', 'page_501.jpg', 'page_502.jpg', 'page_503.jpg', 'page_504.jpg', 'page_505.jpg', 'page_506.jpg', 'page_507.jpg', 'page_508.jpg', 'page_509.jpg', 'page_510.jpg', 'page_511.jpg', 'page_512.jpg', 'page_513.jpg', 'page_514.jpg', 'page_515.jpg', 'page_516.jpg', 'page_517.jpg', 'page_518.jpg', 'page_519.jpg', 'page_520.jpg', 'page_521.jpg', 'page_522.jpg', 'page_523.jpg', 'page_524.jpg', 'page_525.jpg', 'page_526.jpg', 'page_527.jpg', 'page_528.jpg', 'page_529.jpg', 'page_530.jpg', 'page_531.jpg', 'page_532.jpg', 'page_533.jpg', 'page_534.jpg', 'page_535.jpg', 'page_536.jpg', 'page_537.jpg', 'page_538.jpg', 'page_539.jpg', 'page_540.jpg', 'page_541.jpg', 'page_542.jpg', 'page_543.jpg', 'page_544.jpg', 'page_545.jpg', 'page_546.jpg', 'page_547.jpg', 'page_548.jpg', 'page_549.jpg', 'page_550.jpg', 'page_551.jpg', 'page_552.jpg', 'page_553.jpg', 'page_554.jpg', 'page_555.jpg', 'page_556.jpg', 'page_557.jpg', 'page_558.jpg', 'page_559.jpg', 'page_560.jpg', 'page_561.jpg', 'page_562.jpg', 'page_563.jpg', 'page_564.jpg', 'page_565.jpg', 'page_566.jpg', 'page_567.jpg', 'page_568.jpg', 'page_569.jpg', 'page_570.jpg']
+Total pages to process: 77
+Processing: page_494
+  -> Provincia ads extracted for page 494.
+  -> Semantic CSV saved: 80 entries for page 494.
+  -> Provincia data extracted for page 494.
+Processing: page_495
+  -> Provincia ads extracted for page 495.
+  -> Semantic CSV saved: 129 entries for page 495.
+  -> Provincia data extracted for page 495.
+Processing: page_496
+  -> Provincia ads extracted for page 496.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 142 entries for page 496.
+  -> Provincia data extracted for page 496.
+  -> Page 496 added to 'CAMPAGNALUPIA' (continuation).
+Processing: page_497
+  -> Provincia ads extracted for page 497.
+  -> Semantic CSV saved: 118 entries for page 497.
+  -> Provincia data extracted for page 497.
+Processing: page_498
+  -> Provincia ads extracted for page 498.
+  -> Semantic CSV saved: 122 entries for page 498.
+  -> Provincia data extracted for page 498.
+Processing: page_499
+  -> Provincia ads extracted for page 499.
+  -> Semantic CSV saved: 115 entries for page 499.
+  -> Provincia data extracted for page 499.
+Processing: page_500
+  -> Provincia ads extracted for page 500.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 186 entries for page 500.
+  -> Provincia data extracted for page 500.
+  -> Page 500 added to 'CAORLE' (continuation).
+Processing: page_501
+  -> Provincia ads extracted for page 501.
+  -> Semantic CSV saved: 72 entries for page 501.
+  -> Provincia data extracted for page 501.
+Processing: page_502
+  -> Provincia ads extracted for page 502.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 201 entries for page 502.
+  -> Provincia data extracted for page 502.
+  -> Page 502 added to 'CAVARZERE' (continuation).
+Processing: page_503
+  -> Provincia ads extracted for page 503.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 208 entries for page 503.
+  -> Provincia data extracted for page 503.
+  -> Page 503 added to 'CAVARZERE' (continuation).
+Processing: page_504
+  -> Provincia ads extracted for page 504.
+  -> Semantic CSV saved: 138 entries for page 504.
+  -> Provincia data extracted for page 504.
+Processing: page_505
+  -> Provincia ads extracted for page 505.
+  -> Semantic CSV saved: 105 entries for page 505.
+  -> Provincia data extracted for page 505.
+Processing: page_506
+  -> Provincia ads extracted for page 506.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 112 entries for page 506.
+  -> Provincia data extracted for page 506.
+  -> Page 506 added to 'CHIOGGIA' (continuation).
+Processing: page_507
+  -> Provincia ads extracted for page 507.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 51 entries for page 507.
+  -> Provincia data extracted for page 507.
+  -> Page 507 added to 'CHIOGGIA' (continuation).
+Processing: page_508
+  -> Provincia ads extracted for page 508.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 56 entries for page 508.
+  -> Provincia data extracted for page 508.
+  -> Page 508 added to 'CHIOGGIA' (continuation).
+Processing: page_509
+  -> Provincia ads extracted for page 509.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 135 entries for page 509.
+  -> Provincia data extracted for page 509.
+  -> Page 509 added to 'CHIOGGIA' (continuation).
+Processing: page_510
+  -> Provincia ads extracted for page 510.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 49 entries for page 510.
+  -> Provincia data extracted for page 510.
+  -> Page 510 added to 'CHIOGGIA' (continuation).
+Processing: page_511
+  -> OCR refusal detected, retrying with fallback prompt...
+  -> OCR still refused after fallback for page_511, skipping.
+Processing: page_512
+  -> Provincia ads extracted for page 512.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 62 entries for page 512.
+  -> Provincia data extracted for page 512.
+  -> Page 512 added to 'CHIOGGIA' (continuation).
+Processing: page_513
+  -> Provincia ads extracted for page 513.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 132 entries for page 513.
+  -> Provincia data extracted for page 513.
+Processing: page_514
+  -> Provincia ads extracted for page 514.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 159 entries for page 514.
+  -> Provincia data extracted for page 514.
+Processing: page_515
+  -> Provincia ads extracted for page 515.
+  -> Semantic CSV saved: 21 entries for page 515.
+  -> Provincia data extracted for page 515.
+Processing: page_516
+  -> Provincia ads extracted for page 516.
+  -> Semantic CSV saved: 119 entries for page 516.
+  -> Provincia data extracted for page 516.
+Processing: page_517
+  -> Provincia ads extracted for page 517.
+  -> Semantic CSV saved: 141 entries for page 517.
+  -> Provincia data extracted for page 517.
+Processing: page_518
+  -> Provincia ads extracted for page 518.
+  -> Semantic CSV saved: 124 entries for page 518.
+  -> Provincia data extracted for page 518.
+Processing: page_519
+  -> Provincia ads extracted for page 519.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 119 entries for page 519.
+  -> Provincia data extracted for page 519.
+  -> Page 519 added to 'DOLO' (continuation).
+Processing: page_520
+  -> Provincia ads extracted for page 520.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 150 entries for page 520.
+  -> Provincia data extracted for page 520.
+  -> Page 520 added to 'DOLO' (continuation).
+Processing: page_521
+  -> Provincia ads extracted for page 521.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 112 entries for page 521.
+  -> Provincia data extracted for page 521.
+  -> Page 521 added to 'DOLO' (continuation).
+Processing: page_522
+  -> Provincia ads extracted for page 522.
+  -> Semantic CSV saved: 109 entries for page 522.
+  -> Provincia data extracted for page 522.
+Processing: page_523
+  -> Provincia ads extracted for page 523.
+  -> Semantic CSV saved: 110 entries for page 523.
+  -> Provincia data extracted for page 523.
+Processing: page_524
+  -> Provincia ads extracted for page 524.
+  -> Semantic CSV saved: 123 entries for page 524.
+  -> Provincia data extracted for page 524.
+Processing: page_525
+  -> Provincia ads extracted for page 525.
+  -> Semantic CSV saved: 127 entries for page 525.
+  -> Provincia data extracted for page 525.
+Processing: page_526
+  -> Provincia ads extracted for page 526.
+  -> Semantic CSV saved: 114 entries for page 526.
+  -> Provincia data extracted for page 526.
+Processing: page_527
+  -> Provincia ads extracted for page 527.
+  -> Semantic CSV saved: 156 entries for page 527.
+  -> Provincia data extracted for page 527.
+Processing: page_528
+  -> Provincia ads extracted for page 528.
+  -> Semantic CSV saved: 93 entries for page 528.
+  -> Provincia data extracted for page 528.
+Processing: page_529
+  -> Provincia ads extracted for page 529.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 163 entries for page 529.
+  -> Provincia data extracted for page 529.
+  -> Page 529 added to 'JESOLO' (continuation).
+Processing: page_530
+  -> Provincia ads extracted for page 530.
+  -> Semantic CSV saved: 88 entries for page 530.
+  -> Provincia data extracted for page 530.
+Processing: page_531
+  -> Provincia ads extracted for page 531.
+  -> Semantic CSV saved: 133 entries for page 531.
+  -> Provincia data extracted for page 531.
+Processing: page_532
+  -> Provincia ads extracted for page 532.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 122 entries for page 532.
+  -> Provincia data extracted for page 532.
+  -> Page 532 added to 'MEOLO' (continuation).
+Processing: page_533
+  -> Provincia ads extracted for page 533.
+  -> Semantic CSV saved: 109 entries for page 533.
+  -> Provincia data extracted for page 533.
+Processing: page_534
+  -> Provincia ads extracted for page 534.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 81 entries for page 534.
+  -> Provincia data extracted for page 534.
+  -> Page 534 added to 'MIRA' (continuation).
+Processing: page_535
+  -> Provincia ads extracted for page 535.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 186 entries for page 535.
+  -> Provincia data extracted for page 535.
+  -> Page 535 added to 'MIRA' (continuation).
+Processing: page_536
+  -> Provincia ads extracted for page 536.
+  -> Semantic CSV saved: 157 entries for page 536.
+  -> Provincia data extracted for page 536.
+Processing: page_537
+  -> Provincia ads extracted for page 537.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Semantic CSV saved: 122 entries for page 537.
+  -> Provincia data extracted for page 537.
+Processing: page_538
+  -> Provincia ads extracted for page 538.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 181 entries for page 538.
+  -> Provincia data extracted for page 538.
+  -> Page 538 added to 'MIRANO' (continuation).
+Processing: page_539
+  -> Provincia ads extracted for page 539.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 184 entries for page 539.
+  -> Provincia data extracted for page 539.
+  -> Page 539 added to 'MIRANO' (continuation).
+Processing: page_540
+  -> Provincia ads extracted for page 540.
+  -> Semantic CSV saved: 116 entries for page 540.
+  -> Provincia data extracted for page 540.
+Processing: page_541
+  -> Provincia ads extracted for page 541.
+  -> Semantic CSV saved: 121 entries for page 541.
+  -> Provincia data extracted for page 541.
+Processing: page_542
+  -> Provincia ads extracted for page 542.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 150 entries for page 542.
+  -> Provincia data extracted for page 542.
+  -> Page 542 added to 'NOALE' (continuation).
+Processing: page_543
+  -> Provincia ads extracted for page 543.
+  -> Semantic CSV saved: 147 entries for page 543.
+  -> Provincia data extracted for page 543.
+Processing: page_544
+  -> Provincia ads extracted for page 544.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 136 entries for page 544.
+  -> Provincia data extracted for page 544.
+  -> Page 544 added to 'NOVENTA DI PIAVE' (continuation).
+Processing: page_545
+  -> Provincia ads extracted for page 545.
+  -> Semantic CSV saved: 60 entries for page 545.
+  -> Provincia data extracted for page 545.
+Processing: page_546
+  -> Provincia ads extracted for page 546.
+  -> Semantic CSV saved: 124 entries for page 546.
+  -> Provincia data extracted for page 546.
+Processing: page_547
+  -> Provincia ads extracted for page 547.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 107 entries for page 547.
+  -> Provincia data extracted for page 547.
+  -> Page 547 added to 'PORTOGRUARO' (continuation).
+Processing: page_548
+  -> Provincia ads extracted for page 548.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 154 entries for page 548.
+  -> Provincia data extracted for page 548.
+  -> Page 548 added to 'PORTOGRUARO' (continuation).
+Processing: page_549
+  -> Provincia ads extracted for page 549.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Semantic CSV saved: 62 entries for page 549.
+  -> Provincia data extracted for page 549.
+  -> Page 549 added to 'PORTOGRUARO' (continuation).
+Processing: page_550
+  -> Provincia ads extracted for page 550.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 146 entries for page 550.
+  -> Provincia data extracted for page 550.
+  -> Page 550 added to 'PORTOGRUARO' (continuation).
+Processing: page_551
+  -> Provincia ads extracted for page 551.
+  -> Semantic CSV saved: 100 entries for page 551.
+  -> Provincia data extracted for page 551.
+Processing: page_552
+  -> Provincia ads extracted for page 552.
+  -> Semantic CSV saved: 127 entries for page 552.
+  -> Provincia data extracted for page 552.
+Processing: page_553
+  -> Provincia ads extracted for page 553.
+  -> Semantic CSV saved: 103 entries for page 553.
+  -> Provincia data extracted for page 553.
+Processing: page_554
+  -> Provincia ads extracted for page 554.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 70 entries for page 554.
+  -> Provincia data extracted for page 554.
+  -> Page 554 added to 'S. DONA' DI PIAVE' (continuation).
+Processing: page_555
+  -> Provincia ads extracted for page 555.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 138 entries for page 555.
+  -> Provincia data extracted for page 555.
+  -> Page 555 added to 'S. DONA' DI PIAVE' (continuation).
+Processing: page_556
+  -> OCR refusal detected, retrying with fallback prompt...
+  -> Provincia ads extracted for page 556.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 113 entries for page 556.
+  -> Provincia data extracted for page 556.
+  -> Page 556 added to 'S. DONA' DI PIAVE' (continuation).
+Processing: page_557
+  -> Provincia ads extracted for page 557.
+  -> Semantic CSV saved: 116 entries for page 557.
+  -> Provincia data extracted for page 557.
+Processing: page_558
+  -> Provincia ads extracted for page 558.
+  -> Semantic CSV saved: 136 entries for page 558.
+  -> Provincia data extracted for page 558.
+Processing: page_559
+  -> Provincia ads extracted for page 559.
+  -> Semantic CSV saved: 105 entries for page 559.
+  -> Provincia data extracted for page 559.
+Processing: page_560
+  -> Provincia ads extracted for page 560.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 182 entries for page 560.
+  -> Provincia data extracted for page 560.
+  -> Page 560 added to 'S. STINO DI LIVENZA' (continuation).
+Processing: page_561
+  -> Provincia ads extracted for page 561.
+  -> Semantic CSV saved: 139 entries for page 561.
+  -> Provincia data extracted for page 561.
+Processing: page_562
+  -> Provincia ads extracted for page 562.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 107 entries for page 562.
+  -> Provincia data extracted for page 562.
+Processing: page_563
+  -> Provincia ads extracted for page 563.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 138 entries for page 563.
+  -> Provincia data extracted for page 563.
+Processing: page_564
+  -> Provincia ads extracted for page 564.
+  -> Semantic CSV saved: 128 entries for page 564.
+  -> Provincia data extracted for page 564.
+Processing: page_565
+  -> Provincia ads extracted for page 565.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 101 entries for page 565.
+  -> Provincia data extracted for page 565.
+Processing: page_566
+  -> Provincia ads extracted for page 566.
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 139 entries for page 566.
+  -> Provincia data extracted for page 566.
+Processing: page_567
+  -> Provincia ads extracted for page 567.
+  -> Semantic CSV saved: 107 entries for page 567.
+  -> Provincia data extracted for page 567.
+Processing: page_568
+  -> Provincia ads extracted for page 568.
+  -> Semantic CSV saved: 100 entries for page 568.
+  -> Provincia data extracted for page 568.
+  -> Page 568 added to 'TORRE DI MOSTO' (continuation).
+Processing: page_569
+  -> Provincia ads extracted for page 569.
+  -> Semantic CSV saved: 102 entries for page 569.
+  -> Provincia data extracted for page 569.
+Processing: page_570
+  -> Invalid semantic output (attempt 1), retrying...
+  -> Invalid semantic output (attempt 2), retrying...
+  -> Semantic CSV saved: 84 entries for page 570.
+  -> Provincia data extracted for page 570.
+  -> Page 570 added to 'VIGONOVO' (continuation).
+  -> Provincia CSV saved: 41 entries (version 4).
+  -> Provincia ads CSV saved: 83 entries (version 4).
