@@ -1,4 +1,3 @@
-# ============================================================
 #  VENICE ALMANAC — CONFIGURATION TEMPLATE
 #  Copy this file to config.py and fill in your local paths.
 #
@@ -6,45 +5,8 @@
 #  1. Copy this file: cp config_template.py config.py
 #  2. Create the local almanac root folder
 #  3. Fill in your absolute paths below
-#  4. The local folder structure must mirror Drive exactly:
-#
-#  Venezia_Almanac_1947/          ← LOCAL_ALMANAC_ROOT
-#      pages/                     ← PAGES_DIR (notebook 01 temp working dir)
-#      llm_ocr_results/           ← OCR_RESULTS_DIR
-#          page_10/
-#          page_11/
-#          ...
-#          provincia/
-#      logs/                      ← LOGS_DIR
-#      evaluation/                ← EVAL_OUTPUT_DIR
-#      clean_pages/               ← CLEAN_PAGES_DIR
-#      clean_pages_llm/           ← LLM_LOG_DIR (legacy LLM-arbitration selector output)
-#      geospatial/                ← GEOSPATIAL_DIR
-#          outputs/               ← GEOCODER_OUTPUT_DIR
-#          final/combined_geocoded_inside_venice.csv/.geojson  ← final combined dataset
-#          final/detail/csv/      ← FINAL_DETAIL_CSV_DIR
-#          final/detail/geojson/  ← FINAL_DETAIL_GEOJSON_DIR
-#          final/cleaning/        ← role/profession/category cleaning-stage CSVs
-#          final/audit/           ← FINAL_AUDIT_DIR
-#      ocr_choices/               ← OCR_CHOICES_DIR (notebook 00 test data)
-#          choice1_ocr_engine/
-#          choice2_architecture/
-#          choice3_diversity_validation/
-#      stats/                     ← STATS_DIR (notebook 04 outputs)
-#      stats_geo_analysis/        ← STATS_GEO_DIR (notebook 08 outputs)
-#          reference/{category,occupation,profession}/  (pinned/cached clustering state, shared across runs)
-#          RUN_TAG/
-#              general/{csv,figures}
-#              category/{csv,figures}
-#              profession/{csv,figures}
-#              occupation/{csv,figures}     (only present for runs that did occupation resolution)
-#
-#  Also under the root:
-#      almanac_1947.pdf           ← PDF_PATH (committed to git)
-#      token.pickle               ← TOKEN_PICKLE (not committed — create it yourself)
-#      credentials.json           ← CREDENTIALS_JSON (not committed — create it yourself)
-#      openapikey.txt             ← OPENAI_KEY_FILE (not committed — create it yourself)
-# ============================================================
+#  4. The local folder structure must mirror Drive exactly
+
 
 # ── Project root ─────────────────────────────────────────────
 # This folder mirrors Venezia_Almanac_1947/ on Google Drive.
@@ -59,9 +21,9 @@ CLEAN_PAGES_DIR     = LOCAL_ALMANAC_ROOT + "/clean_pages"
 PROGRESS_FILE       = LOCAL_ALMANAC_ROOT + "/progress.txt"
 GROUND_TRUTH_DIR = LOCAL_ALMANAC_ROOT + "/ground_truth"
 OCR_CHOICES_DIR  = LOCAL_ALMANAC_ROOT + "/ocr_choices"
-STATS_DIR        = LOCAL_ALMANAC_ROOT + "/stats"        # notebook 04 outputs
-STATS_GEO_DIR    = LOCAL_ALMANAC_ROOT + "/stats_geo_analysis"  # notebook 08 outputs
-LLM_LOG_DIR      = LOCAL_ALMANAC_ROOT + "/clean_pages_llm"  # legacy LLM-arbitration selector output
+STATS_DIR        = LOCAL_ALMANAC_ROOT + "/stats"        
+STATS_GEO_DIR    = LOCAL_ALMANAC_ROOT + "/stats_geo_analysis"  
+LLM_LOG_DIR      = LOCAL_ALMANAC_ROOT + "/clean_pages_llm"  
 
 # ── Geospatial files ─────────────────────────────────────────
 GEOSPATIAL_DIR      = LOCAL_ALMANAC_ROOT + "/geospatial"
@@ -79,7 +41,7 @@ FINAL_AUDIT_DIR            = FINAL_OUTPUT_DIR + "/audit"
 
 
 # ── PDF + local secrets ───────────────────────────────────────
-# PDF_PATH is committed to git, under the project root.
+# PDF_PATH is under the project root.
 # The other three are not committed — create them yourself.
 PDF_PATH         = "almanac_1947.pdf"
 TOKEN_PICKLE     = "token.pickle"
@@ -102,15 +64,15 @@ DRIVE_PROVINCIA_FOLDER   = "provincia"
 DRIVE_LLM_LOG_FOLDER     = "clean_pages_llm"
 DRIVE_STATS_FOLDER       = "stats_geo_analysis"
 DRIVE_OCR_CHOICES_FOLDER = "ocr_choices"
-DRIVE_STATS4_FOLDER      = "stats"  # notebook 04 outputs — distinct from DRIVE_STATS_FOLDER (notebook 08)
+DRIVE_STATS4_FOLDER      = "stats"  
 
 # ── Save mode ─────────────────────────────────────────────────
-# Single switch for every notebook's local/Drive I/O (see drive_utils.py).
+# for every notebook's local/Drive I/O (see drive_utils.py).
 # "local" = save/load only locally | "drive" = only Drive | "both" = both.
 SAVE_MODE = "drive"
 
 # ── Eval fallback paths ──────────────────────────────────────
 # Only used by the version selector if no eval_all_ folder is found.
-# Normally auto-detected — you should not need to change these.
+# Normally auto-detected — should not need to change these.
 EVAL_RESULTS_CSV = EVAL_OUTPUT_DIR + "/fallback_results.csv"
 EVAL_SUMMARY_CSV = EVAL_OUTPUT_DIR + "/fallback_summary.csv"

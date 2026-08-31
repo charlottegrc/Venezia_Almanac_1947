@@ -1,8 +1,5 @@
-# ============================================================
-#  VENICE ALMANAC — SHARED GOOGLE DRIVE / LOCAL I/O
 #  Auth + folder lookup + save/load helpers, shared by every notebook.
 #  save_or_upload_csv/geojson/text default to config.SAVE_MODE.
-# ============================================================
 
 import io
 import pickle
@@ -52,7 +49,7 @@ def get_drive_service():
     return _service_cache
 
 
-# ── Folders ──────────────────────────────────────────────────
+# Folders
 
 def find_folder(service, name, parent_id=None):
     # folder id by name, optionally scoped to a parent, None if not found
@@ -133,7 +130,7 @@ def drive_file_exists(service, folder_id, filename):
         return None
 
 
-# ── Downloads ────────────────────────────────────────────────
+# Downloads 
 
 def _drain(request):
     # runs a media request to completion, returns the bytes
@@ -170,7 +167,7 @@ def download_drive_file(service, file_id, dest_path):
         f.write(download_bytes(service, file_id))
 
 
-# ── Uploads ──────────────────────────────────────────────────
+# Uploads
 
 def upload_bytes(service, data, filename, mimetype, folder_id, max_retries=5):
     # uploads bytes to Drive, overwriting any same-named file
@@ -242,13 +239,9 @@ def upload_with_retry(service, body, media, max_retries=5):
     raise Exception("Failed to upload after retries")
 
 
-# ── "Find latest" helpers ───────────────────────────────────
-# For pipeline stages that pick up the newest output of an earlier stage
-# automatically (e.g. the newest eval_all_ run, the newest scores_cache_N.json)
-# rather than a hardcoded run name. Not used for stages where a specific run
-# must be pinned deliberately (e.g. NOMINATIM_RUN_NAME in 07) — there,
-# auto-latest could silently pick a debug/partial rerun instead of the
-# intended one, so a manual pointer stays correct there on purpose.
+# "Find latest" helpers 
+# For pipeline stages that pick up the newest output of an earlier stage automatically (e.g. the newest eval_all_ run, the newest scores_cache_N.json)
+
 
 def find_latest_folder_local(base_dir, prefix, prefer_prefix=None):
     # newest local subfolder starting with prefix, by mtime
@@ -323,10 +316,8 @@ def find_latest_versioned_file_drive(service, folder_id, base_name, ext):
     return file_resource, version
 
 
-# ── Local + Drive save, gated by save_mode ──────────────────
-# save_mode defaults to config.SAVE_MODE when the caller doesn't pass one,
-# so existing call sites (save_or_upload_csv(df, path, service, folder_id))
-# don't need to change.
+#  Local + Drive save
+# save_mode defaults to config.SAVE_MODE when the caller doesn't pass one
 
 _TIER_FLOAT_RE = re.compile(r"^-?\d+\.0$")
 
