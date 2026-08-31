@@ -58,7 +58,7 @@ Every other constant is a subfolder name under `LOCAL_ALMANAC_ROOT`.
 |---|---|---|
 | `almanac_1947.pdf` | `PDF_PATH` | the source PDF scan — feeds notebook 01, in the [project root](./almanac_1947.pdf) |
 | `openapikey.txt` | `OPENAI_KEY_FILE` | a plain-text file containing one line: `api_key=sk-...` (your OpenAI API key) |
-| `credentials.json` | `CREDENTIALS_JSON` | only needed if `SAVE_MODE` includes `"drive"` — an OAuth **Desktop app** client secret downloaded from the [Google Cloud Console](https://console.cloud.google.com/) (enable the Drive API on the project first) |
+| `credentials.json` | `CREDENTIALS_JSON` | only needed if `SAVE_MODE` includes `"drive"` — an OAuth **Desktop app** client secret downloaded from the Google Cloud Console (enable the Drive API on the project first) |
 | `token.pickle` | `TOKEN_PICKLE` | **don't create this yourself** — the first notebook cell that calls `get_drive_service()` opens a browser OAuth consent screen and writes this file automatically. If the token later expires, delete it and re-run. |
 
 `config_template.py`'s default paths for these four are bare filenames (e.g.
